@@ -7,10 +7,10 @@ main:
     url: /about/
 
 docs:
-  - title: Getting Started
+  - title: Useful External Links
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "Soilscapes Soil Viewer"
+        url: http://www.landis.org.uk/soilscapes/
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
