@@ -74,7 +74,7 @@ author:
 
 sidebar:
   - title: "Title"
-    image: /assets/images/nativehedge1-200.JPG
+    image: "/assets/images/nativehedge1-200.JPG"
     image_alt: "image"
     text: "This is some text over here look at it"
   - title: "Another Title"
@@ -111,7 +111,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
