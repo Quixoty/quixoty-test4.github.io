@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Landscape Design Tipsss
+title: MM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -28,8 +28,8 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:topics/:title/
-paginate: 12 # amount of posts to show
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -58,16 +58,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Userrrrr"
-  avatar : "/assets/images/nativehedge1-200.JPG"
-  bio    : "This is some generic text over here, I wonder how long it can be, can it be this long I hope so."
+  name   : "First Lastnamessss"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My1 awesome biography constrained to a sentence or two goes here."
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "Flickr"
-      icon: "fab fa-fw fa-flickr"
-      url: "https://flickr.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -77,9 +80,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "Flickr"
-      icon: "fab fa-fw fa-flickr"
-      url: "https://flickr.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -107,6 +110,6 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-topic_archive:
+tag_archive:
   type: liquid
-  path: /topics/
+  path: /tags/
