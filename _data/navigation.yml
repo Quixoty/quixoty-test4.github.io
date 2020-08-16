@@ -11,6 +11,8 @@ docs:
     children:
       - title: "Soilscapes Soil Viewer"
         url: http://www.landis.org.uk/soilscapes/
+      - title: "Magic Map"
+        url: https://magic.defra.gov.uk/
       - title: "RHS Plant Finder"
         url: https://www.rhs.org.uk/plants/search-form
       - title: "NHBC Building Near Trees"
