@@ -1,5 +1,5 @@
 ---
-title: "Guide to mixed native hedgerows (part 1)"
+title: "Guide to Mixed Native Hedgerows (part 1)"
 date: 2020-08-13T15:34:30-04:00
 tags:
   - Landscape
