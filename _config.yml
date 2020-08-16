@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "First Lastnamessss"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/nativehedge1-200.jpg"
   bio    : "My1 awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Twitter"
@@ -71,6 +71,14 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+
+sidebar:
+  - Title: "Title"
+    image: "/assets/images/nativehedge1-200.jpg"
+    image_alt: "image"
+    text: "This is some text over here look at it"
+  - Title: "Another Title"
+    text: "Here is even more text, even longer than the previous set of text"
 
 footer:
   links:
