@@ -27,9 +27,10 @@ docs:
         url: https://greenblue.com/gb/resources/soil-calculator/
       - title: "Placeholder Text"
         url: https://greenblue.com/gb/resources/soil-calculator/
-      - title: "Placeholder Text"
-        url: https://greenblue.com/gb/resources/soil-calculator/
-  - title: Species Lists
+      - title: "Trees Adjacent To Sewers"
+        url: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
+      - title: "NHBC Building Near Trees"
+        url: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
     children:
       - title: "Hedgerow Species"
         url: https://hedgerows.co.uk/Species.htm
