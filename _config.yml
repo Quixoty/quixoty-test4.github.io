@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "First Lastnamey"
-  avatar : "/assets/images/nativehedge1-200.jpg"
+  avatar : "/assets/images/nativehedge1-200.JPG"
   bio    : "My1 awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Twitter"
@@ -74,7 +74,7 @@ author:
 
 sidebar:
   - title: "Title"
-    image: /assets/images/nativehedge1-200.jpg
+    image: /assets/images/nativehedge1-200.JPG
     image_alt: "image"
     text: "This is some text over here look at it"
   - title: "Another Title"
