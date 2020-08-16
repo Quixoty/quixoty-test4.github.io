@@ -1,9 +1,7 @@
 ---
 title: "Welcome to Landscape Design Tips"
 date: 2020-08-23T15:34:30-04:00
-categories:
-  - blog
-tags:
+topics:
   - Landscape
   - Design
 ---
