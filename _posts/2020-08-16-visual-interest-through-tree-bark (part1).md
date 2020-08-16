@@ -1,6 +1,8 @@
 ---
 title: "Visual Interest Through Tree Bark (Part 1)"
 classes: wide
+sidebar:
+  nav: "docs"
 date: 2020-08-16T15:34:30-04:00
 tags:
   - Landscape
