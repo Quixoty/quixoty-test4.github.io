@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Landscape Design Tips"
+classes: wide
 date: 2020-08-10T15:34:30-04:00
 tags:
   - Landscape
