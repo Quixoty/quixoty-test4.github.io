@@ -109,4 +109,4 @@ defaults:
 
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /topics/
