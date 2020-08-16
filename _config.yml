@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Picture of the month"
+  name   : "User"
   avatar : "/assets/images/nativehedge1-200.JPG"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
