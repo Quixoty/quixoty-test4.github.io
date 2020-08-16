@@ -59,12 +59,7 @@ plugins:
 
 
 sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "This is some text over here look at it"
-  - title: "Another Title"
-    text: "Here is even more text, even longer than the previous set of text"
+  nav: "docs"
 
 footer:
   links:
