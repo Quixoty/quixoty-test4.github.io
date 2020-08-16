@@ -1,6 +1,8 @@
 ---
 title: "Guide to Mixed Native Hedgerows (Part 3)"
 classes: wide
+sidebar:
+  nav: "docs"
 date: 2020-08-15T15:34:30-04:00
 tags:
   - Landscape
