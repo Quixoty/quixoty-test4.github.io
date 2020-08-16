@@ -11,12 +11,12 @@ docs:
     children:
       - title: "Soilscapes Soil Viewer"
         url: http://www.landis.org.uk/soilscapes/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "RHS Plant Finder"
+        url: https://www.rhs.org.uk/plants/search-form
+      - title: "NHBC Building Near Trees"
+        url: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
+      - title: "GreenBlue Urban Soil Volume calulator"
+        url: https://greenblue.com/gb/resources/soil-calculator/
 
   - title: Customization
     children:
