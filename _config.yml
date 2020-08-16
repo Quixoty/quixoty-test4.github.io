@@ -108,6 +108,6 @@ defaults:
       layout: single
       author_profile: true
 
-tag_archive:
+topic_archive:
   type: liquid
   path: /topics/
