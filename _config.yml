@@ -68,7 +68,7 @@ author:
 
 sidebar:
   - title: "Title"
-    image: "/assets/images/nativehedge1-200.JPG"
+    image: http://placehold.it/350x250
     image_alt: "image"
     text: "This is some text over here look at it"
   - title: "Another Title"
@@ -76,15 +76,9 @@ sidebar:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://flickr.com/"
 
 defaults:
   # _posts
