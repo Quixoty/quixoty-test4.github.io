@@ -7,7 +7,6 @@ main:
     url: /about/
 
 docs:
-  - title: 
   - title: Useful External Links
     children:
       - title: "Soilscapes Soil Viewer"
