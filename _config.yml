@@ -62,15 +62,9 @@ author:
   avatar : "/assets/images/nativehedge1-200.JPG"
   bio    : "My1 awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://flickr.com/"
 
 sidebar:
   - title: "Title"
