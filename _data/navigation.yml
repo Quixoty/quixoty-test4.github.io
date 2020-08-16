@@ -43,6 +43,8 @@ docs:
     children:
       - title: "Schedule 9 Species"
         url: https://naturenet.net/law/sched9.html
+      - title: "UK Plant Pests"
+        url: https://www.rhs.org.uk/advice/plant-problems/pests
       - title: "Dogs Trust Poisonous Plants (.PDF)"
         url: https://www.dogstrust.org.uk/help-advice/factsheets-downloads/factsheetpoisonoussubstances09.pdf  
       
