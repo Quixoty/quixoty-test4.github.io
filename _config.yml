@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastnamessss"
+  name   : "First Lastnamey"
   avatar : "/assets/images/nativehedge1-200.jpg"
   bio    : "My1 awesome biography constrained to a sentence or two goes here."
   links:
@@ -73,11 +73,11 @@ author:
       url: "https://instagram.com/"
 
 sidebar:
-  - Title: "Title"
+  - title: "Title"
     image: "/assets/images/nativehedge1-200.jpg"
     image_alt: "image"
     text: "This is some text over here look at it"
-  - Title: "Another Title"
+  - title: "Another Title"
     text: "Here is even more text, even longer than the previous set of text"
 
 footer:
