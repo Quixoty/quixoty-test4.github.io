@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/nativehedge1-200.JPG"
   bio    : "This is some generic text over here, I wonder how long it can be, can it be this long I hope so."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
