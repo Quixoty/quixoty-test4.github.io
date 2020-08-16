@@ -17,16 +17,3 @@ docs:
         url: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
       - title: "GreenBlue Urban Soil Volume calulator"
         url: https://greenblue.com/gb/resources/soil-calculator/
-
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
