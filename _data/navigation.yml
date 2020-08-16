@@ -35,8 +35,10 @@ docs:
         url: https://www.rhs.org.uk/science/conservation-biodiversity/wildlife/plants-for-pollinators
       - title: "Drought Tolerant Trees"
         url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjiydKAxKDrAhXcQhUIHWMyC-4QFjAMegQIAhAB&url=https%3A%2F%2Fwww.forestresearch.gov.uk%2Fdocuments%2F2451%2FFR_Doick_BPG20_2015.pdf&usg=AOvVaw2GCeStSG1nIy2BLgUHV5gQ
-      - title: "Placeholder Text"
-        url: https://greenblue.com/gb/resources/soil-calculator/
+      - title: "The Lavender Garden"
+        url: http://www.thelavenderg.co.uk/catalogue.htm
+      - title: "Schedule 9 Species"
+        url: https://naturenet.net/law/sched9.html
   - title: Hard Landscape
     children:
       - title: "Paving Expert"
