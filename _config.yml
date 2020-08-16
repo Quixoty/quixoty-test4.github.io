@@ -57,11 +57,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "First Lastnamey"
-  avatar : "/assets/images/nativehedge1-200.JPG"
-  bio    : "My1 awesome biography constrained to a sentence or two goes here."
-
 
 sidebar:
   - title: "Title"
