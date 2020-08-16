@@ -104,6 +104,6 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-topic_archive:
+tag_archive:
   type: liquid
   path: /topics/
