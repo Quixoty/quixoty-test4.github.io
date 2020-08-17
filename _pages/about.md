@@ -7,6 +7,13 @@ sidebar:
 
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Joe is a landscape architect with experience primarily working on landscape designs for residential developments, and is particularly interested in designing open spaces, orchards and play areas.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The aim of landscapedesigntips.co.uk is to establish a clear and thorough compendium of tips, guides and thoughts, to help inform and provide inspiration to those with a casual and professional interest in landscape design. 
+
+There is no ‘one way’ to design landscape, and as such landscapedesigntips.co.uk is not an exhaustive guide to landscape design– however, I hope it can help provide some insight into some of my own thoughts and processes.
+
+I currently have a long list of topics I would like to cover in future posts – however, should there be any particular topics you would like me to discuss in the future, feel free to contact me at: landscapedesigntips@outlook.com
+
+Joe
+
