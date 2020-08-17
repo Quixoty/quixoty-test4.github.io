@@ -42,9 +42,9 @@ docs:
         url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjiydKAxKDrAhXcQhUIHWMyC-4QFjAMegQIAhAB&url=https%3A%2F%2Fwww.forestresearch.gov.uk%2Fdocuments%2F2451%2FFR_Doick_BPG20_2015.pdf&usg=AOvVaw2GCeStSG1nIy2BLgUHV5gQ
       - title: "Birch Cultivars (.PDF)"
         url: https://stonelanegardens.com/wp-content/uploads/2019/05/Research-of-Birch-cultivars.pdf 
-      - title: "Historical Fruit Tree Varieties"
+      - title: "Traditional Fruit Tree Varieties"
         url: http://www.bernwodeplants.co.uk/index.htm
-      - title: "Historical Fruit Tree Varieties – South England"
+      - title: "Historical Fruit Tree Varieties (South)"
         url: http://faringdonfreefood.org/local-fruit-tree-varieties-2/
 
   - title: Harmful Species Lists
@@ -79,6 +79,6 @@ docs:
         
   - title: Play Areas
     children:
-      - title: "Outdoor Sport and Play Guidance (.PDF)"
+      - title: "Outdoor Sport & Play Guidance (.PDF)"
         url: http://www.fieldsintrust.org/Upload/file/guidance/Guidance-for-Outdoor-Sport-and-Play-England-Apr18.pdf
 
