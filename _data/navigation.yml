@@ -21,10 +21,10 @@ docs:
         url: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
       - title: "Fruit Tree Rootstocks"
         url: https://www.orangepippintrees.co.uk/articles/how-to-choose-fruit-trees/fruit-tree-rootstock-tree-sizes
-      - title: "Trees Adjacent To Sewers"
-        url: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
       - title: "NHBC Building Near Trees"
         url: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
+      - title: "Trees Adjacent To Sewers (6th Ed.)"
+        url: /assets/images/sewers for adoption 6th edition.PNG
         
   - title: Plant Species Lists
     children:
@@ -48,7 +48,7 @@ docs:
         url: https://stonelanegardens.com/wp-content/uploads/2019/05/Research-of-Birch-cultivars.pdf 
 
         
-  - title: Traditional Fruit Varieties
+  - title: Fruit Tree Varieties
     children:
       - title: "Bernwode Fruit Trees"
         url: http://www.bernwodeplants.co.uk/index.htm
