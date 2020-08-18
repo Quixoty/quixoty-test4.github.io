@@ -18,4 +18,5 @@ gallery:
 ---
 
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
+
