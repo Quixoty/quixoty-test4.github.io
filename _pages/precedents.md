@@ -30,7 +30,10 @@ Bad Precedents should include examples where something hasn’t worked well in t
 * XYZXYZXYZ
 {: .notice--danger}
 
-
+Should include
+* You can now have cover images on blog pages
+* Drafts will now auto-save while writing
+{% endcapture %}{% endraw %}
 
 August 2020 - Trees in Raised Planters
 
