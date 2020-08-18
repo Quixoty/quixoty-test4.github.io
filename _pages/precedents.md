@@ -20,14 +20,14 @@ gallery:
 <BR>
   
 **Good Precedents:** ‘Good Precedents’ should include examples where something has worked well in the landscape. Examples in this category may be due to:
-* XYZXYZXYZ
-* XYZXYZXYZ
+- XYZXYZXYZ
+- XYZXYZXYZ
 {: .notice--success}
 
 
 **Bad Precedents:** ‘Bad Precedents’ should include examples where something hasn’t worked well in the landscape. Examples in this category may be due to:
-* XYZXYZXYZ
-* XYZXYZXYZ
+- XYZXYZXYZ
+- XYZXYZXYZ
 {: .notice--danger}
 
 
