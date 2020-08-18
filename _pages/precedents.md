@@ -7,8 +7,8 @@ sidebar:
 
 <figure class="half full">
 
-  <img src="/assets/images/test1.JPG" alt="placeholder image 1">
-  <img src="/assets/images/test2.JPG" alt="placeholder image 2">   
+    <img src="/assets/images/test1.JPG" alt="placeholder image 1">
+    <img src="/assets/images/test2.JPG" alt="placeholder image 2">   
     
 </figure>
 
