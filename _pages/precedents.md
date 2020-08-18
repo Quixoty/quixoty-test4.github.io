@@ -30,16 +30,22 @@ Bad Precedents should include examples where something hasn’t worked well in t
 * XYZXYZXYZ
 {: .notice--primary}
 
-{% capture notice-2 %}
+{% capture notice-1 %}
 #### Good Precedents...
 
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
+* good planning/foresight
+* good implementation
+* well maintained
+* working as intended (or better)
+* serendipity
+* creating an attractive feature
+
 {% endcapture %}
 
 <div class="notice">
-  {{ notice-2 | markdownify }}
+  {{ notice-1 | markdownify }}
 </div>
+
 August 2020 - Trees in Raised Planters
 
 {% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
