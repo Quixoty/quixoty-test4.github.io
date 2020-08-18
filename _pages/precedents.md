@@ -6,4 +6,8 @@ sidebar:
   nav: "docs"
 
 ---
-{% include figure image_path="/assets/images/test1.JPG" alt="this is a placeholder image" caption="This is a figure caption." %}
+<figure>
+  <img src="/assets/images/test2.JPG" alt="this is a placeholder image">
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
+
