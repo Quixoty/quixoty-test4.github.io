@@ -31,7 +31,7 @@ Bad Precedents should include examples where something hasn’t worked well in t
 {: .notice--primary}
 
 {% capture notice-1 %}
-#### Good Precedents...
+#### Good Precedents may be due to:
 
 * good planning/foresight
 * good implementation
@@ -45,6 +45,26 @@ Bad Precedents should include examples where something hasn’t worked well in t
 <div class="notice">
   {{ notice-1 | markdownify }}
 </div>
+
+{% capture notice-2 %}
+#### Good Precedents may be due to:
+
+- poor planning/foresight
+- unforeseen problems
+- poor implementation
+- lack of maintenance or neglect
+- low quality specification
+- not working as intended
+- forming an unattractive feature
+
+
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-2 | markdownify }}
+</div>
+
+
 
 August 2020 - Trees in Raised Planters
 
