@@ -20,23 +20,17 @@ gallery:
 <BR>
   
 **Good Precedents:** ‘Good Precedents’ should include examples where something has worked well in the landscape. Examples in this category may be due to:
+* XYZXYZXYZ
+* XYZXYZXYZ
 {: .notice--success}
 
 
 **Bad Precedents:** ‘Bad Precedents’ should include examples where something hasn’t worked well in the landscape. Examples in this category may be due to:
+* XYZXYZXYZ
+* XYZXYZXYZ
 {: .notice--danger}
 
 
-
-<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
-```
-
-{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}
 
 August 2020 - Trees in Raised Planters
 
