@@ -28,6 +28,7 @@ gallery:
 * good implementation
 * well maintained
 * working as intended (or better)
+* high quality specification
 * serendipity
 * creating an attractive feature
 
