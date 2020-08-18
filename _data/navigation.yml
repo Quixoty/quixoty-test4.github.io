@@ -13,6 +13,8 @@ docs:
         url: http://www.landis.org.uk/soilscapes/
       - title: "Magic Map"
         url: https://magic.defra.gov.uk/
+      - title: "Climate Matching Tool"
+        url: https://climatematch.org.uk/
       - title: "RHS Plant Finder"
         url: https://www.rhs.org.uk/plants/search-form
       - title: "NHBC Building Near Trees"
@@ -36,16 +38,26 @@ docs:
         url: https://www.thegardenersguild.co.uk/drought_tolerant_plants.html
       - title: "TDAG Tree Species Selection"
         url: http://www.tdag.org.uk/species-selection-for-green-infrastructure.html 
+      - title: "Tree Species Database Forest Research "
+        url: https://www.forestresearch.gov.uk/tools-and-resources/tree-species-database/
       - title: "Trees For Polluted Land"
         url: https://www.forestresearch.gov.uk/tools-and-resources/selecting-tree-species-for-landfill-regeneration/
       - title: "Drought Tolerant Trees (.PDF)"
         url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjiydKAxKDrAhXcQhUIHWMyC-4QFjAMegQIAhAB&url=https%3A%2F%2Fwww.forestresearch.gov.uk%2Fdocuments%2F2451%2FFR_Doick_BPG20_2015.pdf&usg=AOvVaw2GCeStSG1nIy2BLgUHV5gQ
       - title: "Birch Cultivars (.PDF)"
         url: https://stonelanegardens.com/wp-content/uploads/2019/05/Research-of-Birch-cultivars.pdf 
-      - title: "Traditional Fruit Tree Varieties"
+
+        
+  - title: Traditional Fruit Varieties
+    children:
+      - title: "Bernwode Fruit Trees"
         url: http://www.bernwodeplants.co.uk/index.htm
-      - title: "Local Fruit Tree Varieties (South)"
-        url: http://faringdonfreefood.org/local-fruit-tree-varieties-2/
+      - title: "Faringdon Free Food"
+        url: http://faringdonfreefood.org/local-fruit-tree-varieties-2/     
+      - title: "Gloucestershire Orchard Trust"
+        url: https://glosorchards.org/home/fruitvarieties/
+      - title: "Habitat Aid"
+        url: https://www.habitataid.co.uk/collections/apple-trees   
 
   - title: Harmful Species Lists
     children:
@@ -53,6 +65,8 @@ docs:
         url: https://naturenet.net/law/sched9.html
       - title: "UK Plant Pests"
         url: https://www.rhs.org.uk/advice/plant-problems/pests
+      - title: "Tree Pests and Diseases"
+        url: https://www.forestresearch.gov.uk/tools-and-resources/pest-and-disease-resources/
       - title: "RHS Poisonous Plants"
         url: https://www.rhs.org.uk/advice/profile?pid=524
       - title: "Dogs Trust Poisonous Plants (.PDF)"
