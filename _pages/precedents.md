@@ -38,7 +38,7 @@ gallery:
 </div>
 
 {% capture notice-2 %}
-#### Good Precedents may be due to:
+#### Bad Precedents may be due to:
 
 - poor planning/foresight
 - unforeseen problems
