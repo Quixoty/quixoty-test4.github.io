@@ -22,13 +22,13 @@ gallery:
 Good Precedents should include examples where something has worked well in the landscape. Examples in this category may be due to:
 * XYZXYZXYZ
 * XYZXYZXYZ
-{: .notice--success}
+{: .notice--primary}
 
 
 Bad Precedents should include examples where something hasn’t worked well in the landscape. Examples in this category may be due to:
 * XYZXYZXYZ
 * XYZXYZXYZ
-{: .notice--danger}
+{: .notice--primary}
 
 Should include
 * You can now have cover images on blog pages
