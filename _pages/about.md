@@ -7,11 +7,9 @@ sidebar:
 
 ---
  
-<BR><BR>
+<BR>
  
- 
- 
-2The aim of landscapedesigntips.co.uk is to establish a clear and thorough compendium of tips, guides and thoughts, to help inform and provide inspiration to those with a casual and professional interest in landscape design. 
+The aim of landscapedesigntips.co.uk is to establish a clear and thorough compendium of tips, guides and thoughts, to help inform and provide inspiration to those with a casual and professional interest in landscape design. 
 
 There is no ‘one way’ to design landscape, and as such landscapedesigntips.co.uk is not an exhaustive guide to landscape design– however, I hope it can help provide some insight into some of my own thoughts and processes.
 
