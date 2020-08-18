@@ -8,6 +8,7 @@ main:
 
 docs:
   - title: Useful External Links
+  - image: /assets/images/blackspace1.PNG
     children:
       - title: "Soilscapes Soil Viewer"
         url: http://www.landis.org.uk/soilscapes/
