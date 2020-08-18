@@ -17,6 +17,8 @@ gallery:
 
 ---
 
+<BR>
+  
 August 2020 - Trees in Raised Planters
 
 {% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
