@@ -5,11 +5,5 @@ classes: wide
 sidebar:
   nav: "docs"
 
-<figure class="half full">
-
-    <img src="/assets/images/test1.JPG" alt="placeholder image 1">
-    <img src="/assets/images/test2.JPG" alt="placeholder image 2">   
-    
-</figure>
-
 ---
+{% include figure image_path="/assets/images/test1.JPG" alt="this is a placeholder image" caption="This is a figure caption." %}
