@@ -21,7 +21,7 @@ gallery:
 <BR>
 
 
-The next winner will be announced on **30th September 2020** – with the theme **ponds or waterbodies**. To see the rules for entering, as well as information on what constitutes a 'good' and 'bad' precedent, refer to the [Precedent Gallery Info][precedent-info] page.
+The next winners will be announced on **30th September 2020** for the theme **ponds or waterbodies**. To see the rules for entering, as well as information on what constitutes a 'good' and 'bad' precedent, refer to the [Precedent Gallery Info][precedent-info] page.
 
 [precedent-info]: /precedent gallery info/
 <BR>
