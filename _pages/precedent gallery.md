@@ -19,48 +19,14 @@ gallery:
 ---
 
 <BR>
-  
-Check out the [Precedent Info][precedent-info] for more info on ...
+
+For information on what ditcates what a 'good' and 'bad' precedent is, check out the [Precedent Info][precedent-info] page.
 
 [precedent-info]: /precedent gallery info/
 
 
-{% capture notice-1 %}
-#### Good Precedents may be due to:
 
-* good planning/foresight
-* good implementation
-* well maintained
-* working as intended (or better)
-* high quality specification
-* serendipity
-* creating an attractive feature
-
-{% endcapture %}
-
-<div class="notice">
-  {{ notice-1 | markdownify }}
-</div>
-
-{% capture notice-2 %}
-#### Bad Precedents may be due to:
-
-- poor planning/foresight
-- unforeseen problems
-- poor implementation
-- lack of maintenance or neglect
-- low quality specification
-- not working as intended
-- forming an unattractive feature
-
-
-{% endcapture %}
-
-<div class="notice">
-  {{ notice-2 | markdownify }}
-</div>
-
-
+The next theme for September is **XYZ** 
 
 
 August 2020 - Trees in Raised Planters
