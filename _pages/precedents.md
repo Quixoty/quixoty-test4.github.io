@@ -16,10 +16,6 @@ gallery:
     title: "Image 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title caption"
 
 
-.float-left{
-    float: left;
-}
-
 ---
 
 <BR>
@@ -61,9 +57,11 @@ gallery:
   {{ notice-2 | markdownify }}
 </div>
 
-
-<div class="float-left"> 1 </div>
-<div class="float-left"> 2 </div>
+.float-left{
+    float: left;
+}
+<div class="float-left"> 11 </div>
+<div class="float-left"> 22 </div>
 
 
 August 2020 - Trees in Raised Planters
