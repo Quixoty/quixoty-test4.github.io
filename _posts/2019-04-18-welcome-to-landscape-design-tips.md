@@ -8,7 +8,6 @@ tags:
   - Landscape
   - Design
 ---
-<BR>
   
 It is the 23rd August 2020, and **Landscape Design Tips** is now live.
 
