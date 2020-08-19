@@ -26,7 +26,7 @@ For information on what ditcates what a 'good' and 'bad' precedent is, check out
 
 
 
-The next winner will be announced on **30th September 2020** – and the theme is **beautiful freestanding walls**. To see the rules, refer to the [Precedent Gallery Info][precedent-info] page.
+The next winner will be announced on **30th September 2020** – with the theme **ponds/waterbodies**. To see the rules for entering, refer to the [Precedent Gallery Info][precedent-info] page.
 
 <BR>
   
