@@ -63,8 +63,6 @@ The rules for this competition are that the photo:
 
 Make sure to send your photos to **landscapedesigntips@outlook.com** along with your first (and/or last) name should you want to be credited. If you can, please include a short description of why you consider the photo to be a good or bad precedent.
 
-Please note - as of yet there are no actual prizes for entering this competition, besides the glory of winning.
-
 {% capture notice-3 %}
 Please note - as of yet there are no actual prizes for entering this competition, besides the glory of winning.
 
