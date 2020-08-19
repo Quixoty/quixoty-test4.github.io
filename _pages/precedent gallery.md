@@ -28,7 +28,8 @@ For information on what ditcates what a 'good' and 'bad' precedent is, check out
 
 The next winner will be announced on **30th September 2020** – and the theme is **beautiful freestanding walls**. To see the rules, refer to the [Precedent Gallery Info][precedent-info] page.
 
-
+<BR>
+  
 August 2020 - Trees in Raised Planters
 
 {% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
