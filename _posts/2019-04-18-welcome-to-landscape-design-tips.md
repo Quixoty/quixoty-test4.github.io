@@ -8,16 +8,20 @@ tags:
   - Landscape
   - Design
 ---
-
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+<BR>
+  
+It is the 23rd August 2020, and **Landscape Design Tips** is now live.
 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+**Landscape Design Tips** aims to provide a clear and thorough compendium of tips, guides and thoughts, to help inform and provide inspiration to those with an interest in landscape design - be it on the scale of a small garden or a large residential project.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Keep an eye out for new weekly posts, as well as the monthly photograph competition for readers.
+
+<BR>
+
+For information on our monthly photo competition, refer to the [Precedent Gallery Info][precedent-info] page.
+The next winners will be announced on **30th September 2020** for the theme **ponds or waterbodies**. Winners will have their photos added to the [Precedent Gallery][precedent-gallery] page.
+
+
+[precedent-info]: /precedent gallery info/
+[precedent-gallery]: /precedent gallery/
