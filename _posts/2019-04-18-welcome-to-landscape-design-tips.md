@@ -17,8 +17,6 @@ It is the 23rd August 2020, and **Landscape Design Tips** is now live.
 
 Keep an eye out for new weekly posts, as well as the monthly photograph competition for readers.
 
-<BR>
-
 For information on our monthly photo competition, refer to the [Precedent Gallery Info][precedent-info] page.
 The next winners will be announced on **30th September 2020** for the theme **ponds or waterbodies**. Winners will have their photos added to the [Precedent Gallery][precedent-gallery] page.
 
