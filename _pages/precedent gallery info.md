@@ -7,9 +7,12 @@ sidebar:
 
 ---
 
+
 <BR>
   
-Each month there will be competition for readers to send in a photograph they have taken for inclusion in the **Precedent Gallery**
+Each month there will be competition for readers to send in a photograph they have taken for inclusion in the [Precedent Gallery.][precedent-gallery]
+
+[precedent-gallery]: /precedent gallery/
 
 The next winner will be announced on 30th September 2020 – with the theme  ‘XYZ’, so make sure to keep your eyes peeled when you’re out and about.
 
