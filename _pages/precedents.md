@@ -15,13 +15,16 @@ gallery:
     alt: "placeholder image 1"
     title: "Image 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title caption"
 
+
+.float-left{
+    float: left;
+}
+
 ---
 
 <BR>
   
-.float-left{
-    float: left;
-}
+
 
 {% capture notice-1 %}
 #### Good Precedents may be due to:
