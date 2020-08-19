@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 
 gallery:
-  - url: /assets/images/test1.JPG
+  - url: /assets/images/test2.JPG
     image_path: /assets/images/test2.JPG
     alt: "placeholder image 2"
     title: "Image 2 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title captionImage 1 title caption"
@@ -19,7 +19,9 @@ gallery:
 
 <BR>
   
-
+.float-left{
+    float: left;
+}
 
 {% capture notice-1 %}
 #### Good Precedents may be due to:
@@ -56,6 +58,9 @@ gallery:
   {{ notice-2 | markdownify }}
 </div>
 
+
+<div class="float-left"> 1 </div>
+<div class="float-left"> 2 </div>
 
 
 August 2020 - Trees in Raised Planters
