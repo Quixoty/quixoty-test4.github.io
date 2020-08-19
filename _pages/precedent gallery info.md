@@ -10,19 +10,14 @@ sidebar:
 
 <BR>
   
-Each month there will be competition for readers to send in a photograph they have taken for inclusion in the [Precedent Gallery.][precedent-gallery]
+
+At the end of each month, 2 winners will be announced for the the best examples of a **good** and **bad** precedent for that theme - with their photos added to the [Precedent Gallery.][precedent-gallery]. 
 
 [precedent-gallery]: /precedent gallery/
 
-The next winner will be announced on 30th September 2020 – with the theme  ‘XYZ’, so make sure to keep your eyes peeled when you’re out and about.
+The next winners will be announced on **30th September 2020** with the theme  **ponds or waterbodies**, so keep your eyes peeled when you’re out and about.
 
-The rules for this competition are that the photograph:
-* is related to the theme
-* has been taken by yourself relatively recently
-* does not include yourself in the photo
-
-Make sure to send your photos through to landscapedesigntips@outlook.com along with your first (and/or last) name should you want to be credited.
-
+See below for what constitutes a good and bad precedent.
 
 {% capture notice-1 %}
 #### Good Precedents may be due to:
@@ -61,4 +56,11 @@ Make sure to send your photos through to landscapedesigntips@outlook.com along w
 
 
 
+The rules for this competition are that the photo:
+* is related to the theme
+* has been taken by yourself relatively recently
+* does not include yourself in the photo
 
+Make sure to send your photos through to **landscapedesigntips@outlook.com** along with your first (and/or last) name should you want to be credited. Additional text stating why you consider the precedent image to be good or bad is also welcome
+
+Please note - as of yet there are no actual prizes for entering this competition, besides the glory of winning.
