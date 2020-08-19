@@ -5,9 +5,6 @@ classes: wide
 sidebar:
   nav: "docs"
 
-
-
-
 ---
 
 <BR>
