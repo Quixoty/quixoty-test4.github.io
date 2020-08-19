@@ -20,13 +20,13 @@ gallery:
 
 <BR>
 
-For information on what ditcates what a 'good' and 'bad' precedent is, check out the [Precedent Info][precedent-info] page.
+For information on what ditcates what a 'good' and 'bad' precedent is, check out the [Precedent Gallery Info][precedent-info] page.
 
 [precedent-info]: /precedent gallery info/
 
 
 
-The next theme for September is **XYZ** 
+The next winner will be announced on **30th September 2020** – and the theme is **beautiful freestanding walls**. To see the rules, refer to the [Precedent Gallery Info][precedent-info] page.
 
 
 August 2020 - Trees in Raised Planters
