@@ -15,7 +15,7 @@ At the end of each month, 2 winners will be announced for the the best examples 
 
 [precedent-gallery]: /precedent gallery/
 
-The next winners will be announced on **30th September 2020** with the theme  **ponds or waterbodies**, so keep your eyes peeled when you’re out and about.
+The next winners will be announced on **30th September 2020** for the theme  **ponds or waterbodies**, so keep your eyes peeled when you’re out and about.
 
 See below for what constitutes a good and bad precedent.
 
