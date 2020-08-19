@@ -20,17 +20,15 @@ gallery:
 
 <BR>
 
-For information on what ditcates what a 'good' and 'bad' precedent is, check out the [Precedent Gallery Info][precedent-info] page.
+
+The next winner will be announced on **30th September 2020** – with the theme **ponds/waterbodies**. To see the rules for entering, as well as information on what constitutes a 'good' and 'bad' precedent, check out the [Precedent Gallery Info][precedent-info] page. refer to the [Precedent Gallery Info][precedent-info] page.
 
 [precedent-info]: /precedent gallery info/
-
-
-
-The next winner will be announced on **30th September 2020** – with the theme **ponds/waterbodies**. To see the rules for entering, refer to the [Precedent Gallery Info][precedent-info] page.
-
 <BR>
   
 August 2020 - Trees in Raised Planters
+
+Good:         Bad:
 
 {% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
 
