@@ -11,7 +11,7 @@ sidebar:
 <BR>
   
 
-At the end of each month, 2 winners will be announced for the the best examples of a **good** and **bad** precedent for that theme - with their photos added to the [Precedent Gallery.][precedent-gallery]. 
+At the end of each month, 2 winners will be announced for the the best examples of a **good** and **bad** precedent for that theme - with their photos added to the [Precedent Gallery][precedent-gallery]. 
 
 [precedent-gallery]: /precedent gallery/
 
