@@ -26,9 +26,8 @@ The next winners will be announced on **30th September 2020** for the theme **po
 [precedent-info]: /precedent gallery info/
 <BR>
   
-August 2020 - Trees in Raised Planters
+**August 2020 - Trees in Raised Planters**
 
-Good:         Bad:
 
-{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
+{% include gallery id="gallery" layout="half" caption="" %}
 
