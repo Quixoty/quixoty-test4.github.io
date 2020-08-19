@@ -1,6 +1,6 @@
 ---
-permalink: /precedents/
-title: "Precedents"
+permalink: /precedent gallery/
+title: "Precedent Gallery"
 classes: wide
 sidebar:
   nav: "docs"
