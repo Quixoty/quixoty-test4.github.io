@@ -6,7 +6,7 @@ sidebar:
 classes: wide
 
 header: 
-  teaser: "/assets/image/IMG_2791.JPG"
+  teaser: "/assets/images/IMG_2791.JPG"
 
 tags:
   - Landscape
