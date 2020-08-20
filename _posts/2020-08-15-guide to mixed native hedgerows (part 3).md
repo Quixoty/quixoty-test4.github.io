@@ -11,7 +11,7 @@ tags:
   - Boundaries
   
 header:
-  teaser: https://via.placeholder.com/400x200
+  teaser: https://via.placeholder.com/300x200
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
