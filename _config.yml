@@ -22,6 +22,12 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-175494340-1"
+    anonymize_ip: false # default
+
 sidebar:
   nav: "docs"
 
