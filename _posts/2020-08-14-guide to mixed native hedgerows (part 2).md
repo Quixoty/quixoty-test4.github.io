@@ -11,7 +11,7 @@ tags:
   - Boundaries
   
 header:
-  teaser: https://via.placeholder.com/600x200
+  teaser: /assets/images/IMG_2791.JPG
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
