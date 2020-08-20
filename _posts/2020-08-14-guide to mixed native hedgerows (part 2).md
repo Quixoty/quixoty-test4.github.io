@@ -9,15 +9,6 @@ tags:
   - Design
   - Hedgerows
   - Boundaries
----
-
----
-title: "Post: Notice"
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - notice
   
 header:
   teaser: https://via.placeholder.com/600x200
