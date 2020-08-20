@@ -5,6 +5,9 @@ sidebar:
   nav: "docs"
 classes: wide
 
+header: 
+  teaser: "/assets/image/image.png"
+
 tags:
   - Landscape
   - Design
