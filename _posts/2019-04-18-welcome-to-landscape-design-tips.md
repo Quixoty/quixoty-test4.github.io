@@ -7,6 +7,10 @@ date: 2020-08-10T15:34:30-04:00
 tags:
   - Landscape
   - Design
+  
+header:
+  teaser: /assets/images/IMG_2791.JPG
+
 ---
   
 It is the 23rd August 2020, and **Landscape Design Tips** is now live.
