@@ -9,7 +9,7 @@ tags:
   - Design
   
 header:
-  teaser: /assets/images/IMG_2791.JPG
+  teaser: /assets/images/IMG_2791.JPG style="width: 600px; height: 200px;
 
 ---
   
