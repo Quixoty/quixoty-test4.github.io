@@ -9,7 +9,9 @@ tags:
   - Design
   
 header:
-  teaser: /assets/images/IMG_2791.JPG
+  teaser: https://via.placeholder.com/300x600
+
+
 
 ---
   
