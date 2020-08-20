@@ -9,7 +9,7 @@ tags:
   - Design
   
 header:
-  teaser: https://via.placeholder.com/300x600
+  teaser: https://via.placeholder.com/600x200
 
 
 
