@@ -15,7 +15,6 @@
     {% if include.type == "grid" or teaser %}
       <div class="archive__item-teaser">
         <a href="{{ post.url | relative_url }}"><img src="{{ teaser | relative_url }}" alt="{{ post.title }}"><img style="margin:0px; padding:5px;"></a>
-        <br>
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
