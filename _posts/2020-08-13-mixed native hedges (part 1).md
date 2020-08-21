@@ -1,5 +1,5 @@
 ---
-title: "Guide to Mixed Native Hedges (Part 1) - Value for Wildlife"
+title: "Mixed Native Hedges (Part 1) - Value for Wildlife"
 date: 2020-08-13T15:34:30-04:00
 sidebar:
   nav: "docs"
