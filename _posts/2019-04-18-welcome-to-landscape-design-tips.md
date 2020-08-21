@@ -14,8 +14,6 @@ header:
 
 
 ---
-  
-It is the 23rd August 2020, and **Landscape Design Tips** is now live.
 
 
 **Landscape Design Tips** aims to provide a clear and thorough compendium of tips, guides and thoughts, to help inform and provide inspiration to those with an interest in landscape design - be it on the scale of a small garden or a large residential project.
