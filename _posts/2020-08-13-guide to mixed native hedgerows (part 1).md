@@ -1,5 +1,5 @@
 ---
-title: "Guide to Mixed Native Hedgerows (Part 1)"
+title: "Guide to Mixed Native Hedges (Part 1) - Value for Wildlife"
 date: 2020-08-13T15:34:30-04:00
 sidebar:
   nav: "docs"
@@ -13,7 +13,7 @@ tags:
   - Boundaries
   
 header:
-  teaser: https://via.placeholder.com/500x200
+  teaser: /assets/images/hedgeteaser1
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
