@@ -1,5 +1,5 @@
 ---
-title: "Guide to Mixed Native Hedgerows (Part 2)"
+title: "Mixed Native Hedges (Part 2) - Value to People"
 classes: wide
 sidebar:
   nav: "docs"
@@ -11,7 +11,7 @@ tags:
   - Boundaries
   
 header:
-  teaser: https://via.placeholder.com/500x200
+  teaser: /assets/images/hedgeteaser2
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
