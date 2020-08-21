@@ -9,7 +9,7 @@ tags:
   - Design
   
 header:
-  teaser: /assets/images/welcometeaser.jpg
+  teaser: /assets/images/welcometeaser.JPG
 
 
 
