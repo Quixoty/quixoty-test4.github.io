@@ -80,13 +80,14 @@ As mentioned in part 1 of this guide, thicker hedges afford more opportunities f
 </p>
 
 <figure class="half">
-    <a href="/assets/images/hedgelayout.png"><img src="/assets/images/hedgelayout.png"></a>
+    <a href="/assets/images/hedgelayout.png"><img src="/assets/images/hedgelayout.PNG"></a>
 </figure>
 
 <p style="text-align: justify;">
 
 When planting the hedges, planting species in groups rather than evenly distributing species, can help the hedge plants to establish, as competition from different neighbours is reduced.
-[DIAGRAM OF SPECIES GROUPING]
+
+<br><br>
 
 Other elements within the hedge to consider are the ‘specimen trees’ planted within the hedge. These are typically larger growing species, for example Quercus sp. (oak), and are generally planted at larger initial sizes in tree form (usually standard tree sizes or larger, with a clear stem rather than feathered).
 
