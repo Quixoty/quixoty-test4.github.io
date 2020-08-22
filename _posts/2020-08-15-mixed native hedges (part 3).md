@@ -38,11 +38,15 @@ Native hedge plants are usually quick to grow, however in some cases clients req
 <p style="text-align: justify;">
 Once planted, a new hedge – especially one planted with smaller whips and transplants will be vulnerable. To aid the establishment of the hedge by suppressing competing weeds whilst providing nutrients, and retaining moisture, providing a 75mm layer (minimum) of bark mulch is common practice and should be topped up regularly within the establishing period. Mulch mats are an alternative solution, and can be more cost effective for larger lengths of hedge.
 <br><br>
+
+</p>
+
+<img align="left" src="/assets/images/sheepproof.jpg" style="width: 200x; margin-right: 22px;">
+
+<p style="text-align: justify;">
   
 Depending on the location, damage from wildlife such as deer and rabbits should also be considered, and appropriate measures taken. Rabbit and deer guards, or rabbit proof fencing can help the hedge establish undisturbed until it is well-established enough that it is no longer a concern. These protective measures may be biodegradable, or may require removal after the hedge has established.
 </p>
-
-<img src="/assets/images/sheepproof.jpg">
 
 <p style="text-align: justify;">
   
