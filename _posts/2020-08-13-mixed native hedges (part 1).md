@@ -16,6 +16,7 @@ header:
   teaser: /assets/images/hedgeteaser1.jpg
 ---
 
+<img src="/assets/images/hedgeteaser1.jpg" alt="no-alignment">
 
 Introduction
 A mixed native hedge (or hedge) is dense linear green feature made up of native shrub and/or tree species, and is commonly seen throughout the UK as boundaries to fields, and open spaces. Though specification, maintenance and species selection, the mixed native hedge is a very versatile tool that can provide a multitude of positive benefits and services within the landscape both to humans and wildlife alike.
