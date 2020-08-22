@@ -26,7 +26,6 @@ In this series of posts, I shall discuss the value of hedges to both wildlife an
 So to start - what value does a mixed native hedge offer within the landscape – and how can we maximise it?
 
 **Value to wildlife**
-<br>
 
 <figure style="width: 300px" class="align-right">
   <img src="http://placehold.it/300x200" alt="">
