@@ -18,6 +18,7 @@ header:
 
 <img src="/assets/images/hedgeteaser1.jpg" alt="no-alignment">
 
+<p style="text-align: justify;">
 A mixed native hedge (or hedgerow) is dense linear green feature made up of a mix of native shrub and/or tree species, and is commonly seen throughout the UK to the boundaries of fields and open spaces. Though specification, maintenance and species selection, the mixed native hedge is a very versatile tool that can provide a multitude of positive benefits within the landscape, both to humans and wildlife alike.
 
 
@@ -28,6 +29,8 @@ So to start - what value does a mixed native hedge offer within the landscape â€
 **Value to wildlife**
 
 There is no doubt that mixed native hedges are beneficial to wildlife. They can provide food through berries, nuts and pollen - for birds,  mammals, and pollinators. Foliage provides shelter and allows wildlife to safely move throughout the hedge.
+
+</p>
 
 {% capture notice-1 %}
 #### To maximise the ecological value of proposed hedges consider:
