@@ -27,7 +27,7 @@ So to start - what value does a mixed native hedge offer within the landscape â€
 
 **Value to wildlife**
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 400px" class="align-right">
   <img src="http://placehold.it/300x200" alt="">
 </figure>
 
