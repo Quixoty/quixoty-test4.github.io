@@ -39,6 +39,7 @@ Hedges can be used in many situations as a cheap, flexible and robust solution -
 <p style="text-align: justify;">
 
 **Edible hedges**
+
 <br>
 Hedges aren’t just limited to feeding wildlife – they can feed people too. Whilst the typical fruiting species within a common hedge can be toxic to humans (eg. Viburnum sp. and Ilex aquifolium) – with the right species selected within the hedge mix, a hedge can be a productive source of fruits for humans too.
 <br>
@@ -67,6 +68,8 @@ Some viable hedges species with the fruit they produce are listed below. Bear in
   {{ notice-2 | markdownify }}
 </div>
 
+<p style="text-align: justify;">
+
 **Woodfuel**
 <br>
 Hedges can also be a source for harvesting woodfuel and woodchippings, however as this is a lot more invasive than routine hedge maintenance, it is advised to do this on a rotational coppice cycle, with only a small proportion (<5%) of the hedge coppiced each year (Agricology, 2014) [ref: https://www.agricology.co.uk/resources/wood-fuel-hedges] to minimise the harm to wildlife.
@@ -82,6 +85,7 @@ Hedges are ideal for wind reductions as an impermeable barrier is not always des
 <br><br>
 As most of the wind reduction occurs within 10x the height of the hedge (E.S. Takle, 2005)[ https://www.sciencedirect.com/science/article/pii/B012348530400312X]. Hedge design and species selection can be tailored to achieve a certain level of wind reductions. See figure X for how this can be applied
 
+</p>
 [INSERT OWN DIAGRAM]
 
 
