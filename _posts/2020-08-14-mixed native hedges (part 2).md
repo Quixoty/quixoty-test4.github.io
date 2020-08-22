@@ -23,15 +23,18 @@ Hedges can be used in many situations as a cheap, flexible and robust solution -
 [agricultural hedge image]
 
 Some of the benefits hedges provide to humans include:
-The ability to screen eyesores such as built form with an attractive green barrier. As they’re quite resilient and typically welcoming of trimming, hedges can be maintained at a variety of heights tailored to the height of what is being screened or masked
+<br>
+* The ability to screen eyesores such as built form with an attractive green barrier. As they’re quite resilient and typically welcoming of trimming, hedges can be maintained at a variety of heights tailored to the height of what is being screened or masked
 [hedge screening]
 And since the cost of bareroot plants are so cheap, hedges are often a cheaper alternative to walls when it comes to providing privacy for spaces.
-Can mark the extents of ownerships which is especially common within the UK countryside
-Can be used to deter access – thorny/spiny species such as Prunus spinosa (blackthorn), Crataegus monogyna (hawthorn) and Ilex aquifolium (holly) can be introduced into a mix to prevent access in places where people should be kept away. A thorny hedge can be used with, or as an alternative to a fence, and often forms a more robust and long-lasting solution to restricting access.
 
-Edible hedges
-Hedges aren’t just limited to feeding wildlife – they can feed people too. Whilst the typical fruiting species within a common hedge can be toxic to humans (eg. Viburnum sp. and Ilex aquifolium), – with the right species selected within the hedge mix, a hedge can be a productive source of fruits for humans too.
+* Can mark the extents of ownerships which is especially common within the UK countryside
+* Can be used to deter access – thorny/spiny species such as Crataegus monogyna (hawthorn) and Ilex aquifolium (holly) can be introduced into a mix to prevent access in places where people should be kept away. A thorny hedge can be used with, or as an alternative to a fence, and often forms a more robust and long-lasting solution to restricting access.
 
+**Edible hedges**
+<br>
+Hedges aren’t just limited to feeding wildlife – they can feed people too. Whilst the typical fruiting species within a common hedge can be toxic to humans (eg. Viburnum sp. and Ilex aquifolium) – with the right species selected within the hedge mix, a hedge can be a productive source of fruits for humans too.
+<br>
 Some viable hedges species with the fruit they produce are listed below. Bear in mind the picking time (shown in brackets) can vary depending on the local climate, as well as the plant variety.
 
 </p>
