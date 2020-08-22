@@ -53,10 +53,10 @@ There is no doubt that mixed native hedges are beneficial to wildlife. They can 
   {{ notice-1 | markdownify }}
 </div>
 
-<img align="left" src="/assets/images/widebasehedge.jpg" style="width: 450x; margin-right: 22px">
+<img align="left" src="/assets/images/widebasehedge.jpg" style="width: 350x; margin-right: 22px">
 
 <p style="text-align: justify;">
   
-Whilst providing these benefits for wildlife may not be a priority for clients or developers, remember that an increased value to wildlife has a knock on effect resulting in increased value to humans – as increased habitat and food sources for pollinators aids pollination and consequently crop yield in the context of agriculture, and orchards for example.
+Whilst providing these benefits for wildlife may not be a priority for clients or developers, remember that an increased value to wildlife results in an increased value for humans – as increased habitat and food sources for pollinators aids pollination and consequently crop yield in the context of agriculture, and orchards for example.
 
 </p>
