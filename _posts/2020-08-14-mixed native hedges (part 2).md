@@ -60,15 +60,18 @@ Note: Some of these species are quite vigorous and thorny, so consider selecting
 </div>
 
 **Woodfuel**
+<br>
 Hedges can also be a source for harvesting woodfuel and woodchippings, however as this is a lot more invasive than routine hedge maintenance, it is advised to do this on a rotational coppice cycle, with only a small proportion (<5%) of the hedge coppiced each year (Agricology, 2014) [ref: https://www.agricology.co.uk/resources/wood-fuel-hedges] to minimise the harm to wildlife.
 
 **Use as Windbreaks**
-
+<br>
 Reducing wind speeds in certain situations, for example adjacent to outdoor eating spaces, agricultural crops and orchards can be beneficial for humans. These reductions in windspeeds can create nicer spaces for people to eat in, whilst improving crop yields in the context of agricultural crops and orchard trees. This is yet another problem hedges can help solve – as they can be planted to form a permeable barrier to slow windspeeds in these locations.
+<br><br>
 [Hedge by field]
 When planting a hedge for use as a windbreak, make sure to consider that the prevailing wind is from the south/ south west in the UK, and as such, a hedge perpendicular to this vector would generally be the most beneficial to reduce windspeeds. However, whilst this is a good general rule - wind direction can vary depending on the topography of the landscape and the presence of other large elements (such as buildings), so make sure to consider those elements too as a hedge with an alternate aspect could be more efficient.
+<br><br>
 Hedges are ideal for wind reductions as an impermeable barrier is not always desired, for example in the context of an orchard, protecting the flowers and pollinators from high windspeeds is important, however some degree of wind is still beneficial for pollination. Also, impermeable barriers can increase windspeeds at the ends of the barriers which can be undesirable.
-
+<br><br>
 As most of the wind reduction occurs within 10x the height of the hedge (E.S. Takle, 2005)[ https://www.sciencedirect.com/science/article/pii/B012348530400312X]. Hedge design and species selection can be tailored to achieve a certain level of wind reductions. See figure X for how this can be applied
 
 [INSERT OWN DIAGRAM]
