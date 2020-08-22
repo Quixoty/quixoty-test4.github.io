@@ -14,6 +14,9 @@ header:
   teaser: /assets/images/hedgeteaser5.jpg
 ---
 
+
+<img src="/assets/images/hedgeteaser5.jpg" alt="no-alignment">
+
 Most native UK trees and shrubs are suitable for mixed native hedges – but careful consideration should be made to maximise the potential benefits, and minimise any problems that may arise from planting the hedge.
 
 The following species are examples of trees and shrubs commonly found within UK mixed native hedges (not exhaustive): 
