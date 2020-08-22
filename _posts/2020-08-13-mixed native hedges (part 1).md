@@ -24,9 +24,12 @@ A mixed native hedge (or hedgerow) is dense linear green feature made up of a mi
 
 In this series of posts, I shall discuss the value of hedges to both wildlife and people - considering how to maximise the potential benefits through species selection, maintenance and specification of the hedge. To conclude I shall then discuss the future of the mixed hedges within the landscape in response to the changing UK climate.
 
+</p>
+
 So to start - what value does a mixed native hedge offer within the landscape – and how can we maximise it?
 
 **Value to wildlife**
+<p style="text-align: justify;">
 
 There is no doubt that mixed native hedges are beneficial to wildlife. They can provide food through berries, nuts and pollen - for birds,  mammals, and pollinators. Foliage provides shelter and allows wildlife to safely move throughout the hedge.
 
