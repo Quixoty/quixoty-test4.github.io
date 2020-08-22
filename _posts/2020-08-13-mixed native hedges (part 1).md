@@ -45,7 +45,7 @@ There is no doubt that mixed native hedges are beneficial to wildlife. They can 
   {{ notice-1 | markdownify }}
 </div>
 
-<figure style="width: 150px" class="align-right">
+<figure style="width: 400px" class="align-right">
   <img src="http://placehold.it/300x200" alt="">
 </figure>
 
