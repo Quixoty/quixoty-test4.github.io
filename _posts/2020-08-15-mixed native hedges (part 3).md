@@ -92,7 +92,7 @@ Other elements within the hedge to consider are the ‘specimen trees’ planted
 </p>
 
 <img src="/assets/images/hedgespecimentrees.JPG" alt="">
-
+<figcaption>Specimen trees in hedge </figcaption>
 
 <p style="text-align: justify;">
   
