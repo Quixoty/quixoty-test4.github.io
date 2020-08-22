@@ -40,7 +40,7 @@ There is no doubt that mixed native hedges are beneficial to wildlife. They can 
 {% capture notice-1 %}
 #### To maximise the ecological value of proposed hedges consider:
 
-* Planting and maintaining as thicker hedges (especially thicker to the base of the hedge), to provide greater sheltering opportunities, as well preventing damage to the base of the hedge 
+* Planting and maintaining as thicker hedges (especially thicker to the base of the hedge - see image below), to provide greater sheltering opportunities, as well as to prevent damage to the main stems at the base
 * Getting as much species variety within the hedge as possible, to maximise the timespan in which food sources are available for wildlife, as well as providing food for a greater variety of species, and providing a more disease and pest resilient hedge. 
 * Tailor the plant species and proportions should you wish to encourage specific species of wildlife.
 * Connect proposed hedges to existing green elements to create a strong green biodiverse network to allow wildlife to freely move.
