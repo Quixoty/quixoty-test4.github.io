@@ -26,14 +26,14 @@ In this series of posts, I shall discuss the value of hedges to both wildlife an
 So to start - what value does a mixed native hedge offer within the landscape – and how can we maximise it?
 
 **Value to wildlife**
-<br><br>
+<br>
 
 <figure style="width: 300px" class="align-right">
   <img src="http://placehold.it/300x200" alt="">
   <figcaption></figcaption>
 </figure>
 
-<br>
+<br><br>
 
 There is no doubt that mixed native hedges are beneficial to wildlife. They can provide food through berries, nuts and pollen - for birds,  mammals, and pollinators. Foliage provides shelter and allows wildlife to safely move throughout the hedge.
 [image wildlife in hedge/berries/nuts]
