@@ -74,7 +74,7 @@ Some viable hedges species with the fruit they produce are listed below. Bear in
 <br>
 
 <p style="text-align: justify;">
-Hedges can also be a source for harvesting woodfuel and woodchippings, however as this is a lot more invasive than routine hedge maintenance, it is advised to do this on a rotational coppice cycle, with only a small proportion (<5%) of the hedge coppiced each year [(Agricology, 2014)][agri-ref] to minimise harm to wildlife.
+Hedges can also be a source for harvesting woodfuel and woodchippings, however as this is a lot more invasive than routine hedge maintenance, it is advised to do this on a rotational coppice cycle, with only a small proportion (<5%) of the hedge coppiced each year [Agricology, 2014][agri-ref] to minimise harm to wildlife.
 </p>
 
 [agri-ref]: https://www.agricology.co.uk/resources/wood-fuel-hedges
