@@ -17,10 +17,11 @@ header:
 <img src="/assets/images/hedgeteaser2.jpg" alt="no-alignment">
 
 <p style="text-align: justify;">
+  
 Hedges can be used in many situations as a cheap, flexible and robust solution - providing a multitude of benefits to humans, in and not limited to the agricultural landscape, orchards, developments, open spaces and play areas.
-<br><br>
-
 </p>
+<br>
+
 {% capture notice-1 %}
 
 #### Potential benefits they bring to humans include:
@@ -86,6 +87,7 @@ Hedges are ideal for wind reductions as an impermeable barrier is not always des
 As most of the wind reduction occurs within 10x the height of the hedge (E.S. Takle, 2005)[ https://www.sciencedirect.com/science/article/pii/B012348530400312X]. Hedge design and species selection can be tailored to achieve a certain level of wind reductions. See figure X for how this can be applied
 
 </p>
+
 [INSERT OWN DIAGRAM]
 
 
