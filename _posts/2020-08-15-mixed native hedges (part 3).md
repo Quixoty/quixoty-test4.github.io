@@ -57,8 +57,6 @@ A proposed hedge with a desire line (a frequently used unplanned route or shortc
 
 </p>
 
-[INSERT IMAGE POST AND WIRE THROUGH HEDGE]
-
 **Existing Trees**
 
 <p style="text-align: justify;">
@@ -66,7 +64,6 @@ A proposed hedge with a desire line (a frequently used unplanned route or shortc
 Connecting new hedges to existing green infrastructure is very common in the UK landscape, and as such they are often planted in close proximity to existing mature trees, hedges or vegetation. Sympathetic consideration of these existing elements is important to minimise any potential damage from planting a new hedge. For this reason, when planting within ‘root protection areas’ (RPAs), or where roots of existing trees are nearby, ‘trench digging’ should be avoided. Any excavations within RPAs to accommodate new planting should be done by hand, with care taken to avoid root damage. It is also preferable that any new hedge plants within RPAs are planted at a smaller initial size to less excavation is required for planting.
 
 </p>
-[Existing hedge and tree planting]/[trench digging]
 
 **Hedge Layout** 
 
@@ -80,7 +77,12 @@ Knowing how thick you want the hedge to be is key to the layout of the hedge. He
 <p style="text-align: justify;">
   
 As mentioned in part 1 of this guide, thicker hedges afford more opportunities for wildlife, and as such are generally better for biodiversity. 
-[DIAGRAM FOR SINGLE ROW ROUBLE STAGGERED ROW AND TRIPLE – Desc: Examples of a single row, double staggered row and triple staggered row.]
+
+</p>
+
+<img src="/assets/images/hedgelayout.png" alt="no-alignment">
+
+<p style="text-align: justify;">
 
 When planting the hedges, planting species in groups rather than evenly distributing species, can help the hedge plants to establish, as competition from different neighbours is reduced.
 [DIAGRAM OF SPECIES GROUPING]
