@@ -20,8 +20,7 @@ header:
 Hedges can be used in many situations as a cheap, flexible and robust solution - providing a multitude of benefits to humans, in and not limited to the agricultural landscape, orchards, developments, open spaces and play areas.
 <br><br>
 
-[agricultural hedge image]
-
+</p>
 {% capture notice-1 %}
 
 #### Potential benefits they bring to humans include:
@@ -36,6 +35,8 @@ Hedges can be used in many situations as a cheap, flexible and robust solution -
 <div class="notice">
   {{ notice-1 | markdownify }}
 </div>
+
+<p style="text-align: justify;">
 
 **Edible hedges**
 <br>
