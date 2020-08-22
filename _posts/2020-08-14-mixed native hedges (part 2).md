@@ -24,7 +24,7 @@ Hedges can be used in many situations as a cheap, flexible and robust solution -
 
 {% capture notice-1 %}
 
-#### Potential benefits they bring to humans include:
+#### Potential benefits they bring to people includes:
 
 * The ability to screen eyesores such as built form with an attractive green barrier. As they’re quite resilient and typically welcoming of trimming, hedges can be maintained at a variety of heights tailored to the height of what is being screened or masked - also a cheap alternative to walls
 * Can mark the extents of ownerships which is especially common within the UK countryside
