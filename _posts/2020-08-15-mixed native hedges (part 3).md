@@ -17,10 +17,10 @@ header:
 
 <img src="/assets/images/hedgeteaser3.jpg" alt="no-alignment">
 
-At smaller sizes hedge plants are usually planted as whips or transplants – either as bareroot plants or within pots. Bareroot plants are fairly cheap to source, however they do need to be planted within autumn or non-icy winter months. Potted plants, whilst more expensive than their bareroot counterparts, are more flexible in this regard – and as such can pretty much be planted within any of the seasons (except summer). Pot plants are also more likely to survive as they generally have a larger proportion of their roots still intact.
+Hedges are usually planted as whips or transplants – either as bareroot plants or within pots. Bareroot plants are fairly cheap to source, however they do need to be planted within autumn or non-icy winter months. Potted plants, whilst more expensive than their bareroot counterparts, are more flexible in this regard – and as such can pretty much be planted within any of the seasons (except summer). Pot plants are also more likely to survive as they generally have a larger proportion of their roots still intact.
 [INSERT BAREROOT HEDGE SPECIES IMAGE][pot] [bareroot]
 
-Native hedge plants are usually quick to grow, however in some cases clients require a more immediate initial impact from the hedge– in which case planting trees in ‘feathered’ form may be more suitable. Plants planted at larger initial sizes are generally more resistant to vandalism and pests, but can take longer to establish.
+Native hedge plants are usually quick to grow, however in some cases clients require a more immediate initial impact from the hedge– in which case planting trees with a ‘feathered’ form may be more suitable. Plants planted at larger initial sizes are generally more resistant to vandalism and pests, but can take longer to establish.
 
 [INSERT FEATHER IMAGE]
 
@@ -36,7 +36,7 @@ Connecting new hedges to existing green infrastructure is very common in the UK 
 
 [Existing hedge and tree planting]/[trench digging]
 
-Hedge Layout 
+**Hedge Layout** 
 
 Knowing how thick you want the hedge to be is key to the layout of the hedge. Hedges are usually planted in single rows or in double staggered formations, however hedges in Devon and Cornwall area often can reach several meters thick, with a specification beyond triple staggered formations. 
 
