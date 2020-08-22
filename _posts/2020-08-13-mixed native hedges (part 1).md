@@ -37,7 +37,21 @@ There is no doubt that mixed native hedges are beneficial to wildlife. They can 
 
 </p>
 
+{% capture notice-1 %}
+#### To maximise the ecological value of proposed hedges consider:
 
+* Planting and maintaining as thicker hedges (especially thicker to the base of the hedge), to provide greater sheltering opportunities, as well preventing damage to the base of the hedge 
+* Getting as much species variety within the hedge as possible, to maximise the timespan in which food sources are available for wildlife, as well as providing food for a greater variety of species, and providing a more disease and pest resilient hedge. 
+* Tailor the plant species and proportions should you wish to encourage specific species of wildlife.
+* Connect proposed hedges to existing green elements to create a strong green biodiverse network to allow wildlife to freely move.
+* Retain, enhance and supplement existing mixed hedges where required. Where species diversity is low, or large gaps have formed in existing hedges, additional mixed hedge planting could be beneficial. 
+* Remember to avoid any hedge maintenance in the bird nesting season (bird nesting season is between February – August)
+
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-1 | markdownify }}
+</div>
 
 <p style="text-align: justify;">
   <figure style="width: 500px" class="align-left">
