@@ -53,8 +53,8 @@ There is no doubt that mixed native hedges are beneficial to wildlife. They can 
 </div>
 
 <p>
-  <figure style="width: 400px" class="align-left">
-    <img src="/assets/images/widebasehedge.jpg" alt="align-center">
+  <figure style="width: 400px" class="align-center">
+    <img src="/assets/images/widebasehedge.jpg" alt="">
     <figcaption>Hedge with a wide base</figcaption>
   </figure>
 </p>
