@@ -28,6 +28,8 @@ Native hedge plants are usually quick to grow, however in some cases clients req
 </p>
 [INSERT FEATHER IMAGE]
 
+**Protecting Hedges**
+
 <p style="text-align: justify;">
 Once planted, a new hedge – especially one planted with smaller whips and transplants will be vulnerable. To aid the establishment of the hedge by suppressing competing weeds whilst providing nutrients, and retaining moisture, providing a 75mm layer (minimum) of bark mulch is common practice and should be topped up regularly within the establishing period. Mulch mats are an alternative solution, and can be more cost effective for larger lengths of hedge.
 </p>
@@ -45,6 +47,9 @@ A proposed hedge with a desire line (a frequently used unplanned route or shortc
 </p>
 
 [INSERT IMAGE POST AND WIRE THROUGH HEDGE]
+
+**Existing Trees**
+
 <p style="text-align: justify;">
   
 Connecting new hedges to existing green infrastructure is very common in the UK landscape, and as such they are often planted in close proximity to existing mature trees, hedges or vegetation. Sympathetic consideration of these existing elements is important to minimise any potential damage from planting a new hedge. For this reason, when planting within ‘root protection areas’ (RPAs), or where roots of existing trees are nearby, ‘trench digging’ should be avoided. Any excavations within RPAs to accommodate new planting should be done by hand, with care taken to avoid root damage. It is also preferable that any new hedge plants within RPAs are planted at a smaller initial size to less excavation is required for planting.
