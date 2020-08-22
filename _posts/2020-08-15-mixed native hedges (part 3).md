@@ -14,6 +14,9 @@ header:
   teaser: /assets/images/hedgeteaser3.jpg
 ---
 
+
+<img src="/assets/images/hedgeteaser3.jpg" alt="no-alignment">
+
 At smaller sizes hedge plants are usually planted as whips or transplants – either as bareroot plants or within pots. Bareroot plants are fairly cheap to source, however they do need to be planted within autumn or non-icy winter months. Potted plants, whilst more expensive than their bareroot counterparts, are more flexible in this regard – and as such can pretty much be planted within any of the seasons (except summer). Pot plants are also more likely to survive as they generally have a larger proportion of their roots still intact.
 [INSERT BAREROOT HEDGE SPECIES IMAGE][pot] [bareroot]
 
