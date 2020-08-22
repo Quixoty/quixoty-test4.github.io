@@ -61,9 +61,6 @@ Whilst providing these benefits for wildlife may not be a priority for clients o
 
 </p>
 
-<br><br>
-
-[Part 2][part-2]
 
 
 [part-2]: /mixed-native-hedges-(part-2)/
