@@ -72,7 +72,6 @@ Connecting new hedges to existing green infrastructure is very common in the UK 
 Knowing how thick you want the hedge to be is key to the layout of the hedge. Hedges are usually planted in single rows or in double staggered formations, however hedges in Devon and Cornwall area often can reach several meters thick, with a specification beyond triple staggered formations. 
 
 </p>
-[THICK HEDGE]
 
 <p style="text-align: justify;">
   
@@ -80,7 +79,7 @@ As mentioned in part 1 of this guide, thicker hedges afford more opportunities f
 
 </p>
 
-<img src="/assets/images/hedgelayout.png" alt="no-alignment">
+<img src="/assets/images/hedgelayout.png" alt="">
 
 <p style="text-align: justify;">
 
