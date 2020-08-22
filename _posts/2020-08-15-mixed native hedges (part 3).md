@@ -94,6 +94,8 @@ Other elements within the hedge to consider are the ‘specimen trees’ planted
 <img src="/assets/images/hedgespecimentrees.JPG" alt="">
 <figcaption>Specimen trees in hedge </figcaption>
 
+<br>
+
 <p style="text-align: justify;">
   
 These specimen trees can provide additional height to the hedge in certain locations for additional screening and increased visual interest. Spacing of these trees can be fixed (for example at 5m intervals) for a more formal aesthetic – or, at more random/inconsistent intervals for a more organic, less formal appearance.
