@@ -40,7 +40,7 @@ Hedges can be used in many situations as a cheap, flexible and robust solution -
 **Edible hedges**
 
 <p style="text-align: justify;">
-<br>
+
 Hedges aren’t just limited to feeding wildlife – they can feed people too. Whilst the typical fruiting species within a common hedge can be toxic to humans (eg. Viburnum sp. and Ilex aquifolium) – with the right species selected within the hedge mix, a hedge can be a productive source of fruits for humans too.
 <br><br>
 Some viable hedges species with the fruit they produce are listed below. Bear in mind the picking time (shown in brackets) can vary depending on the local climate, as well as the plant variety.
