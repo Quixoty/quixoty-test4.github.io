@@ -32,20 +32,18 @@ Hedges are usually planted as whips or transplants – either as bareroot plants
 <p style="text-align: justify;">
 Native hedge plants are usually quick to grow, however in some cases clients require an immediate initial impact from the hedge– in which case planting larger 'feathered' trees may be more suitable compared to whips. Plants planted at larger initial sizes are generally more resistant to vandalism and pests, but can take longer to establish.
 </p>
-[INSERT FEATHER IMAGE]
 
 **Protecting Hedges**
 
 <p style="text-align: justify;">
 Once planted, a new hedge – especially one planted with smaller whips and transplants will be vulnerable. To aid the establishment of the hedge by suppressing competing weeds whilst providing nutrients, and retaining moisture, providing a 75mm layer (minimum) of bark mulch is common practice and should be topped up regularly within the establishing period. Mulch mats are an alternative solution, and can be more cost effective for larger lengths of hedge.
-</p>
-
-[Mulch and mulch mat hedge image]
-<p style="text-align: justify;">
+<br><br>
   
 Depending on the location, damage from wildlife such as deer and rabbits should also be considered, and appropriate measures taken. Rabbit and deer guards, or rabbit proof fencing can help the hedge establish undisturbed until it is well-established enough that it is no longer a concern. These protective measures may be biodegradable, or may require removal after the hedge has established.
 </p>
-[RABBIT/DEER GUARD/FENCING IMAGE]
+
+<img src="/assets/images/sheepproof.jpg" alt="no-alignment">
+
 <p style="text-align: justify;">
   
 A proposed hedge with a desire line (a frequently used unplanned route or shortcut) running through it may also be vulnerable to pedestrian traffic, in which case installing a post and wire fence can help restrict access until the hedge is thick and dense enough to discourage pedestrians. By the time the hedge no longer needs a post and wire fence, it will be difficult to remove, so leaving the post and wire fence to become part of the hedge is generally the standard approach.
