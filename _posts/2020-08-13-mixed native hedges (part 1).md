@@ -11,6 +11,7 @@ tags:
   - Design
   - Hedgerows
   - Boundaries
+  - Ecology
   
 header:
   teaser: /assets/images/hedgeteaser1.jpg
