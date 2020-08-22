@@ -14,6 +14,9 @@ header:
   teaser: /assets/images/hedgeteaser4.jpg
 ---
 
+
+<img src="/assets/images/hedgeteaser4.jpg" alt="no-alignment">
+
 Hedges and foundations
 
 When it comes to building foundations and trees, mixed native hedges close to buildings can give engineer’s cause for concern. By maintaining a hedge to a fixed height (1.5m for example), and preventing the tree species in the hedge from reaching their maximum height, the water demand of the hedge, and therefore the ability to cause soil shrinkage and influence on foundations is reduced. However, not all hedges are consistently maintained, and are sometimes neglected in maintenance – meaning the tree species in the hedge are given the opportunity to grow to their full potential – which can cause problems if not considered.
