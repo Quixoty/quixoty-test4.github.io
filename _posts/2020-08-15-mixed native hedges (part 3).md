@@ -42,7 +42,7 @@ Once planted, a new hedge – especially one planted with smaller whips and tran
 Depending on the location, damage from wildlife such as deer and rabbits should also be considered, and appropriate measures taken. Rabbit and deer guards, or rabbit proof fencing can help the hedge establish undisturbed until it is well-established enough that it is no longer a concern. These protective measures may be biodegradable, or may require removal after the hedge has established.
 </p>
 
-<img src="/assets/images/sheepproof.jpg" alt="no-alignment">
+<img src="/assets/images/sheepproof.jpg">
 
 <p style="text-align: justify;">
   
