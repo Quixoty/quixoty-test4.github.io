@@ -74,9 +74,11 @@ Some viable hedges species with the fruit they produce are listed below. Bear in
 <br>
 
 <p style="text-align: justify;">
-Hedges can also be a source for harvesting woodfuel and woodchippings, however as this is a lot more invasive than routine hedge maintenance, it is advised to do this on a rotational coppice cycle, with only a small proportion (<5%) of the hedge coppiced each year (Agricology, 2014) [ref: https://www.agricology.co.uk/resources/wood-fuel-hedges] to minimise the harm to wildlife.
+Hedges can also be a source for harvesting woodfuel and woodchippings, however as this is a lot more invasive than routine hedge maintenance, it is advised to do this on a rotational coppice cycle, with only a small proportion (<5%) of the hedge coppiced each year [(Agricology, 2014)][agriref] to minimise harm to wildlife.
 </p>
-  
+
+[agriref]: https://www.agricology.co.uk/resources/wood-fuel-hedges
+
 **Use as Windbreaks**
 <br>
 
@@ -88,10 +90,11 @@ When planting a hedge for use as a windbreak, make sure to consider that the pre
 <br><br>
 Hedges are ideal for wind reductions as an impermeable barrier is not always desired, for example in the context of an orchard, protecting the flowers and pollinators from high windspeeds is important, however some degree of wind is still beneficial for pollination. Also, impermeable barriers can increase windspeeds at the ends of the barriers which can be undesirable.
 <br><br>
-As most of the wind reduction occurs within 10x the height of the hedge (E.S. Takle, 2005)[ https://www.sciencedirect.com/science/article/pii/B012348530400312X]. Hedge design and species selection can be tailored to achieve a certain level of wind reductions. See figure X for how this can be applied
+As most of the wind reduction occurs within 10x the height of the hedge [(E.S. Takle, 2005)][takleref]. Hedge design and species selection can be tailored to achieve a certain level of wind reductions. See figure X for how this can be applied
 
 </p>
 
 [INSERT OWN DIAGRAM]
 
 
+[takleref]: https://www.sciencedirect.com/science/article/pii/B012348530400312X
