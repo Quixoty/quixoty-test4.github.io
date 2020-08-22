@@ -49,9 +49,7 @@ Some viable hedges species with the fruit they produce are listed below. Bear in
 * Malus sp. – apples (varies from late summer-late august)
 * Pyrus sp. - pears (varies from late summer-late august)
 
-[INSERT IMAGES OF THE ABOVE AS HEDGE OR SEPARATE PLANTS]
-
-Note: Some of these species are quite vigorous and thorny, so consider selecting less vigorous or thornless cultivars where appropriate. 
+**Note:** Some of these species are quite vigorous and thorny, so consider selecting less vigorous or thornless cultivars where appropriate. 
 
 {% endcapture %}
 
