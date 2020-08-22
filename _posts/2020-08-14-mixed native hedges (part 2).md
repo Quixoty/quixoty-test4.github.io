@@ -16,7 +16,10 @@ header:
 
 <img src="/assets/images/hedgeteaser2.jpg" alt="no-alignment">
 
+<p style="text-align: justify;">
 Hedges can be used in many situations as a cheap, flexible and robust solution providing a multitude of benefits to humans, in and not limited to the agricultural landscape, orchards, developments, open spaces and play areas.
+  
+
 [agricultural hedge image]
 Some of the benefits hedges provide to humans include:
 The ability to screen eyesores such as built form with an attractive green barrier. As they’re quite resilient and typically welcoming of trimming, hedges can be maintained at a variety of heights tailored to the height of what is being screened or masked
@@ -30,6 +33,8 @@ Hedges aren’t just limited to feeding wildlife – they can feed people too. W
 
 Some viable hedges species with the fruit they produce are listed below. Bear in mind the picking time (shown in brackets) can vary depending on the local climate, as well as the plant variety.
 
+</p>
+
 Corylus avellana – hazel nuts (autumn)
 Ribes nigrum - black currents (summer)
 Ribes rubrum - red currents (summer-early autumn)
@@ -40,12 +45,13 @@ Sambucus nigra – elderberries and elderflower (summer)
 Malus sp. – apples (varies from late summer-late august)
 Pyrus sp. - pears (varies from late summer-late august)
 [INSERT IMAGES OF THE ABOVE AS HEDGE OR SEPARATE PLANTS]
+
 Note: Some of these species are quite vigorous and thorny, so consider selecting less vigorous or thornless cultivars where appropriate. 
 
-Woodfuel
+**Woodfuel**
 Hedges can also be a source for harvesting woodfuel and woodchippings, however as this is a lot more invasive than routine hedge maintenance, it is advised to do this on a rotational coppice cycle, with only a small proportion (<5%) of the hedge coppiced each year (Agricology, 2014) [ref: https://www.agricology.co.uk/resources/wood-fuel-hedges] to minimise the harm to wildlife.
 
-Use as windbreaks
+**Use as Windbreaks**
 
 Reducing wind speeds in certain situations, for example adjacent to outdoor eating spaces, agricultural crops and orchards can be beneficial for humans. These reductions in windspeeds can create nicer spaces for people to eat in, whilst improving crop yields in the context of agricultural crops and orchard trees. This is yet another problem hedges can help solve – as they can be planted to form a permeable barrier to slow windspeeds in these locations.
 [Hedge by field]
