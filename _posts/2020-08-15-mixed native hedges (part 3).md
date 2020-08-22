@@ -30,7 +30,7 @@ Hedges are usually planted as whips or transplants – either as bareroot plants
 
 
 <p style="text-align: justify;">
-Native hedge plants are usually quick to grow, however in some cases clients require a more immediate initial impact from the hedge– in which case planting trees with a ‘feathered’ form may be more suitable. Plants planted at larger initial sizes are generally more resistant to vandalism and pests, but can take longer to establish.
+Native hedge plants are usually quick to grow, however in some cases clients require an immediate initial impact from the hedge– in which case planting larger 'feathered' trees may be more suitable compared to whips. Plants planted at larger initial sizes are generally more resistant to vandalism and pests, but can take longer to establish.
 </p>
 [INSERT FEATHER IMAGE]
 
