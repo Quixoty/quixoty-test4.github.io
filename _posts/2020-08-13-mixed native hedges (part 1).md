@@ -20,7 +20,6 @@ header:
 
 A mixed native hedge (or hedgerow) is dense linear green feature made up of of a mix of native shrub and/or tree species, and is commonly seen throughout the UK to the boundaries of fields and open spaces. Though specification, maintenance and species selection, the mixed native hedge is a very versatile tool that can provide a multitude of positive benefits within the landscape, both to humans and wildlife alike.
 
-[HEDGE IMAGE]
 
 In this series of posts, I shall discuss the value of hedges to both wildlife and people - considering how to maximise the potential benefits through species selection, maintenance and specification of the hedge. To conclude I shall then discuss the future of the mixed hedges within the landscape in response to the changing UK climate.
 
@@ -37,6 +36,11 @@ To maximise the ecological value of proposed hedges consider:
 * Connect proposed hedges to existing green elements to create a strong green biodiverse network to allow wildlife to freely move.
 * Retain, enhance and supplement existing mixed hedges where required. Where species diversity is low, or large gaps have formed in existing hedges, additional mixed hedge planting could be beneficial. 
 * Remember to avoid any hedge maintenance in the bird nesting season (bird nesting season is between February – August)
+
+<figure style="width: 300px" class="align-right">
+  <img src="http://placehold.it/300x200" alt="">
+  <figcaption>This is a caption</figcaption>
+</figure>
 
 Whilst providing these benefits for wildlife may not be considered important or a priority for clients or developers, it is important to consider that an increased value to wildlife has a knock on effect resulting on increased value to humans – as increased habitat and food sources for pollinators aids pollination and consequently crop yield in the context of agriculture, and orchards for example.
 
