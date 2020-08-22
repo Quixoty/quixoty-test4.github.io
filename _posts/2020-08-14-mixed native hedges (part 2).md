@@ -22,14 +22,22 @@ Hedges can be used in many situations as a cheap, flexible and robust solution -
 
 [agricultural hedge image]
 
+{% capture notice-1 %}
+
+#### Benefits they bring to humans include:
 Some of the benefits hedges provide to humans include:
 <br>
 * The ability to screen eyesores such as built form with an attractive green barrier. As they’re quite resilient and typically welcoming of trimming, hedges can be maintained at a variety of heights tailored to the height of what is being screened or masked
 [hedge screening]
 And since the cost of bareroot plants are so cheap, hedges are often a cheaper alternative to walls when it comes to providing privacy for spaces.
-
 * Can mark the extents of ownerships which is especially common within the UK countryside
 * Can be used to deter access – thorny/spiny species such as Crataegus monogyna (hawthorn) and Ilex aquifolium (holly) can be introduced into a mix to prevent access in places where people should be kept away. A thorny hedge can be used with, or as an alternative to a fence, and often forms a more robust and long-lasting solution to restricting access.
+
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-1 | markdownify }}
+</div>
 
 **Edible hedges**
 <br>
@@ -39,7 +47,7 @@ Some viable hedges species with the fruit they produce are listed below. Bear in
 
 </p>
 
-{% capture notice-1 %}
+{% capture notice-2 %}
 #### Possible edible hedge species:
 
 * Corylus avellana – hazel nuts (autumn)
@@ -57,7 +65,7 @@ Some viable hedges species with the fruit they produce are listed below. Bear in
 {% endcapture %}
 
 <div class="notice">
-  {{ notice-1 | markdownify }}
+  {{ notice-2 | markdownify }}
 </div>
 
 **Woodfuel**
