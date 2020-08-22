@@ -89,8 +89,13 @@ When planting the hedges, planting species in groups rather than evenly distribu
 
 Other elements within the hedge to consider are the ‘specimen trees’ planted within the hedge. These are typically larger growing species, for example Quercus sp. (oak), and are generally planted at larger initial sizes in tree form (usually standard tree sizes or larger, with a clear stem rather than feathered).
 
+</p>
+
 <img src="/assets/images/hedgespecimentrees.JPG" alt="">
 
+
+<p style="text-align: justify;">
+  
 These specimen trees can provide additional height to the hedge in certain locations for additional screening and increased visual interest. Spacing of these trees can be fixed (for example at 5m intervals) for a more formal aesthetic – or, at more random/inconsistent intervals for a more organic, less formal appearance.
 [INFORMAL/FORMAL SPECIMEN TREES]
 
