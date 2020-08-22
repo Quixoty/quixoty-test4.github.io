@@ -17,10 +17,11 @@ header:
 <img src="/assets/images/hedgeteaser2.jpg" alt="no-alignment">
 
 <p style="text-align: justify;">
-Hedges can be used in many situations as a cheap, flexible and robust solution providing a multitude of benefits to humans, in and not limited to the agricultural landscape, orchards, developments, open spaces and play areas.
-  
+Hedges can be used in many situations as a cheap, flexible and robust solution - providing a multitude of benefits to humans, in and not limited to the agricultural landscape, orchards, developments, open spaces and play areas.
+<br><br>
 
 [agricultural hedge image]
+
 Some of the benefits hedges provide to humans include:
 The ability to screen eyesores such as built form with an attractive green barrier. As they’re quite resilient and typically welcoming of trimming, hedges can be maintained at a variety of heights tailored to the height of what is being screened or masked
 [hedge screening]
@@ -38,18 +39,17 @@ Some viable hedges species with the fruit they produce are listed below. Bear in
 {% capture notice-1 %}
 #### Possible edible hedge species:
 
-Corylus avellana – hazel nuts (autumn)
-Ribes nigrum - black currents (summer)
-Ribes rubrum - red currents (summer-early autumn)
-Ribes uva-crispa – gooseberries (summer)
-Rubus fruticosus – blackberries (summer-early autumn)
-Rubus idaeus – raspberries (summer-autumn)
-Sambucus nigra – elderberries and elderflower (summer)
-Malus sp. – apples (varies from late summer-late august)
-Pyrus sp. - pears (varies from late summer-late august)
+* Corylus avellana – hazel nuts (autumn)
+* Ribes nigrum - black currents (summer)
+* Ribes rubrum - red currents (summer-early autumn)
+* Ribes uva-crispa – gooseberries (summer)
+* Rubus fruticosus – blackberries (summer-early autumn)
+* Rubus idaeus – raspberries (summer-autumn)
+* Sambucus nigra – elderberries and elderflower (summer)
+* Malus sp. – apples (varies from late summer-late august)
+* Pyrus sp. - pears (varies from late summer-late august)
+
 [INSERT IMAGES OF THE ABOVE AS HEDGE OR SEPARATE PLANTS]
-
-
 
 Note: Some of these species are quite vigorous and thorny, so consider selecting less vigorous or thornless cultivars where appropriate. 
 
