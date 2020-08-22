@@ -81,7 +81,6 @@ As mentioned in part 1 of this guide, thicker hedges afford more opportunities f
 
 <figure class="half">
     <a href="/assets/images/hedgelayout.png"><img src="/assets/images/hedgelayout.png"></a>
-    <figcaption></figcaption>
 </figure>
 
 <p style="text-align: justify;">
