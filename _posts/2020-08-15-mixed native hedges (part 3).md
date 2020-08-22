@@ -41,7 +41,10 @@ Once planted, a new hedge – especially one planted with smaller whips and tran
 
 </p>
 
-<img align="left" src="/assets/images/sheepproof1.jpg" style="width: 200x; margin-right: 22px;">
+<figure class="half">
+    <a href="/assets/images/sheepproof2.jpg"><img src="/assets/images/sheepproof2.jpg"></a>
+    <figcaption>Sheep-proof fencing </figcaption>
+</figure>
 
 <p style="text-align: justify;">
   
