@@ -21,7 +21,13 @@ header:
 
 Hedges are usually planted as whips or transplants – either as bareroot plants or within pots. Bareroot plants are fairly cheap to source, however they do need to be planted within autumn or non-icy winter months. Potted plants, whilst more expensive than their bareroot counterparts, are more flexible in this regard – and as such can pretty much be planted within any of the seasons (except summer). Pot plants are also more likely to survive as they generally have a larger proportion of their roots still intact.
 </p>
-[INSERT BAREROOT HEDGE SPECIES IMAGE][pot] [bareroot]
+
+<figure class="half">
+    <a href="/assets/images/Chew Valley Trees, 2018.jpg"><img src="/assets/images/Chew Valley Trees, 2018.jpg"></a>
+    <a href="/assets/images/Hopes Grove Nurseries, 2020.jpg"><img src="/assets/images/Hopes Grove Nurseries, 2020.jpg"></a>
+    <figcaption>Bareroot hedge plants, and potted plant. (Image sources: Chew Valley Trees, and Hopes Grove Nurseries) </figcaption>
+</figure>
+
 
 <p style="text-align: justify;">
 Native hedge plants are usually quick to grow, however in some cases clients require a more immediate initial impact from the hedge– in which case planting trees with a ‘feathered’ form may be more suitable. Plants planted at larger initial sizes are generally more resistant to vandalism and pests, but can take longer to establish.
