@@ -44,8 +44,26 @@ One case study that suggests otherwise includes the research by Jennifer Owen in
     <figcaption>Jennifer Owen's Garden (Image Source: Wildlife of a Garden A Thirty-Year Study) </figcaption>
 </figure>
 
-[FACT BOX]
+
+{% capture notice-1 %}
+
+#### Survey Data:
+
 Out of the 15 most eaten food plants for moth larvae, 9 were alien species, whilst only 6 were native. In the case of the Phlogophora meticulosa (angle shades moth), it ate from 42 alien species and only 12 native species.
+
+{% endcapture %}
+
+
+<div class="notice">
+  {{ notice-1 | markdownify }}
+</div>
+
+<figure class="half">
+    <a href="/assets/images/angle shades, bob eade.JPG"><img src="/assets/images/angle shades, bob eade.JPG"></a>
+    <figcaption>Angle shades moth (Image source: Bob Eade) </figcaption>
+</figure>
+
+
 [angle shades]
 Whilst proposing ‘native’ mixed hedges can preserve the local character and familiar appearance of an area, it does not consider the future implications of climate change, nor the potential ecological benefits of introducing more of certain species into UK hedges.
 
