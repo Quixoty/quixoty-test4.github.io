@@ -94,7 +94,7 @@ In comparison, an informal hedge typically:
 
 
 <figure class="half">
-    <a href="/assets/images/formalhedge.jpg"><img src="/assets/images/formalhedge.jpg"></a>
+    <a href="/assets/images/formalhedge.JPG"><img src="/assets/images/formalhedge.JPG"></a>
     <a href="/assets/images/informalhedge.jpg"><img src="/assets/images/informalhedge.jpg"></a>
     <figcaption>Formal and informal hedge comparison </figcaption>
 </figure>
