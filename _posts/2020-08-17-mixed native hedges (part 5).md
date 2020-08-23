@@ -124,7 +124,13 @@ Biodiversity in a mixed native hedge is good, as it provides a greater variety o
 
 </p>
 
-It is also worth considering future problem species. The oak processionary moth is established around Greater London [https://www.forestresearch.gov.uk/tools-and-resources/pest-and-disease-resources/oak-processionary-moth-thaumetopoea-processionea/], perhaps it is worth reducing the proportion of oak in our new proposed hedges (as well as open space trees) as a pre-emptive measure?
+It is also worth considering future problem species. The oak processionary moth is established around Greater London [(Forest Research, 2019)][greater-london], perhaps it is worth reducing the proportion of oak in our new proposed hedges (as well as open space trees) as a pre-emptive measure?
+
+[greater-london]: https://www.forestresearch.gov.uk/tools-and-resources/pest-and-disease-resources/oak-processionary-moth-thaumetopoea-processionea/
+
 [OPM IMAGE]
+
+opm treecouncil 2020.JPG
+
 Whilst most LPAs encourage the planting of species diverse hedges, there are still others that encourage less diverse, species dominant mixes, such as hedges containing 70% Crataegus monogyna (hawthorn) as it’s more “in keeping” with the local character/adjacent landscape. 
 
