@@ -87,7 +87,9 @@ Species selection can minimise the maintenance required by selecting species wit
 Hedge proximity to people, paths and play areas etc is also an important factor to consider. Where people are in close proximity the hedge, make sure to avoid proposing thorny species. On the flip side of this – for areas you want to restrict access, thorny/spiny species such as Prunus spinosa (blackthorn), Crataegus monogyna (hawthorn) and Ilex aquifolium (holly) can be a beneficial addition within the mix.
 
 </p>
-[spiny hedge image]
+
+<img src="/assets/images/blackthornthorns.JPG" alt="">
+<figcaption>Blackthorn thorns </figcaption>
 
 **Problem Species**
 
