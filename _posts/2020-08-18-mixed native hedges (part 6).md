@@ -91,7 +91,11 @@ For example, one species that could be introduced into native mixes could includ
   
 Should the landscape character of an area override any benefits ecology and landscape longevity? 
 
+<br><br>
+
 Can most people actually identify whether a species in a hedge is native or even typical of a certain landscape character?
+
+<br><br>
 
 Should LPAs be less restrictive when it comes to species selection of mixed hedges to boundaries, so that more climate adaptive mixes/variations can be specified for the future?
 
