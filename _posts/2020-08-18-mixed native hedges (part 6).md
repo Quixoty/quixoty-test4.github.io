@@ -82,7 +82,7 @@ For example, one species that could be introduced into native mixes could includ
 
 <figure class="half">
     <a href="/assets/images/prunuscerasifera.JPG"><img src="/assets/images/prunuscerasifera.JPG"></a>
-    <figcaption>Prunus cerasifera in a hot dry climate(Image Source: Wildlife of a Garden A Thirty-Year Study) </figcaption>
+    <figcaption>Prunus cerasifera in a hot dry climate </figcaption>
 </figure>
 
 **A few final thoughts**
