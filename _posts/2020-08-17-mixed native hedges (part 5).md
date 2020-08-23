@@ -120,6 +120,8 @@ When it comes to mixed native hedges, one of the main and frequent concerns from
   
 Whilst these species aren’t directly bad for wildlife – in fact they both support a number of species – they still reduce the biodiversity of a hedge, and as such it is recommended that these species are specified as very low proportions of the total hedge mix (less than 5%). Other species to avoid include elm and ash, due to prominent and widespread diseases (Dutch elm disease and ash dieback).
 
+<br><br>
+
 Biodiversity in a mixed native hedge is good, as it provides a greater variety of available food over a larger period of time, to appeal to different wildlife species. It also means that should a species in the hedge be influenced by a prominent disease or pest, not all the hedge would be compromised, and whilst some gaps may form, it would be less detrimental to the hedge as a whole.
 
 </p>
@@ -132,5 +134,9 @@ It is also worth considering future problem species. The oak processionary moth 
 <img src="/assets/images/opm treecouncil 2020.jpg" alt="">
 <figcaption>Oak processionary moth caterpillars (Image source: The Tree Council, 2020) </figcaption>
 
+<br>
+
+<p style="text-align: justify;">
 Whilst most LPAs encourage the planting of species diverse hedges, there are still others that encourage less diverse, species dominant mixes, such as hedges containing 70% Crataegus monogyna (hawthorn) as it’s more “in keeping” with the local character/adjacent landscape. 
 
+</p>
