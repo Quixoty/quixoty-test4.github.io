@@ -93,7 +93,7 @@ Hedge proximity to people, paths and play areas etc is also an important factor 
 
 <p style="text-align: justify;">
   
-When it comes to mixed native hedges, one of the main and frequent concerns from Local Planning Authorities (LPAs) is in regards to ‘problem species’ which can cause problems further down the line.
+When it comes to mixed native hedges, one of the main and frequent concerns from Local Planning Authorities (LPAs) is in regards to ‘problem species’ which can cause long term problems with hedgerows.
 
 </p>
 
