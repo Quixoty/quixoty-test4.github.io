@@ -67,7 +67,11 @@ In regards to hedges in close proximity to foundations, refer to the [NHBC Build
     <figcaption>NHBC Trees by Water Demand </figcaption>
 </figure>
 
-In regards to hedge survival it’s always good to check the local conditions to give the hedge the best chance of establishing. Refer to Soilscapes Soil Viewer [http://www.landis.org.uk/soilscapes/] for local soil conditions. This can be quite important when conditions aren’t optimal for typical hedge species – for example within areas prone to waterlogging, or very clayey soils.
+In regards to hedge survival it’s always good to check the local conditions to give the hedge the best chance of establishing. Refer to the [Soilscapes Soil Viewer][soilscapes-ref] for local soil conditions. This can be quite important when conditions aren’t optimal for typical hedge species – for example within areas prone to waterlogging, or very clayey soils.
+
+[soilscapes-ref]: http://www.landis.org.uk/soilscapes/
+<br>
+
 On a particularly wet site, consider adjusting your hedge mix to include more ‘wet tolerant’ species such as Salix or Cornus sp. or consider planting the hedge on mounding similar to a Devon Hedgebank.
 [INSERT DEVON HEDGEBANK IMAGE]
 The purpose of the hedge is also fundamental in deciding what species it is made up of – for example, a hedge adjacent to an orchard may benefit from planting a greater proportion of Malus sp., and flowering species to maximise pollination of the fruit trees and consequently improve crop yields.
