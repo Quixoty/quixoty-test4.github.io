@@ -70,27 +70,35 @@ In regards to hedges in close proximity to foundations, refer to the [NHBC Build
 In regards to hedge survival it’s always good to check the local conditions to give the hedge the best chance of establishing. Refer to the [Soilscapes Soil Viewer][soilscapes-ref] for local soil conditions. This can be quite important when conditions aren’t optimal for typical hedge species – for example within areas prone to waterlogging, or very clayey soils.
 
 [soilscapes-ref]: http://www.landis.org.uk/soilscapes/
-<br>
 
 On a particularly wet site, consider adjusting your hedge mix to include more ‘wet tolerant’ species such as Salix or Cornus sp. or consider planting the hedge on mounding similar to a Devon Hedgebank.
 
 <figure class="half">
-    <a href="/assets/images/nhbctable.png"><img src="/assets/images/hedge-Rosie-Yells-2014.jpg"></a>
+    <a href="/assets/images/hedge-Rosie-Yells-2014.jpg"><img src="/assets/images/hedge-Rosie-Yells-2014.jpg"></a>
     <figcaption>New hedge planted on mounding (Image source: Rosie Yells, 2014) </figcaption>
 </figure>
 
+<p style="text-align: justify;">
+  
 The purpose of the hedge is also fundamental in deciding what species it is made up of – for example, a hedge adjacent to an orchard may benefit from planting a greater proportion of Malus sp., and flowering species to maximise pollination of the fruit trees and consequently improve crop yields.
 
 Species selection can minimise the maintenance required by selecting species with a maximum height that corresponds with the desired height of the hedge. An infrequently maintained mixed native hedge in close proximity to buildings, might be better to specified as a more shrub dominated mix, as opposed to including tree species, as trees could cause problems with building foundations if not maintained as a hedge.
 
 Hedge proximity to people, paths and play areas etc is also an important factor to consider. Where people are in close proximity the hedge, make sure to avoid proposing thorny species. On the flip side of this – for areas you want to restrict access, thorny/spiny species such as Prunus spinosa (blackthorn), Crataegus monogyna (hawthorn) and Ilex aquifolium (holly) can be a beneficial addition within the mix.
+
+</p>
 [spiny hedge image]
 
-Problem species
+**Problem species**
+
+<p style="text-align: justify;">
+  
 When it comes to mixed native hedges, one of the main and frequent concerns from Local Planning Authorities (LPAs) is in regards to ‘problem species’ which can cause problems further down the line.
 
 Prunus spinosa (blackthorn) – due to how vigorous this plant is, it can dominate many other species within the native hedge, consequently reducing the species diversity
-Sambucus nigra (elder) – as it often encourages large gaps to form within the hedge 
+Sambucus nigra (elder) – also quite vigorous and often encourages large gaps to form within the hedge 
+
+
 [INSERT blackthorn and elder images]
 Whilst these species aren’t directly bad for wildlife – in fact they both support a number of species – they still reduce the biodiversity of a hedge, and as such it is recommended that these species are specified as very low proportions of the total hedge mix (less than 5%). Other species to avoid include elm and ash, due to prominent and widespread diseases (Dutch elm disease and ash dieback).
 
