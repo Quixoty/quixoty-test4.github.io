@@ -17,11 +17,17 @@ header:
 
 <img src="/assets/images/hedgeteaser4.jpg" alt="no-alignment">
 
-Hedges and foundations
+**Hedges and foundations**
 
+<p style="text-align: justify;">
+  
 When it comes to building foundations and trees, mixed native hedges close to buildings can give engineer’s cause for concern. By maintaining a hedge to a fixed height (1.5m for example), and preventing the tree species in the hedge from reaching their maximum height, the water demand of the hedge, and therefore the ability to cause soil shrinkage and influence on foundations is reduced. However, not all hedges are consistently maintained, and are sometimes neglected in maintenance – meaning the tree species in the hedge are given the opportunity to grow to their full potential – which can cause problems if not considered.
 
-For hedges in close proximity to buildings - where you know the foundations haven’t been designed to accommodate it, or if you are unsure of the foundation design – consider using exclusively shrub species, rather than trees in the hedge mix. Alternatively refer to the NHBC Building near Trees Guidence [https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/]– which provides guidance on species selection and their ability to cause soil shrinkage.
+For hedges in close proximity to buildings - where you know the foundations haven’t been designed to accommodate it, or if you are unsure of the foundation design – consider using exclusively shrub species, rather than trees in the hedge mix. 
+
+</p>
+
+Alternatively refer to the NHBC Building near Trees Guidence [https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/]– which provides guidance on species selection and their ability to cause soil shrinkage.
 
 [image NHBC table https://mk0nhbcstandardvemac.kinstacdn.com/wp-content/uploads/4.2.4-table3.png] 
 
