@@ -14,12 +14,13 @@ header:
   teaser: /assets/images/hedgeteaser2.jpg
 ---
 
-<img src="/assets/images/hedgeteaser2.jpg" alt="no-alignment">
 
 <p style="text-align: justify;">
   
 Hedges can be used in many situations as a cheap, flexible and robust solution - providing a multitude of benefits to humans, in and not limited to the agricultural landscape, orchards, developments, open spaces and play areas.
 </p>
+
+<img src="/assets/images/hedgeteaser2.jpg" alt="no-alignment">
 
 {% capture notice-1 %}
 
