@@ -84,7 +84,6 @@ Formal mixed native hedges typically:
 - receive more trimming/maintenance for added neatness
 - have a consistent fixed width and height along its length.
 - have any specimen trees distributed at fixed intervals
-[FORMAL HEDGE – NEAT TRIMMING]
 
 <br><br>
 In comparison, an informal hedge typically:
