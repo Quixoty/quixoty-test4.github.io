@@ -98,7 +98,7 @@ When planting a hedge for use as a windbreak, make sure to consider that the pre
 Hedges are ideal for wind reductions as an impermeable barrier is not always desired, for example in the context of an orchard, protecting the flowers and pollinators from high windspeeds is important, however some degree of wind is still beneficial for pollination. Also, impermeable barriers can increase windspeeds at the ends of the barriers which can be undesirable.
 </p>
 
-As most of the wind reduction occurs within 10x the height of the hedge [(E.S. Takle, 2005)][takle-ref]. Hedge design and species selection can be tailored to achieve a certain level of wind reductions. See figure X for how this can be applied
+As most of the wind reduction occurs within 10x the height of the hedge [(E.S. Takle, 2005)][takle-ref]. Hedge design and species selection can be tailored to achieve a certain level of wind reductions. 
 
 
 
