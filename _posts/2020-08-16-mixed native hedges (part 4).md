@@ -85,7 +85,8 @@ Formal mixed native hedges typically:
 - have a consistent fixed width and height along its length.
 - have any specimen trees distributed at fixed intervals
 
-<br><br>
+<br>
+
 In comparison, an informal hedge typically:
 - receives less consistent (and less frequent) maintenance along its length 
 - may vary in width, height and species composition along its length
