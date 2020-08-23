@@ -29,5 +29,5 @@ The next winners will be announced on **30th September 2020** for the theme **po
 **August 2020 - Trees in Raised Planters**
 
 
-{% include gallery id="gallery" layout="half" caption="" %}
+{% include gallery id="gallery" layout="half" caption="XYZ" %}
 
