@@ -105,8 +105,6 @@ As most of the wind reduction occurs within 10x the height of the hedge [(E.S. T
 [takle-ref]: https://www.sciencedirect.com/science/article/pii/B012348530400312X
 
 
+<img src="/assets/images/windbreak diagram Nicole Miles.jpg" alt="">
+<figcaption>(Image source: Nicole Miles) </figcaption>
 
-<figure class="half">
-    <a href="/assets/images/windbreak diagram Nicole Miles.jpg"><img src="/assets/images/windbreak diagram Nicole Miles.jpg"></a>
-    <figcaption>(Image source: Nicole Miles) </figcaption>
-</figure>
