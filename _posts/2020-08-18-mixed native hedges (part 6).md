@@ -26,7 +26,6 @@ As mentioned in my last post, to maximise the lifespan of a hedge (and value to 
 In these scenarios should we really be prioritising landscape character over the possible ecological benefits (and better hedge longevity) of a more diverse hedge mix?
 
 </p>
-[monoculture hedge image]
 
 **Native or non-native?**
 
@@ -36,7 +35,7 @@ Likewise, LPAs are often pushing the idea of native hedges/species in landscape 
 
 <br><br>
 
-One case study that suggests otherwise includes the research by Jennifer Owen in her garden in Leicester. Her book ‘Wildlife of a Garden. A Thirty-year Study  Over 30 years Jennifer Owen surveyed over 2673 species of plants and animals – and her findings showed that non-native (alien) food plants were generally more appealing to moth larvae in comparison to native species. For more information refer to Jennifer Owen’s book ‘Wildlife of a Garden A Thirty-Year Study’.
+One case study that suggests otherwise includes the research by Jennifer Owen in her garden in Leicester. Over 30 years Jennifer Owen surveyed more than 2673 species of plants and animals – and her findings showed that non-native (alien) food plants were generally more appealing to moth larvae in comparison to native species. For more information refer to Jennifer Owen’s book ‘Wildlife of a Garden A Thirty-Year Study’.
 
 </p>
 
