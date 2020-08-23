@@ -50,9 +50,6 @@ Most native UK trees and shrubs are suitable for mixed native hedges – but car
 </div>
 
 [SPECIES IMAGES FOR THE ABOVE]
-///
-Alternatively refer to the [NHBC Building Near Trees Guidence][nhbc-ref] which provides guidance on tree species selection and their ability to cause soil shrinkage.
-///
 
 There are several species lists for hedges available online for information on the indicidual species. [The English Hedgerow Trust][hedgerow-trust] has a good list explaining how each species is beneficial to wildlife.
 <br>
