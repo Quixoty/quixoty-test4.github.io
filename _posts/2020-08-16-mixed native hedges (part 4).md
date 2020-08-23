@@ -51,6 +51,8 @@ Thickness is key when it comes to the ecological value of a hedge. The wider the
 
 [THICK HEDGE] [TAPERED HEDGE +DESC ON THICKNESS AT BASE IS GOOD]
 
+<p style="text-align: justify;">
+
 Likewise - allowing a narrow grass strip to grow adjacent to the bottom of the hedge (between 0.5-1m wide) can also help protect the base from strimming or grass cutting. This transition from hedge to tall grass to short grass could be considered an **ecotone** (a gradual transition between different habitats) - these edge habitats are particularly good at providing for species with very specific habitat requirements, and are very good for biodiversity. 
 [HEDGE GRASS STRIP]
 [ECOTONE HEDGE IMAGE]
@@ -59,14 +61,21 @@ Consider maintaining hedges on a rotational basis. Cutting no more than a third 
 
 Consider re-using waste materials from maintenance for the construction of ecological structures such as brash or log piles on site. These are great for wildlife and also means the waste material doesn’t need to be transported off site. In the context of residential developments, they can be used to offset ecological requirements.
 
+</p>
+
 <img src="/assets/images/brashpile.JPG" alt="">
 <figcaption>Brash pile </figcaption>
 
+
+<p style="text-align: justify;">
+  
 In some cases in a newly proposed hedge, a particular species (such as Prunus spinosa – blackthorn) may have begun to outcompete the less vigorous species in the mix. In which case it could be beneficial to remove a proportion of the species in question, and replace with a less vigorous species.
 
 [Note:] Remember to avoid any hedge maintenance (trimming or removal) in the bird nesting season between February – August. Maintenance within bird nesting season can be harmful to nesting birds and result in legal ramifications
 
-Formal vs informal
+</p>
+
+**Formal vs informal**
 
 Formal mixed native hedges typically:
 
