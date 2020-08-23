@@ -20,8 +20,6 @@ header:
 <img src="/assets/images/hedgeteaser1.jpg" alt="no-alignment">
 
 A mixed native hedge (or hedgerow) is dense linear green feature made up of a mix of native shrub and/or tree species, and is commonly seen throughout the UK to the boundaries of fields and open spaces. Though specification, maintenance and species selection, the mixed native hedge is a very versatile tool that can provide a multitude of positive benefits within the landscape, both to humans and wildlife alike.
-  
-<br><br>
 
 <p style="text-align: justify;">
   
