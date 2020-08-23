@@ -17,8 +17,11 @@ header:
 
 <img src="/assets/images/hedgeteaser5.jpg" alt="no-alignment">
 
+<p style="text-align: justify;">
+  
 Most native UK trees and shrubs are suitable for mixed native hedges – but careful consideration should be made to maximise the potential benefits, and minimise any problems that may arise from planting the hedge.
 
+</p>
 
 {% capture notice-1 %}
 
