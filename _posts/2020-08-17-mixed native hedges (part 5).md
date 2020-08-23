@@ -80,7 +80,7 @@ On a particularly wet site, consider adjusting your hedge mix to include more �
 
 <p style="text-align: justify;">
   
-The purpose of the hedge is also fundamental in deciding what species it is made up of – for example, a hedge adjacent to an orchard may benefit from planting a greater proportion of Malus sp., and flowering species to maximise pollination of the fruit trees and consequently improve crop yields.
+The purpose of the hedge is also fundamental in deciding what species it is made up of – for example, a hedge adjacent to an orchard may benefit from planting a greater proportion of Malus sp. and flowering species to maximise pollination of the fruit trees and consequently improve crop yields.
 <br><br>
 Species selection can minimise the maintenance required by selecting species with a maximum height that corresponds with the desired height of the hedge. An infrequently maintained mixed native hedge in close proximity to buildings, may be better specified as a more shrub dominated mix, as opposed to including tree species, as trees could cause problems with building foundations if not maintained as a hedge.
 <br><br>
