@@ -67,7 +67,7 @@ In regards to hedges in close proximity to foundations, refer to the [NHBC Build
     <figcaption>NHBC Trees by Water Demand </figcaption>
 </figure>
 
-In regards to hedge survival it’s always good to check the local conditions to give the hedge the best chance of establishing. Refer to the [Soilscapes Soil Viewer][soilscapes-ref] for local soil conditions. This can be quite important when conditions aren’t optimal for typical hedge species – for example within areas prone to waterlogging, or very clayey soils.
+It’s always good to check the local site conditions to give the hedges the best chance of establishing. Refer to the [Soilscapes Soil Viewer][soilscapes-ref] for local soil conditions. This can be quite important when conditions aren’t optimal for typical hedge species – for example within areas prone to waterlogging, or very clayey soils.
 
 [soilscapes-ref]: http://www.landis.org.uk/soilscapes/
 
@@ -112,7 +112,7 @@ When it comes to mixed native hedges, one of the main and frequent concerns from
 
 <figure class="half">
     <a href="/assets/images/blackthorn.JPG"><img src="/assets/images/blackthorn.JPG"></a>
-    <a href="/assets/images/elder.JPG"><img src="/assets/images/elder.jpg"></a>
+    <a href="/assets/images/elder.JPG"><img src="/assets/images/elder.JPG"></a>
     <figcaption>Blackthorn and elder </figcaption>
 </figure>
 
