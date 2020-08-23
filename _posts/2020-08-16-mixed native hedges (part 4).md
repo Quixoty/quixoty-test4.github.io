@@ -31,7 +31,10 @@ Alternatively refer to the [NHBC Building Near Trees Guidence][nhbc-ref] which p
 
 [nhbc-ref]: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
 
-
+<figure class="half">
+    <a href="/assets/images/nhbctable.png"><img src="/assets/images/nhbctable.png"></a>
+    <figcaption>NHBC Trees by Water Demand </figcaption>
+</figure>
 
 
 **Ecological maintenance**
