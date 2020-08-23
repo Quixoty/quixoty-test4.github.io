@@ -128,9 +128,8 @@ It is also worth considering future problem species. The oak processionary moth 
 
 [greater-london]: https://www.forestresearch.gov.uk/tools-and-resources/pest-and-disease-resources/oak-processionary-moth-thaumetopoea-processionea/
 
-[OPM IMAGE]
 
-<img src="/assets/images/opm treecouncil 2020.JPG" alt="">
+<img src="/assets/images/opm treecouncil 2020.jpg" alt="">
 <figcaption>Oak processionary moth (Image source: The Tree Council, 2020) </figcaption>
 
 Whilst most LPAs encourage the planting of species diverse hedges, there are still others that encourage less diverse, species dominant mixes, such as hedges containing 70% Crataegus monogyna (hawthorn) as it’s more “in keeping” with the local character/adjacent landscape. 
