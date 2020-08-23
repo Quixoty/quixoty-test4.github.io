@@ -58,12 +58,17 @@ Thickness is key when it comes to the ecological value of a hedge. The wider the
 
 Likewise - allowing a narrow grass strip to grow adjacent to the bottom of the hedge (between 0.5-1m wide) can also help protect the base from strimming or grass cutting. This transition from hedge to tall grass to short grass can be considered an 'ecotone' (a gradual transition between different habitats) - these edge habitats are particularly good at providing for species with very specific habitat requirements, and are especially good for biodiversity. 
 
+
+</p>
+
 <figure class="half">
     <a href="/assets/images/grassstrip1.JPG"><img src="/assets/images/grassstrip1.JPG"></a>
     <a href="/assets/images/grassstrip2.JPG"><img src="/assets/images/grassstrip2.JPG"></a>
     <figcaption>Hedges with adjacent grass strips </figcaption>
 </figure>
 
+<p style="text-align: justify;">
+  
 Consider maintaining hedges on a rotational basis. Cutting no more than a third of the total hedge in any one year is considered beneficial for wildlife. This means that in any one year, a variety of hedge habitat and food sources are always available.  
 
 Consider re-using waste materials from maintenance for the construction of ecological structures such as brash or log piles on site. These are great for wildlife and also means the waste material doesn’t need to be transported off site. In the context of residential developments, they can be used to offset ecological requirements.
