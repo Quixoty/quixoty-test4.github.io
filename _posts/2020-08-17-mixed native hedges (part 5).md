@@ -61,6 +61,15 @@ For viable species for an edible hedge, refer to [Part 2][part-2] of this series
 [hedgerow-trust]: https://hedgerows.co.uk/Species.htm
 [part-2]: /mixed-native-hedges-(part-2)/
 
+In regards to hedges in close proximity to foundations, refer to the [NHBC Building Near Trees Guidence][nhbc-ref] which provides guidance on tree species selection based on their ability to cause soil shrinkage.
+
+[nhbc-ref]: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
+
+<figure class="half">
+    <a href="/assets/images/nhbctable.png"><img src="/assets/images/nhbctable.png"></a>
+    <figcaption>NHBC Trees by Water Demand </figcaption>
+</figure>
+
 In regards to hedge survival it’s always good to check the local conditions to give the hedge the best chance of establishing. Refer to Soilscapes Soil Viewer [http://www.landis.org.uk/soilscapes/] for local soil conditions. This can be quite important when conditions aren’t optimal for typical hedge species – for example within areas prone to waterlogging, or very clayey soils.
 On a particularly wet site, consider adjusting your hedge mix to include more ‘wet tolerant’ species such as Salix or Cornus sp. or consider planting the hedge on mounding similar to a Devon Hedgebank.
 [INSERT DEVON HEDGEBANK IMAGE]
