@@ -99,7 +99,7 @@ Remember to avoid any hedge maintenance (trimming or removal) in the bird nestin
 </div>
 
 
-**Formal vs informal**
+**Formal or informal?**
 
 Formal mixed native hedges typically:
 
