@@ -132,7 +132,7 @@ It is also worth considering future problem species. The oak processionary moth 
 
 
 <img src="/assets/images/opm treecouncil 2020.jpg" alt="">
-<figcaption>Oak processionary moth caterpillars (Image source: The Tree Council, 2020) </figcaption>
+<figcaption>Oak processionary moth caterpillar (Image source: The Tree Council, 2020) </figcaption>
 
 <br>
 
