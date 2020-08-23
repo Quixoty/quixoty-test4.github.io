@@ -58,7 +58,7 @@ There are several species lists for hedges available online for information on t
 <br>
 For viable species for an edible hedge, refer to [Part 2][part-2] of this series of posts.
 
-[hedgerow-trust]: https://hedges.co.uk/Species.htm
+[hedgerow-trust]: https://hedgerows.co.uk/Species.htm
 [part-2]: /mixed-native-hedges-(part-2)/
 
 In regards to hedge survival it’s always good to check the local conditions to give the hedge the best chance of establishing. Refer to Soilscapes Soil Viewer [http://www.landis.org.uk/soilscapes/] for local soil conditions. This can be quite important when conditions aren’t optimal for typical hedge species – for example within areas prone to waterlogging, or very clayey soils.
