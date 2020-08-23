@@ -31,13 +31,19 @@ Alternatively refer to the NHBC Building near Trees Guidence [https://nhbc-stand
 
 [image NHBC table https://mk0nhbcstandardvemac.kinstacdn.com/wp-content/uploads/4.2.4-table3.png] 
 
-Maintaining for wildlife
+**
+
+Ecological maintenance**
+
+<p style="text-align: justify;">
 
 How a hedge is maintained is fundamental in how much wildlife it can support. A hedge receiving either too little or too much maintenance can cause reductions in the overall biodiversity of the hedge. 
 
 Achieving this balance, along with a few of the following tips can help maximise wildlife.
 
 Thickness is key when it comes to the ecological value of a hedge. The wider the better – especially to the bottom of the hedge due to the increased sheltering opportunities for ground-based animals. Because of this, prioritising width over height can be beneficial. A wider base also helps to protect the roots and base stems from any damage during routine hedge maintenance.
+
+</p>
 
 [THICK HEDGE] [TAPERED HEDGE +DESC ON THICKNESS AT BASE IS GOOD]
 
