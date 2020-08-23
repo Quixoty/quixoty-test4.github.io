@@ -14,7 +14,6 @@ header:
   teaser: /assets/images/hedgeteaser3.jpg
 ---
 
-
 Hedges are usually planted as whips or transplants – either as bareroot plants or within pots. Bareroot plants are fairly cheap to source, however they do need to be planted within autumn or non-icy winter months. 
 
 
