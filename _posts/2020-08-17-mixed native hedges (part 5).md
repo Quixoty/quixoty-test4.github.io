@@ -109,7 +109,12 @@ When it comes to mixed native hedges, one of the main and frequent concerns from
   {{ notice-2 | markdownify }}
 </div>
 
-[INSERT blackthorn and elder images]
+
+<figure class="half">
+    <a href="/assets/images/blackthorn.JPG"><img src="/assets/images/blackthorn.JPG"></a>
+    <a href="/assets/images/elder.JPG"><img src="/assets/images/elder.jpg"></a>
+    <figcaption>Blackthorn and elder </figcaption>
+</figure>
 
 <p style="text-align: justify;">
   
