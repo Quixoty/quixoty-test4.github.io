@@ -19,23 +19,33 @@ header:
 
 Most native UK trees and shrubs are suitable for mixed native hedges – but careful consideration should be made to maximise the potential benefits, and minimise any problems that may arise from planting the hedge.
 
-The following species are examples of trees and shrubs commonly found within UK mixed native hedges (not exhaustive): 
 
-Acer campestre (tree)
-Alnus glutinosa (tree)
-Betula pendula/Betula pubescens (tree)
-Carpinus betulus (tree)
-Cornus sanguinea (shrub)
-Corylus avellana (tree/shrub)
-Crataegus monogyna (tree)
-Fagus sylvatica (tree)
-Ilex aquifolium (tree)
-Malus sylvestris (tree)
-Prunus spinosa (tree)
-Quercus robur/Quercus petraea (tree)
-Sambucus nigra (shrub)
-Sorbus aucuparia (tree)
-Viburnum opulus (shrub)
+{% capture notice-1 %}
+
+#### The following species are examples of trees and shrubs commonly found within UK mixed native hedges (not exhaustive): 
+
+* Acer campestre (tree)
+* Alnus glutinosa (tree)
+* Betula pendula/Betula pubescens (tree)
+* Carpinus betulus (tree)
+* Cornus sanguinea (shrub)
+* Corylus avellana (tree/shrub)
+* Crataegus monogyna (tree)
+* Fagus sylvatica (tree)
+* Ilex aquifolium (tree)
+* Malus sylvestris (tree)
+* Prunus spinosa (tree)
+* Quercus robur/Quercus petraea (tree)
+* Sambucus nigra (shrub)
+* Sorbus aucuparia (tree)
+* Viburnum opulus (shrub)
+
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-1 | markdownify }}
+</div>
+
 [SPECIES IMAGES FOR THE ABOVE]
 There are several species lists for hedges available online, including  https://hedges.co.uk/Species.htm which explains how each species is beneficial to wildlife.
 For viable species for an edible hedge, refer to Part 2[LINK] of this series.
