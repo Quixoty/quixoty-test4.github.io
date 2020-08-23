@@ -27,9 +27,12 @@ For hedges in close proximity to buildings - where you know the foundations have
 
 </p>
 
-Alternatively refer to the NHBC Building near Trees Guidence [https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/]– which provides guidance on species selection and their ability to cause soil shrinkage.
+Alternatively refer to the [NHBC Building Near Trees Guidence][nhbc-ref] which provides guidance on tree species selection and their ability to cause soil shrinkage.
 
-[image NHBC table https://mk0nhbcstandardvemac.kinstacdn.com/wp-content/uploads/4.2.4-table3.png] 
+[nhbc-ref]: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
+
+
+
 
 **Ecological maintenance**
 
