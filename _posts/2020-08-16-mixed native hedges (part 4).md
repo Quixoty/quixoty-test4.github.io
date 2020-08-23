@@ -49,7 +49,10 @@ Thickness is key when it comes to the ecological value of a hedge. The wider the
 
 </p>
 
-[THICK HEDGE] [TAPERED HEDGE +DESC ON THICKNESS AT BASE IS GOOD]
+<figure class="half">
+    <a href="/assets/images/widebasehedge.jpg"><img src="/assets/images/widebasehedge.jpg"></a>
+    <figcaption>Hedge with a wide base </figcaption>
+</figure>
 
 <p style="text-align: justify;">
 
