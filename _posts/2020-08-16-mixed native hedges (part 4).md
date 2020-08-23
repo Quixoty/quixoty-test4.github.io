@@ -92,6 +92,7 @@ In comparison, an informal hedge typically:
 - favours rotational hedge maintenance
 - any specimen trees may be clustered together or distributed at inconsistent spacings
 
+
 <figure class="half">
     <a href="/assets/images/formalhedge.jpg"><img src="/assets/images/formalhedge.jpg"></a>
     <a href="/assets/images/informalhedge.jpg"><img src="/assets/images/informalhedge.jpg"></a>
