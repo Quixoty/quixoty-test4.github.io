@@ -22,7 +22,11 @@ header:
 
 As mentioned in my last post, to maximise the lifespan of a hedge (and value to wildlife), a species rich hedge is preferable to a monoculture/low species variety hedge. And yet, some Local Planning Authorities are still encouraging less diverse mixes, with a single species taking up over 70% of the total mix.
 
+</p>
+
 <img src="/assets/images/hedgeteaser6.jpg" alt="no-alignment">
+
+<p style="text-align: justify;">
 
 In these scenarios should we really be prioritising landscape character over the possible ecological benefits (and better hedge longevity) of a more diverse hedge mix?
 
