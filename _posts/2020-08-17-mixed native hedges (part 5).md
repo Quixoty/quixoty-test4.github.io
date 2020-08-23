@@ -58,7 +58,7 @@ For viable species for an edible hedge, refer to [Part 2][part-2] of this series
 [hedgerow-trust]: https://hedgerows.co.uk/Species.htm
 [part-2]: /mixed-native-hedges-(part-2)/
 
-In regards to hedges in close proximity to foundations, refer to the [NHBC Building Near Trees Guidence][nhbc-ref] which provides guidance on tree species selection based on their ability to cause soil shrinkage.
+In regards to hedges in close proximity to foundations, refer to the [NHBC Building Near Trees Guidence][nhbc-ref] which provides guidance on tree species selection based on their ability to cause soil shrinkage (which can cause subsidence if the foundations are not adequate).
 
 [nhbc-ref]: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
 
