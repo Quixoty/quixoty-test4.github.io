@@ -38,7 +38,12 @@ One case study that suggests otherwise includes the research by Jennifer Owen in
 
 </p>
 
-[Jennifer owen garden image]
+
+<figure class="half">
+    <a href="/assets/images/jenniferowengarden.png"><img src="/assets/images/jenniferowengarden.png"></a>
+    <figcaption>Jennifer Owen's Garden (Image Source: Wildlife of a Garden A Thirty-Year Study) </figcaption>
+</figure>
+
 [FACT BOX]
 Out of the 15 most eaten food plants for moth larvae, 9 were alien species, whilst only 6 were native. In the case of the Phlogophora meticulosa (angle shades moth), it ate from 42 alien species and only 12 native species.
 [angle shades]
