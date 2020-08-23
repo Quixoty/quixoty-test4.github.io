@@ -52,7 +52,7 @@ Most native UK trees and shrubs are suitable for mixed native hedges – but car
 [SPECIES IMAGES FOR THE ABOVE]
 
 There are several species lists for hedges available online for information on the indicidual species. [The English Hedgerow Trust][hedgerow-trust] has a good list explaining how each species is beneficial to wildlife.
-<br>
+<br><br>
 For viable species for an edible hedge, refer to [Part 2][part-2] of this series of posts.
 
 [hedgerow-trust]: https://hedgerows.co.uk/Species.htm
