@@ -66,6 +66,7 @@ Consider re-using waste materials from maintenance for the construction of ecolo
 <img src="/assets/images/brashpile.JPG" alt="">
 <figcaption>Brash pile </figcaption>
 
+<br>
 
 <p style="text-align: justify;">
   
@@ -84,6 +85,8 @@ Formal mixed native hedges typically:
 - have a consistent fixed width and height along its length.
 - have any specimen trees distributed at fixed intervals
 [FORMAL HEDGE – NEAT TRIMMING]
+
+<br><br>
 In comparison, an informal hedge typically:
 - receives less consistent maintenance along its length
 - may vary in width, height and species composition along its length
