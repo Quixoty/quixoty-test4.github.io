@@ -28,11 +28,16 @@ In these scenarios should we really be prioritising landscape character over the
 </p>
 [monoculture hedge image]
 
-Native vs non-native
+**Native or non-native?**
 
+<p style="text-align: justify;">
+  
 Likewise, LPAs are often pushing the idea of native hedges/species in landscape schemes (as opposed to non-native hedges) for the same reason of fitting in with the local character – but also sometimes under the guise that “non-native species are less valuable to UK wildlife”. 
 
 One case study that suggests otherwise includes the research by Jennifer Owen in her garden in Leicester. Her book ‘Wildlife of a Garden. A Thirty-year Study  Over 30 years Jennifer Owen surveyed over 2673 species of plants and animals – and her findings showed that non-native (alien) food plants were generally more appealing to moth larvae in comparison to native species. For more information refer to Jennifer Owen’s book ‘Wildlife of a Garden A Thirty-Year Study’.
+
+</p>
+
 [Jennifer owen garden image]
 [FACT BOX]
 Out of the 15 most eaten food plants for moth larvae, 9 were alien species, whilst only 6 were native. In the case of the Phlogophora meticulosa (angle shades moth), it ate from 42 alien species and only 12 native species.
