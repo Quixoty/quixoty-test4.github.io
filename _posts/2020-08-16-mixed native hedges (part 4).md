@@ -31,9 +31,7 @@ Alternatively refer to the NHBC Building near Trees Guidence [https://nhbc-stand
 
 [image NHBC table https://mk0nhbcstandardvemac.kinstacdn.com/wp-content/uploads/4.2.4-table3.png] 
 
-**
-
-Ecological maintenance**
+**Ecological maintenance**
 
 <p style="text-align: justify;">
 
