@@ -15,8 +15,6 @@ header:
 ---
 
 
-<img src="/assets/images/hedgeteaser4.jpg" alt="no-alignment">
-
 **Hedges and foundations**
 
 <p style="text-align: justify;">
@@ -35,7 +33,9 @@ For hedges in close proximity to buildings - where you know the foundations have
 How a hedge is maintained is fundamental in how much wildlife it can support. A hedge receiving either too little or too much maintenance can cause reductions in the overall biodiversity of the hedge. 
 
 Achieving this balance, along with a few of the following tips can help maximise wildlife.
-<br><br>
+
+<img src="/assets/images/hedgeteaser4.jpg" alt="no-alignment">
+
 Thickness is key when it comes to the ecological value of a hedge. The wider the better – especially to the bottom of the hedge due to the increased sheltering opportunities for ground-based animals. Because of this, prioritising width over height can be beneficial. A wider base also helps to protect the roots and base stems from any damage during routine hedge maintenance.
 
 </p>
