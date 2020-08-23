@@ -1,5 +1,5 @@
 ---
-title: "Mixed Native Hedges (Part 6) - Character or Ecology?"
+title: "Mixed Native Hedges (Part 6) - Character vs Ecology"
 date: 2020-08-18T15:34:30-04:00
 sidebar:
   nav: "docs"
