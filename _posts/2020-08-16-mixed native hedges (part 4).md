@@ -88,11 +88,10 @@ Formal mixed native hedges typically:
 
 <br><br>
 In comparison, an informal hedge typically:
-- receives less consistent maintenance along its length
+- receives less consistent (and less frequent) maintenance along its length 
 - may vary in width, height and species composition along its length
 - favours rotational hedge maintenance
 - any specimen trees may be clustered together or distributed at inconsistent spacings
-[INFORMAL HEDGE – LESS MAINTAINED
 
 <figure class="half">
     <a href="/assets/images/formalhedge.jpg"><img src="/assets/images/formalhedge.jpg"></a>
