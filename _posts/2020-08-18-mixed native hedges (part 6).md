@@ -61,12 +61,10 @@ Out of the 15 most eaten food plants for moth larvae, 9 were alien species, whil
 </div>
 
 <figure class="half">
-    <a href="/assets/images/angle shades, bob eade.JPG"><img src="/assets/images/angle shades, bob eade.JPG"></a>
+    <a href="/assets/images/angle shades, bob eade.jpg"><img src="/assets/images/angle shades, bob eade.jpg"></a>
     <figcaption>Angle shades moth (Image source: Bob Eade) </figcaption>
 </figure>
 
-
-[angle shades]
 Whilst proposing ‘native’ mixed hedges can preserve the local character and familiar appearance of an area, it does not consider the future implications of climate change, nor the potential ecological benefits of introducing more of certain species into UK hedges.
 
 As the UK climate changes with more extreme weather – including hotter, drier summers, and wetter winters - native species could become less suitable for the UK landscape. The Climate Matching Tool [LINK] produced by the Forest Research and Forestry commission, is a tool that helps predict the future climate for a given area, by giving an equivalent current location with the same climate. With this tool we can predict what species may be better suited to the future climate and plan accordingly. 
