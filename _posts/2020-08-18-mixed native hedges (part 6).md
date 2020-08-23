@@ -40,7 +40,7 @@ One case study that suggests otherwise includes the research by Jennifer Owen in
 
 
 <figure class="half">
-    <a href="/assets/images/jenniferowengarden.png"><img src="/assets/images/jenniferowengarden.png"></a>
+    <a href="/assets/images/jenniferowengarden.PNG"><img src="/assets/images/jenniferowengarden.PNG"></a>
     <figcaption>Jennifer Owen's Garden (Image Source: Wildlife of a Garden A Thirty-Year Study) </figcaption>
 </figure>
 
