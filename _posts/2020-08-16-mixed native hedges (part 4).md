@@ -56,7 +56,7 @@ Thickness is key when it comes to the ecological value of a hedge. The wider the
 
 <p style="text-align: justify;">
 
-Likewise - allowing a narrow grass strip to grow adjacent to the bottom of the hedge (between 0.5-1m wide) can also help protect the base from strimming or grass cutting. This transition from hedge to tall grass to short grass could be considered an 'ecotone' (a gradual transition between different habitats) - these edge habitats are particularly good at providing for species with very specific habitat requirements, and are very good for biodiversity. 
+Likewise - allowing a narrow grass strip to grow adjacent to the bottom of the hedge (between 0.5-1m wide) can also help protect the base from strimming or grass cutting. This transition from hedge to tall grass to short grass can be considered an 'ecotone' (a gradual transition between different habitats) - these edge habitats are particularly good at providing for species with very specific habitat requirements, and are especially good for biodiversity. 
 
 <figure class="half">
     <a href="/assets/images/grassstrip1.JPG"><img src="/assets/images/grassstrip1.JPG"></a>
