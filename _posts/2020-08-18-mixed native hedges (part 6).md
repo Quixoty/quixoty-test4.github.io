@@ -89,7 +89,7 @@ For example, one species that could be introduced into native mixes could includ
 
 <p style="text-align: justify;">
   
-Should the landscape character of an area override any benefits ecology and landscape longevity? 
+Should the landscape character of an area override any benefits to ecology or landscape longevity? 
 
 <br><br>
 
