@@ -67,18 +67,32 @@ Out of the 15 most eaten food plants for moth larvae, 9 were alien species, whil
 
 Whilst proposing ‘native’ mixed hedges can preserve the local character and familiar appearance of an area, it does not consider the future implications of climate change, nor the potential ecological benefits of introducing more of certain species into UK hedges.
 
-As the UK climate changes with more extreme weather – including hotter, drier summers, and wetter winters - native species could become less suitable for the UK landscape. The Climate Matching Tool [LINK] produced by the Forest Research and Forestry commission, is a tool that helps predict the future climate for a given area, by giving an equivalent current location with the same climate. With this tool we can predict what species may be better suited to the future climate and plan accordingly. 
+As the UK climate changes with more extreme weather – including hotter, drier summers, and wetter winters - native species could become less suitable for the UK landscape. The [Climate Matching Tool][climate-match] produced by the Forest Research and Forestry commission, is a tool that helps predict the future climate for a given area, by giving an equivalent current location with the same climate. With this tool we can predict what species may be better suited to the future climate and plan accordingly. 
 
+[climate-match]: https://climatematch.org.uk/
+
+
+<p style="text-align: justify;">
+  
 The introduction of select alien (non-invasive) species to supplement native hedges could help pre-emptively mitigate some of the damage to come when certain native species struggle to adapt.
 
 For example, one species that could be introduced into native mixes could include Prunus cerasifera– which is tolerant to both drought and heat - producing early flowers in spring and small fruits. All this with the added bonus of having attractive dark foliage. 
-[INSERT PRUNUS CERACIFERA]
 
-A few final thoughts:
+</p>
 
+<figure class="half">
+    <a href="/assets/images/prunuscerasifera.JPG"><img src="/assets/images/prunuscerasifera.JPG"></a>
+    <figcaption>Prunus cerasifera in a hot dry climate(Image Source: Wildlife of a Garden A Thirty-Year Study) </figcaption>
+</figure>
+
+**A few final thoughts**
+
+<p style="text-align: justify;">
+  
 Should the landscape character of an area override any benefits ecology and landscape longevity? 
 
 Can most people actually identify whether a species in a hedge is native or even typical of a certain landscape character?
 
 Should LPAs be less restrictive when it comes to species selection of mixed hedges to boundaries, so that more climate adaptive mixes/variations can be specified for the future?
 
+</p>
