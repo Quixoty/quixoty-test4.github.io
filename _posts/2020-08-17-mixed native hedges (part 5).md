@@ -73,7 +73,12 @@ In regards to hedge survival it’s always good to check the local conditions to
 <br>
 
 On a particularly wet site, consider adjusting your hedge mix to include more ‘wet tolerant’ species such as Salix or Cornus sp. or consider planting the hedge on mounding similar to a Devon Hedgebank.
-[INSERT DEVON HEDGEBANK IMAGE]
+
+<figure class="half">
+    <a href="/assets/images/nhbctable.png"><img src="/assets/images/hedge-Rosie-Yells-2014.jpg"></a>
+    <figcaption>New hedge planted on mounding (Image source: Rosie Yells, 2014) </figcaption>
+</figure>
+
 The purpose of the hedge is also fundamental in deciding what species it is made up of – for example, a hedge adjacent to an orchard may benefit from planting a greater proportion of Malus sp., and flowering species to maximise pollination of the fruit trees and consequently improve crop yields.
 
 Species selection can minimise the maintenance required by selecting species with a maximum height that corresponds with the desired height of the hedge. An infrequently maintained mixed native hedge in close proximity to buildings, might be better to specified as a more shrub dominated mix, as opposed to including tree species, as trees could cause problems with building foundations if not maintained as a hedge.
