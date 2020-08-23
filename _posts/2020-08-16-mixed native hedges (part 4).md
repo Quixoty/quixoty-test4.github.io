@@ -60,7 +60,7 @@ Likewise - allowing a narrow grass strip to grow adjacent to the bottom of the h
 
 <p style="text-align: justify;">
   
-Consider maintaining hedges on a rotational basis. Cutting no more than a third of the total hedge in any one year is considered beneficial for wildlife. This means that in any one year, a variety of hedge habitat and food sources are always available.  
+Consider maintaining hedges on a rotational basis for further value to wildlife. Cutting no more than a third of the total hedge in any one year is considered beneficial for wildlife. This means that in any one year, a variety of hedge habitat and food sources are always available.  
 
 Consider re-using waste materials from maintenance for the construction of ecological structures such as brash or log piles on site. These are great for wildlife and also means the waste material doesn’t need to be transported off site. In the context of residential developments, they can be used to offset ecological requirements.
 
