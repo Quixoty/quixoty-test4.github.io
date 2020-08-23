@@ -6,13 +6,13 @@ sidebar:
   nav: "docs"
 
 gallery:
-  - url: /assets/images/test2.JPG
-    image_path: /assets/images/test2.JPG
-    alt: "placeholder image 2"
+  - url: /assets/images/goodprecedentplanter.JPG
+    image_path: /assets/images/goodprecedentplanter.JPG
+    alt: "Good Precedent (Tree in Planter)"
     title: "Good Precedent: This tree has clearly been regularly maintained to control its size and is a good example of how regular maintenance and species selection has allowed for healthy tree growth. There is no apparent damage to hard landscape despite the confined dimensions of the planter, and proximity to buildings."
-  - url: /assets/images/test1.JPG
-    image_path: /assets/images/test1.JPG
-    alt: "placeholder image 1"
+  - url: /assets/images/badprecedentplanter.JPG
+    image_path: /assets/images/badprecedentplanter.JPG
+    alt: "Bad Precedent (Tree in Planter)"
     title: "Bad Precedent: Whilst the tree forms an attractive sizable green element within the streetscape, it is clear there is not enough space for the roots. When considering existing trees within newly designed landscapes, make sure to consider their proximity to hard surfaces and structures. By giving trees (proposed and existing) the space they need and not restricting them to confined spaces, damage to hard landscape elements is less of a risk."
 
 
