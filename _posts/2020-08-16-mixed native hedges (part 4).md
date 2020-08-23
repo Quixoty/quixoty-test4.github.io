@@ -79,9 +79,20 @@ Consider re-using waste materials from maintenance for the construction of ecolo
   
 In some cases in a newly proposed hedge, a particular species (such as Prunus spinosa – blackthorn) may have begun to outcompete the less vigorous species in the mix. In which case it could be beneficial to remove a proportion of the species in question, and replace with a less vigorous species.
 
-[Note:] Remember to avoid any hedge maintenance (trimming or removal) in the bird nesting season between February – August. Maintenance within bird nesting season can be harmful to nesting birds and result in legal ramifications
-
 </p>
+
+{% capture notice-1 %}
+
+#### Note:
+
+Remember to avoid any hedge maintenance (trimming or removal) in the bird nesting season between February – August. Maintenance within bird nesting season can be harmful to nesting birds and result in legal ramifications
+
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-1 | markdownify }}
+</div>
+
 
 **Formal vs informal**
 
