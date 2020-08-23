@@ -58,7 +58,7 @@ For viable species for an edible hedge, refer to [Part 2][part-2] of this series
 [hedgerow-trust]: https://hedgerows.co.uk/Species.htm
 [part-2]: /mixed-native-hedges-(part-2)/
 
-In regards to hedges in close proximity to foundations, refer to the [NHBC Building Near Trees Guidence][nhbc-ref] which provides guidance on tree species selection based on their ability to cause soil shrinkage (which can cause building subsidence if the foundations are not adequate).
+In regards to hedges in close proximity to foundations, refer to the [NHBC Building Near Trees Guidance][nhbc-ref] which provides guidance on tree species selection based on their ability to cause soil shrinkage (which can cause building subsidence if the foundations are not adequate).
 
 [nhbc-ref]: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
 
@@ -89,13 +89,15 @@ Hedge proximity to people, paths and play areas etc is also an important factor 
 </p>
 [spiny hedge image]
 
+**Problem Species**
 
-{% capture notice-2 %}
-
-#### Problem Species
-
+<p style="text-align: justify;">
   
 When it comes to mixed native hedges, one of the main and frequent concerns from Local Planning Authorities (LPAs) is in regards to ‘problem species’ which can cause problems further down the line.
+
+</p>
+
+{% capture notice-2 %}
 
 * Prunus spinosa (blackthorn) – due to how vigorous this plant is, it can dominate many other species within the native hedge, consequently reducing the species diversity
 * Sambucus nigra (elder) – also quite vigorous and often encourages large gaps to form within the hedge 
@@ -108,9 +110,14 @@ When it comes to mixed native hedges, one of the main and frequent concerns from
 </div>
 
 [INSERT blackthorn and elder images]
+
+<p style="text-align: justify;">
+  
 Whilst these species aren’t directly bad for wildlife – in fact they both support a number of species – they still reduce the biodiversity of a hedge, and as such it is recommended that these species are specified as very low proportions of the total hedge mix (less than 5%). Other species to avoid include elm and ash, due to prominent and widespread diseases (Dutch elm disease and ash dieback).
 
 Biodiversity in a mixed native hedge is good, as it provides a greater variety of available food over a larger period of time, to appeal to different wildlife species. It also means that should a species in the hedge be influenced by a prominent disease or pest, not all the hedge would be compromised, and whilst some gaps may form, it would be less detrimental to the hedge as a whole.
+
+</p>
 
 It is also worth considering future problem species. The oak processionary moth is established around Greater London [https://www.forestresearch.gov.uk/tools-and-resources/pest-and-disease-resources/oak-processionary-moth-thaumetopoea-processionea/], perhaps it is worth reducing the proportion of oak in our new proposed hedges (as well as open space trees) as a pre-emptive measure?
 [OPM IMAGE]
