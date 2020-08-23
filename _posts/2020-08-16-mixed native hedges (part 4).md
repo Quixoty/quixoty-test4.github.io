@@ -56,9 +56,13 @@ Thickness is key when it comes to the ecological value of a hedge. The wider the
 
 <p style="text-align: justify;">
 
-Likewise - allowing a narrow grass strip to grow adjacent to the bottom of the hedge (between 0.5-1m wide) can also help protect the base from strimming or grass cutting. This transition from hedge to tall grass to short grass could be considered an **ecotone** (a gradual transition between different habitats) - these edge habitats are particularly good at providing for species with very specific habitat requirements, and are very good for biodiversity. 
-[HEDGE GRASS STRIP]
-[ECOTONE HEDGE IMAGE]
+Likewise - allowing a narrow grass strip to grow adjacent to the bottom of the hedge (between 0.5-1m wide) can also help protect the base from strimming or grass cutting. This transition from hedge to tall grass to short grass could be considered an 'ecotone' (a gradual transition between different habitats) - these edge habitats are particularly good at providing for species with very specific habitat requirements, and are very good for biodiversity. 
+
+<figure class="half">
+    <a href="/assets/images/grassstrip1.JPG"><img src="/assets/images/grassstrip1.JPG"></a>
+    <a href="/assets/images/grassstrip2.JPG"><img src="/assets/images/grassstrip2.JPG"></a>
+    <figcaption>Hedges with adjacent grass strips </figcaption>
+</figure>
 
 Consider maintaining hedges on a rotational basis. Cutting no more than a third of the total hedge in any one year is considered beneficial for wildlife. This means that in any one year, a variety of hedge habitat and food sources are always available.  
 
@@ -88,7 +92,6 @@ Formal mixed native hedges typically:
 - have a consistent fixed width and height along its length.
 - have any specimen trees distributed at fixed intervals
 
-<br>
 
 In comparison, an informal hedge typically:
 - receives less consistent (and less frequent) maintenance along its length 
