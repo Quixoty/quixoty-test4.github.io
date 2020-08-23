@@ -59,7 +59,8 @@ Consider maintaining hedges on a rotational basis. Cutting no more than a third 
 
 Consider re-using waste materials from maintenance for the construction of ecological structures such as brash or log piles on site. These are great for wildlife and also means the waste material doesn’t need to be transported off site. In the context of residential developments, they can be used to offset ecological requirements.
 
-[LOGPILES][BRASH PILES IMAGE][WOODLAND DEN BUILDING][BRASH SCULPTURES]
+<img src="/assets/images/brashpile.JPG" alt="">
+<figcaption>Brash pile </figcaption>
 
 In some cases in a newly proposed hedge, a particular species (such as Prunus spinosa – blackthorn) may have begun to outcompete the less vigorous species in the mix. In which case it could be beneficial to remove a proportion of the species in question, and replace with a less vigorous species.
 
