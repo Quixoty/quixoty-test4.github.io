@@ -89,15 +89,23 @@ Hedge proximity to people, paths and play areas etc is also an important factor 
 </p>
 [spiny hedge image]
 
-**Problem species**
 
-<p style="text-align: justify;">
+{% capture notice-2 %}
+
+#### Problem Species
+
   
 When it comes to mixed native hedges, one of the main and frequent concerns from Local Planning Authorities (LPAs) is in regards to ‘problem species’ which can cause problems further down the line.
 
-Prunus spinosa (blackthorn) – due to how vigorous this plant is, it can dominate many other species within the native hedge, consequently reducing the species diversity
-Sambucus nigra (elder) – also quite vigorous and often encourages large gaps to form within the hedge 
+* Prunus spinosa (blackthorn) – due to how vigorous this plant is, it can dominate many other species within the native hedge, consequently reducing the species diversity
+* Sambucus nigra (elder) – also quite vigorous and often encourages large gaps to form within the hedge 
 
+
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-2 | markdownify }}
+</div>
 
 [INSERT blackthorn and elder images]
 Whilst these species aren’t directly bad for wildlife – in fact they both support a number of species – they still reduce the biodiversity of a hedge, and as such it is recommended that these species are specified as very low proportions of the total hedge mix (less than 5%). Other species to avoid include elm and ash, due to prominent and widespread diseases (Dutch elm disease and ash dieback).
