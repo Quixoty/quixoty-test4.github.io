@@ -11,7 +11,7 @@ tags:
   - Bark
   
 header:
-  teaser: /assets/images/whitepoplarteaser.JPG
+  teaser: /assets/images/whitepoplarteaser2.JPG
   
 gallery1:
   - url: /assets/images/acer griseum.jpg
