@@ -270,25 +270,25 @@ This includes species such as:
 
 
 * Ailanthus altissima
-* Acer capillipes* [insert image]
-* Acer davidii* [insert image]
+* Acer capillipes* 
+* Acer davidii* 
 * Carpinus betulus
 * Cornus sp.
 * Cydonia oblonga
-* Diospyros kaki* [insert image]
+* Diospyros kaki* 
 * Eucalyptus aggregate
-* Eucalyptus deglupta* (unfortunately not hardy enough for outdoor use in the UK) [insert image]
+* Eucalyptus deglupta* (unfortunately not hardy enough for outdoor use in the UK) 
 * Eucalyptus pauciflora
 * Halesia Carolina
 * Maytenus boaria
-* Parrotia persica* [insert image]
+* Parrotia persica* 
 * Picea abies
 * Picea orientalis
 * Platanus orientalis* 
-* Platanus x hispanica* [insert image]
-* Populus alba* [insert image]
-* Pyrus communis* [insert image]
-* Stewartia pseudocamellia* [insert image]
+* Platanus x hispanica* 
+* Populus alba* 
+* Pyrus communis* 
+* Stewartia pseudocamellia* 
 * Stewartia sinensis
 * Syringa vulgaris
 
