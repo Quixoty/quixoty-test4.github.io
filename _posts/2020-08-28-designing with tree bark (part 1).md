@@ -147,6 +147,8 @@ Tree bark noted as having particularly strong/exaggerated qualities are marked w
 
 #### Flaky/Peeling Tree Bark
 
+<br>
+
 Flaky/peeling bark species often reveal a smooth/shiny surface beneath, providing a mosaic of textures that visually ‘break up’ the vertical structure of the tree stem. 
 These include species such as:
 
@@ -184,6 +186,8 @@ These include species such as:
 {% capture notice-2 %}
 
 #### Rough/Fissured Tree Bark
+
+<br>
 
 Rough/fissured barks includes species with an uneven surface, sometimes rounded or forming ridges and crevices within the surface. 
 This category is more typical (or appears stronger) in older tree specimens, and these characteristics may not be apparent on younger trees as the fissures and topography of the surface can take years to develop. 
@@ -263,6 +267,8 @@ These include species such as:
 {% capture notice-4 %}
 
 #### Patterned Tree Bark
+
+<br>
 
 Patterned barks include species with repeated blocks of colour or fissures forming a pattern. 
 Although this category could include many within the rough/fissured bark category, these species have a more obvious, distinctive and less chaotic pattern to the human eye. 
