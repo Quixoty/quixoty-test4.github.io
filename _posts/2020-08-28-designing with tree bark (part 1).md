@@ -112,7 +112,7 @@ The textural qualities of tree bark are often underappreciated in the world of l
 
 </p>
 
-<img src="/assets/images/whitepoplarteaser.JPG" alt="no-alignment">
+<img src="/assets/images/whitepoplarteaser2.JPG" alt="no-alignment">
 
 **Textural qualities of bark**
 
