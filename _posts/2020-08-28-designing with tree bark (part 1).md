@@ -180,7 +180,7 @@ These include species such as:
   {{ notice-1 | markdownify }}
 </div>
 
-{% include gallery id="gallery1" caption="Click or hover over on the above images for species names and image sources." %}
+{% include gallery id="gallery1" caption="Click or hover over the above images for species names and image sources." %}
 
 
 {% capture notice-2 %}
@@ -237,7 +237,7 @@ These include species such as:
   {{ notice-2 | markdownify }}
 </div>
 
-{% include gallery id="gallery2" caption="Click or hover over on the above images for species names and image sources." %}
+{% include gallery id="gallery2" caption="Click or hover over the above images for species names and image sources." %}
 
 {% capture notice-3 %}
 
@@ -306,6 +306,6 @@ This includes species such as:
   {{ notice-4 | markdownify }}
 </div>
 
-{% include gallery id="gallery4" caption="Click or hover over on the above images for species names and image sources." %}
+{% include gallery id="gallery4" caption="Click or hover over the above images for species names and image sources." %}
 
 In my next post I shall cover how we can use this information to inform our landscape designs.
