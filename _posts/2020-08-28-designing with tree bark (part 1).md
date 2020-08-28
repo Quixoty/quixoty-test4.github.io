@@ -243,6 +243,8 @@ These include species such as:
 
 #### Hairy/Fibrous Tree Bark
 
+<br>
+
 Hairy/fibrous bark is present on primarily coniferous tree species, and are typically more subtle than the other categories, requiring closer proximity by the casual viewer to be noticed. 
 These include species such as:
 
