@@ -41,7 +41,7 @@ This concept is not only limited to tree bark, it can apply to foliage, flower c
 
 <br><br>
 
-Through contrast, the relative smoothness and roughness of the trees can be accentuated for added interest. For example, by proposing a Platanus x hispanica tree with its smooth shiny red bark, next to a tree with rough/fissured bark such as Juglans sp.
+Through contrast, the relative smoothness and roughness of the trees can be accentuated for added interest. For example, by proposing a Platanus x hispanica tree with its smooth bark next to a tree with rough/fissured bark such as Juglans nigra.
 
 
 </p>
