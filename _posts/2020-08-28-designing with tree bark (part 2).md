@@ -79,4 +79,4 @@ There are a few ways to specify trees with bark interest to maximise the visual 
   {{ notice-1 | markdownify }}
 </div>
 
-<img src="/assets/images/treeform2.PNG" alt="no-alignment">
+<img src="/assets/images/treeform2.PNG" alt="">
