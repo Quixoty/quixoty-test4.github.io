@@ -11,7 +11,7 @@ tags:
   - Bark
   
 header:
-  teaser: /assets/images/whitepoplarteaser3.JPG
+  teaser: /assets/images/barkteaser.JPG
   
   
 ---
