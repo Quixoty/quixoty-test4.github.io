@@ -28,11 +28,8 @@ Through repetition of complimentary textures, trees can be grouped together in t
 Using a polyculture of species with similar characteristics provides the benefits that could be obtained from a monoculture of species i.e. a sense of unity/cohesion, but without the drawbacks of increased risk of landscape damage from pests/diseases; as well as overall having greater biodiversity.
 
 
-<figure class="half">
-    <a href="/assets/images/monoculture, Martyn Ferry.JPG"><img src="/assets/images/monoculture, Martyn Ferry.JPG"></a>
-    <figcaption>Should one of these birches become infected with pests or disease, the whole area of tree planting is at risk (Image source: Martyn Ferry)</figcaption>
-  
-</figure>
+<img src="/assets/images/monoculture, Martyn Ferry.JPG" alt="no-alignment">
+<figcaption>Should one of these birches become infected with pests or disease, the whole area of tree planting is at risk (Image source: Martyn Ferry)</figcaption>
 
 
 This concept is not only limited to tree bark, it can apply to foliage, flower colour or even plant habit to create cohesive palettes of plants.
