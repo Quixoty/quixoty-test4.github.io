@@ -40,6 +40,9 @@ Using a polyculture of species with similar characteristics provides the benefit
 
 This concept is not only limited to tree bark, it can apply to foliage, flower colour or even plant habit to create cohesive palettes of plants.
 
+
+<br><br>
+
 Through contrast, the relative smoothness and roughness of the trees can be accentuated for added interest. For example, by proposing a Platanus x hispanica tree with its smooth shiny red bark, next to a tree with rough/fissured bark such as Juglans sp.
 
 
