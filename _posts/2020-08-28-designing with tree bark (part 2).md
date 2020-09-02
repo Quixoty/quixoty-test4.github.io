@@ -30,7 +30,7 @@ Using a polyculture of species with similar characteristics provides the benefit
 </p>
 
 <img src="/assets/images/monoculture, Martyn Ferry.JPG" alt="">
-<figcaption>Should one of these birches become infected with pests or disease, the whole area of tree planting is at risk (Image source: Martyn Ferry)</figcaption>
+<figcaption>Should one of these birches become infected with pests or disease, the whole area of tree planting is at risk <br>(Image source: Martyn Ferry)</figcaption>
 
 <br>
 
