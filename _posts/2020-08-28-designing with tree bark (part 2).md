@@ -1,5 +1,5 @@
 ---
-title: "Designing With Tree Bark (Part 2) - Tree Specification"
+title: "Designing With Tree Bark (Part 2) - Specification"
 classes: wide
 sidebar:
   nav: "docs"
