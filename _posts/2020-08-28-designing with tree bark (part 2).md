@@ -14,9 +14,7 @@ header:
   teaser: /assets/images/whitepoplarteaser3.JPG
   
   
-  
-
-  ---
+---
   
   
 <p style="text-align: justify;">
