@@ -16,18 +16,19 @@ header:
   
 ---
 
-
 So where can we position trees with interesting bark to get the most out of their visual interest?
-
-
-<img src="/assets/images/barkteaser1.JPG" alt="no-alignment">
 
 <p style="text-align: justify;">
 
 As the trunk of a tree occupies a much smaller area of the human eye compared to the foliage of the canopy, human proximity to the tree needs to be much closer in comparison to maximise the visual impact of tree bark. 
 
-<br><br>
+</p>
 
+<img src="/assets/images/barkteaser1.JPG" alt="no-alignment">
+
+
+<p style="text-align: justify;">
+  
 For this reason, it is better to specify trees with textural bark in pedestrian/static/slow moving spaces, such as near seating, or within play areas where people will be in close proximity to the trees in question, and have the time to notice and appreciate the surrounding landscape. This is in contrast to a dynamic/fast moving space like a roundabout, where drivers and car passengers will have less time to take in these detailed characteristics. In this case species selection for aesthetic qualities might be better selected by foliage interest instead.
 
 <br><br>
