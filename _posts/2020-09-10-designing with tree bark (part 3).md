@@ -39,7 +39,7 @@ This is in contrast to a dynamic/fast moving space like a roundabout, where driv
 <img src="/assets/images/sheffieldroundabout.PNG" alt="">
 <figcaption>An example of bark interest on a roundabout in Sheffield (Image source: Google Maps Street View)</figcaption>
 
-<br>
+<br><br>
 
 <p style="text-align: justify;">
 
