@@ -31,7 +31,12 @@ As the trunk of a tree occupies a much smaller area of the human eye compared to
   
 For this reason, it is better to specify trees with textural bark in pedestrian/static/slow moving spaces, such as near seating, or within play areas where people will be in close proximity to the trees in question, and have the time to notice and appreciate the surrounding landscape. This is in contrast to a dynamic/fast moving space like a roundabout, where drivers and car passengers will have less time to take in these detailed characteristics. In this case species selection for aesthetic qualities might be better selected by foliage interest instead.
 
-<br><br>
+</p>
+
+<img src="/assets/images/sheffieldroundabout.PNG" alt="">
+<figcaption>An example of bark interest on a roundabout in Sheffield (Image source: Google Maps Street View)</figcaption>
+
+<p style="text-align: justify;">
 
 As a general rule, trees with peeling barks generally have a larger detail scale (as the peeled bark is larger in size), meaning the detail can be viewed from further away compared to patterned trees, or trees with rough/fissured bark. As such peeling barks could be considered the preferable bark texture in dynamic/car dominated spaces where the distance to the tree trunk is greater, and there is less time to view the texture.
 
