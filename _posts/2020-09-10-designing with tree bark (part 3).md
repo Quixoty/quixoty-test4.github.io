@@ -20,7 +20,7 @@ So where can we position trees with interesting bark to get the most out of thei
 
 <p style="text-align: justify;">
 
-As the trunk of a tree occupies a much smaller area of the human eye compared to the foliage of the canopy, human proximity to the tree needs to be much closer in comparison to maximise the visual impact of tree bark. 
+As the trunk of a tree occupies a much smaller area of the human eye compared to the foliage of the tree canopy, human proximity to the tree needs to be much closer in comparison to maximise the visual impact of tree bark. 
 
 </p>
 
