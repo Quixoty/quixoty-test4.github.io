@@ -48,7 +48,7 @@ On the opposite end of the scale hairy/fibrous barks have a much smaller texture
 
 <figure class="half">
     <a href="/assets/images/Betula nigra.jpg"><img src="/assets/images/Betula nigra.jpg"></a>
-    <a href="/assets/images/Sequoia sempervirens.jpg"><img src="/assets/images/Sequoia sempervirens.jpg"></a>
+    <a href="/assets/images/Sequoia sempervirens2.jpg"><img src="/assets/images/Sequoia sempervirens2.jpg"></a>
     <figcaption>Peeling vs hairy tree bark (Image sources: Country Mile Gardens, and JFKCom)</figcaption>
 </figure>
 
