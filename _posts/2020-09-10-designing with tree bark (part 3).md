@@ -13,7 +13,6 @@ tags:
 header:
   teaser: /assets/images/barkteaser1.JPG
   
-  
 ---
 
 So where can we position trees with interesting bark to get the most out of their visual interest?
