@@ -24,10 +24,7 @@ Acuity is the detail which a person can perceive from a distance. A higher acuit
 
 </p>
 
-
 Using the equation:
-
-<br><br>
 
 **acuity = 1/gap size in arc minutes**, while understanding that 1 arc minute is 1/60°, and that the gap size is the size of the texture detail
 
