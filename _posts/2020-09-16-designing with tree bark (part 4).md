@@ -17,6 +17,8 @@ header:
 
 With a bit of understanding about human vision and acuity, we can provide definitive distances for the viewing of tree bark.
 
+<img src="/assets/images/barkteaserurban.JPG" alt="">
+
 <p style="text-align: justify;">
 
 Acuity is the detail which a person can perceive from a distance. A higher acuity would mean being able to perceive detail from a larger distance. 
@@ -53,6 +55,8 @@ In the calculations for figure 1 we have assumed not all people viewing the surf
 <img src="/assets/images/acuitytable.PNG" alt="">
 <figcaption>Table showing the maximum distance for the viewing of tree bark for the moderately visual impaired</figcaption>
 
+<br>
+
 <p style="text-align: justify;">
 
 The ‘minimum detail size’ can be considered the smallest distance you want to be viewed, be it a block of colour in the bark, distance from one fissure to another, or width of a strip of peeling bark.
@@ -62,12 +66,14 @@ The ‘minimum detail size’ can be considered the smallest distance you want t
 <img src="/assets/images/detailsize.png" alt="">
 <figcaption>An example showing the minimum detail size of some tree bark</figcaption>
 
+<br>
+
 Unfortunately, the sizes/scale of bark patterns are not very well recorded, so the values in the table are just estimations I’ve made based on site visits and internet images. For more accurate readings, take measurements of bark textures when you’re out and about.
 
 <figure class="half">
     <a href="/assets/images/acer capillipes.jpg"><img src="/assets/images/acer capillipes.jpg"></a>
     <a href="/assets/images/Betula nigra.jpg"><img src="/assets/images/Betula nigra.jpg"></a>
-    <figcaption>Acer capillipes bark has very narrow stripes, requiring close viewing to see the texture, whilst Betula nigra has larger peelings of bark, which are visible from further away <br> (Image sources: Van Den Berk, and Country Mile Gardens)</figcaption>
+    <figcaption>Acer capillipes bark has very narrow stripes, requiring close viewing to see the texture, whilst Betula nigra has larger peelings of bark, which are visible from further away (Image sources: Van Den Berk, and Country Mile Gardens)</figcaption>
 </figure>
 
 <p style="text-align: justify;">
