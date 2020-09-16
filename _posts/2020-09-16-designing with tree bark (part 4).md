@@ -31,22 +31,15 @@ Using the equation:
 
 **acuity = 1/gap size in arc minutes**, while understanding that 1 arc minute is 1/60°, and that the gap size is the size of the texture detail
 
-<br><br>
-
 along with the equation:
 
-<br><br>
-
 **visual angle in degrees/360 = arc length/2πr**, which is the relationship between a circle, it’s radius and the length of the arc
-
-<br><br>
 
 We can rearrange and combine these equations to get:
 
 <img src="/assets/images/distanceequation.PNG" alt="">
 
 <p style="text-align: justify;">
-
 
 The maximum viewing distance is the maximum distance at which 2 adjacent lines are distingiushable from each other, i.e. the maximum distance at which certain levels of textural detail can be seen by the human eye. 
 
