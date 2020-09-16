@@ -46,11 +46,13 @@ The maximum viewing distance is the maximum distance at which 2 adjacent lines a
 
 All that needs to be known is the size of the bark texture, and the vision of the person viewing it. See figure 1 to see how this has been applied in a landscape context. 
 
-<br><br>
-
-In the calculations for figure 1 we have assumed not all people viewing the surface will have perfect vision, and as such have been inclusive of people with moderately impaired vision, which on the lower end of the scale would have a acuity of 0.125 (International Council of Ophthalmology, 2002 [http://www.icoph.org/downloads/visualstandardsreport.pdf]). As you might expect, people with more severe visual impairment (a lower acuity value), would have a lower maximum distance for viewing.
-
 </p>
+
+In the calculations for figure 1 we have assumed not all people viewing the surface will have perfect vision, and as such have been inclusive of people with moderately impaired vision, which on the lower end of the scale would have a acuity of 0.125 [(International Council of Ophthalmology, 2002)][vis-ref].
+
+[vis-ref]: http://www.icoph.org/downloads/visualstandardsreport.pdf
+
+As you might expect, people with more severe visual impairment (a lower acuity value), would have a lower maximum distance for viewing.
 
 <img src="/assets/images/acuitytable.PNG" alt="">
 <figcaption>Table showing the maximum distance for the viewing of tree bark for the moderately visual impaired</figcaption>
