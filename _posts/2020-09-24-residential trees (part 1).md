@@ -117,7 +117,11 @@ As you can see from the above, tree A has a zone of influence overlapping the ad
 
 Whereas tree B has a zone of influence which does not overlap the adjacent buildings, meaning further foundation design to accommodate the tree may not be required.
 
+<br><br>
+
 Unfortunately as developers often want to avoid the extra costs of deepening foundations, landscape architects are often requested to propose trees with smaller zones of influence. This often becomes the leading factor in tree species selection for tree planting in residential schemes, resulting in an abundance of smaller, less impactful tree species selected in countless residential schemes.
+
+<br><br>
 
 In some cases where buildings are to be proposed nearby to existing trees, or in locations where existing trees were present, or on ce
 
