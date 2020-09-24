@@ -110,7 +110,6 @@ Therefore,
 *Zone of Influence = 7.5m*
 
 <img src="/assets/images/zoneofinfluenceexample.PNG" alt="">
-<figcaption>Table showing the maximum distance for the viewing of tree bark for the moderately visual impaired</figcaption>
 
 <p style="text-align: justify;">
 
