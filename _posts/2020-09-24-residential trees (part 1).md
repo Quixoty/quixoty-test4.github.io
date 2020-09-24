@@ -18,7 +18,7 @@ header:
 
 In this series of posts I shall discuss the various factors to be considered when specifying trees within residential developments.
 
-Trees fail so often in residential schemes, that the factors covered here will mainly relate to tree survivability.
+Trees fail so often in residential schemes, and as such the factors covered here will mainly relate to tree survivability.
 
 {% capture notice-1 %}
 
