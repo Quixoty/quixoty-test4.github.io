@@ -124,7 +124,7 @@ Unfortunately as developers often want to avoid the extra costs of deepening fou
 
 <br><br>
 
-In some cases where buildings are to be proposed nearby to existing trees, or in locations where existing trees were present, or on ce
+In some cases buildings may require deeper foundations, regardless of any proposed trees.
 
 </p>
 
