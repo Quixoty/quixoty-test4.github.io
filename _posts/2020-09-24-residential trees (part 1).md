@@ -96,6 +96,8 @@ See the example below for how the zone of influence of a Prunus cerasifera 'Nigr
 
 <br>
 
+<img src="/assets/images/prunuscera1.JPG" alt="">
+
 **Prunus cerasifera ‘Nigra’**
 
 <p style="text-align: justify;">
