@@ -93,9 +93,9 @@ See the example below for how the zone of influence of a Prunus cerasifera 'Nigr
 
 </p>
 
-**Prunus ceracifera 'Nigra'**
+**Prunus cerasifera ‘Nigra’**
 
-Whilst Prunus ceracifera 'Nigra' (black-leaved plum), is not listed on the NHBC table - we can see that all the other trees with the 'Prunus' genus are within the 'moderate water demand' category. As such the same can be generally assumed of Prunus ceracifera 'Nigra'.
+Whilst Prunus cerasifera ‘Nigra’ (black-leaved plum), is not listed on the NHBC table - we can see that all the other trees with the 'Prunus' genus are within the 'moderate water demand' category. As such the same can be generally assumed of Prunus cerasifera ‘Nigra’.
 
 Tree height according to the RHS website: 10m
 
