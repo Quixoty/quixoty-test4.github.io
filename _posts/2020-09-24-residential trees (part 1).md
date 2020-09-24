@@ -95,15 +95,15 @@ See the example below for how the zone of influence of a Prunus cerasifera 'Nigr
 
 **Prunus ceracifera 'Nigra'**
 
-Whilst Prunus ceracifera 'Nigra' (black-leaved plum), is not listed on the NHBC table - we can see that all the other trees with the 'Prunus' Genus are within the 'moderate water demand' category. As such the same can be assumed of Prunus ceracifera 'Nigra'.
+Whilst Prunus ceracifera 'Nigra' (black-leaved plum), is not listed on the NHBC table - we can see that all the other trees with the 'Prunus' genus are within the 'moderate water demand' category. As such the same can be assumed of Prunus ceracifera 'Nigra'.
 
 Tree height according to the RHS website: 10m
 
-Therefore, 
+Therefore,
 
-**Zone of influence = 10m x 0.75**
+*Zone of influence = 10m x 0.75*
 
-**Zone of Influence = 7.5m**
+*Zone of Influence = 7.5m*
 
 <img src="/assets/images/zoneofinfluenceexample.PNG" alt="">
 <figcaption>Table showing the maximum distance for the viewing of tree bark for the moderately visual impaired</figcaption>
