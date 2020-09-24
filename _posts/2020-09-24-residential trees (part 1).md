@@ -49,7 +49,7 @@ Trees fail so often in residential schemes, and as such the factors covered here
 
 <p style="text-align: justify;">
 
-The ‘zone of influence’ is a theoretical area where trees have the potential to influence foundations due to changing moisture content of soils resulting in shrinkage and swelling. If the zone of influence of a proposed tree overlaps a proposed building, the foundations of said building will need to be deepened accordingly. 
+The ‘zone of influence’ is a theoretical area where trees have the potential to influence foundations due to the changing moisture content of soils, resulting in shrinkage and swelling. If the zone of influence of a proposed tree overlaps a proposed building, the foundations of said building will need to be deepened accordingly. 
 
 </p>
 
@@ -66,7 +66,7 @@ The RHS website also mentions some other tree species and their water demands no
 
 The zone of influence can be calculated by multiplying the mature tree height by the water demand multiplier.
 
-**Zone of Influence = Mature tree height x Water demand multiplier**
+*Zone of Influence = Mature tree height x Water demand multiplier*
 
 {% capture notice-2 %}
 
