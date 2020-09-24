@@ -44,6 +44,7 @@ Trees fail so often in residential schemes, and as such the factors covered here
   {{ notice-1 | markdownify }}
 </div>
 
+<br>
 
 **Zones of Influence**
 
@@ -92,6 +93,8 @@ For tree varieties not referenced within the NHBC table, use the water demand mu
 See the example below for how the zone of influence of a Prunus cerasifera 'Nigra' tree is calculated.
 
 </p>
+
+<br>
 
 **Prunus cerasifera ‘Nigra’**
 
