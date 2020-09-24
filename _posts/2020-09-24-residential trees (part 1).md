@@ -137,8 +137,8 @@ In some cases buildings may require deeper foundations, regardless of any propos
 
 <br>
 
-* Proximity to existing trees
-* Proximity to removed existing trees
+* Building proximity to existing trees
+* Building proximity to removed existing trees
 * Building height
 * Clay content of soil
 
