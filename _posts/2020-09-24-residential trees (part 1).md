@@ -105,6 +105,7 @@ Whilst Prunus cerasifera ‘Nigra’ (black-leaved plum), is not listed on the N
 </p>
 
 Tree height according to the RHS website: 10m
+<br>
 Water demand multiplier: 0.75
 
 Therefore,
