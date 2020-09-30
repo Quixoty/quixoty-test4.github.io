@@ -38,7 +38,11 @@ In addition, climate change promises more climate variability including wetter w
 
 <br><br>
 
-Choosing trees adapted to these extreme conditions will improve their chances of survival in urban environments. For some drought tolerant species lists, refer to the sidebar on the left. Other sources can be found online, inluding the RHS website.
+Choosing trees adapted to these extreme conditions will improve their chances of survival in urban environments. For some drought tolerant species lists, refer to the sidebar on the left. 
+
+<br><br>
+
+Other sources can be found online, inluding the RHS website.
 
 </p>
 
