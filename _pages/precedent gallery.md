@@ -31,7 +31,7 @@ gallery1:
 
 <BR>
 
-Here is a collection of 'good' and 'bad' precedent images.
+For examples of good and bad precedent images, see the gallery below.
 
 <br>
 
