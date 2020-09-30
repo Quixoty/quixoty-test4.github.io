@@ -19,11 +19,11 @@ header:
   
 When it comes to building foundations and trees, mixed native hedges close to buildings can give engineer’s cause for concern. By maintaining a hedge to a fixed height (1.5m for example), and preventing the tree species in the hedge from reaching their maximum height, the water demand of the hedge, and therefore the ability to cause soil shrinkage and influence on foundations is reduced. 
 
-<br<br>
+<br><br>
 
 However, not all hedges are consistently maintained – meaning the tree species in the hedge are given the opportunity to grow to their full potential – which can cause problems if not considered.
 
-<br<br>
+<br><br>
 
 For hedges in close proximity to buildings - where you know the foundations haven’t been designed to accommodate it, or if you are unsure of the foundation design – consider using exclusively shrub species, rather than trees in the hedge mix. 
 
@@ -70,7 +70,13 @@ Likewise - allowing a narrow grass strip to grow adjacent to the bottom of the h
   
 Consider maintaining hedges on a rotational basis for further value to wildlife. Cutting no more than a third of the total hedge in any one year is considered beneficial for wildlife. This means that in any one year, a variety of hedge habitat and food sources are always available.  
 
-Consider re-using waste materials from maintenance for the construction of ecological structures such as brash or log piles on site. These are great for wildlife and also means the waste material doesn’t need to be transported off site. In the context of residential developments, they can be used to offset ecological requirements.
+<br><br>
+
+Consider re-using waste materials from maintenance for the construction of ecological structures such as brash or log piles on site. 
+
+<br><br>
+
+These are great for wildlife and also means the waste material doesn’t need to be transported off site. In the context of residential developments, they can be used to offset ecological requirements.
 
 </p>
 
