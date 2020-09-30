@@ -29,5 +29,5 @@ The next winners will be announced on **30th September 2020** for the theme **po
 **August 2020 - Trees in Raised Planters**
 
 
-{% include gallery id="gallery" layout="half" caption="Examples of a **good** (left) and **bad** (right) precedent" %}
+{% include gallery id="gallery" layout="half" caption="Examples of a **good** (left) and **bad** (right) precedent. The bad precedent has too little available rooting volume for the tree, resulting in damage to the masonry." %}
 
