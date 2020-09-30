@@ -15,8 +15,6 @@ At the end of each month, 2 winners will be announced for the the best examples 
 
 [precedent-gallery]: /precedent gallery/
 
-The next winners will be announced on **30th September 2020** for the theme  **ponds or waterbodies**, so keep your eyes peeled when you’re out and about.
-
 See below for what constitutes a good and bad precedent.
 
 {% capture notice-1 %}
@@ -63,11 +61,3 @@ The rules for this competition are that the photo:
 
 Make sure to send your photos to **landscapedesigntips@outlook.com** along with your first (and/or last) name should you want to be credited. If you can, please include a short description of why you consider the photo to be a good or bad precedent.
 
-{% capture notice-3 %}
-Please note - as of yet there are no actual prizes for entering this competition, besides the glory of winning.
-
-{% endcapture %}
-
-<div class="notice">
-  {{ notice-3 | markdownify }}
-</div>
