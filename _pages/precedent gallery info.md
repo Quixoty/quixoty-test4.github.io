@@ -59,5 +59,5 @@ The rules for this competition are that the photo:
 * has been taken by yourself relatively recently
 * does not include any identifiable people in it
 
-Make sure to send your photos to **landscapedesigntips@outlook.com** along with your first (and/or last) name should you want to be credited. If you can, please include a short description of why you consider the photo to be a good or bad precedent.
+Make sure to send your photos to **landscapedesigntips@outlook.com** along with your name should you want to be credited. If you can, please include a short description of why you consider the photo to be a good or bad precedent.
 
