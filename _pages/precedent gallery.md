@@ -29,6 +29,8 @@ gallery1:
 
 ---
 
+<br>
+
 For examples of good and bad precedent images, see the gallery below.
 
 The next winners will have their photos added on **31st October 2020** for the theme **free-standing walls**. To see the rules for entering, as well as information on what constitutes a 'good' and 'bad' precedent, refer to the [Precedent Gallery Info][precedent-info] page.
