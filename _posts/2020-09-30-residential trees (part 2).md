@@ -36,11 +36,16 @@ Trees in urban environments are often surrounded by impermeable surfaces and thi
 
 In addition, climate change promises more climate variability including wetter winters and drier summers, which emphasises the importance of drought tolerant tree selection. 
 
+<br><br>
+
+Choosing trees adapted to these extreme conditions will improve their chances of survival in urban environments. For some drought tolerant species lists, refer to the sidebar on the left. Other sources can be found online, inluding the RHS website.
+
 </p>
 
-Choosing trees adapted to these extreme conditions will improve their chances of survival in urban environments. For drought tolerant tree species lists, refer to the sidebar on the left - which includes a good list produced by [The Land Regeneration and Urban Greenspace Research Group (PDF)][landregen-ref].
-
-[landregen-ref]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjM7MLRhpHsAhWpVRUIHcuqAQwQFjARegQIARAB&url=https%3A%2F%2Fwww.forestresearch.gov.uk%2Fdocuments%2F2451%2FFR_Doick_BPG20_2015.pdf&usg=AOvVaw2GCeStSG1nIy2BLgUHV5gQ
+<figure class="half">
+    <a href="/assets/images/forestresearchtable.PNG"><img src="/assets/images/forestresearchtable.PNG"></a>
+    <figcaption>Table source: The Land Regeneration and Urban Greenspace Research Group </figcaption>
+</figure>
 
 <p style="text-align: justify;">
 
