@@ -28,7 +28,11 @@ Tree pit accessories such as irrigation tubing can aid in this regard, by ensuri
 
 While drought tolerant tree species may not necessarily be better adapted to drought within the establishment phase of tree planting due to the stresses of transplanting etc., it is important to consider the conditions of the planting area within the post establishment phase and select species accordingly.
 
+<br><br>
+
 Trees in urban environments are often surrounded by impermeable surfaces and this lack of access to water can mean they are subjected to more extreme conditions (drought and waterlogging) in comparison to trees planted within parks/open spaces. 
+
+<br><br>
 
 In addition, climate change promises more climate variability including wetter winters and drier summers, which emphasises the importance of drought tolerant tree selection. 
 
@@ -41,6 +45,8 @@ Choosing trees adapted to these extreme conditions will improve their chances of
 <p style="text-align: justify;">
 
 The degree of drought or waterlogging a tree experiences is also linked to the amount of rooting volume available to the tree. A larger volume available to tree roots means the tree is less influenced by these precipitation extremes.
+
+<br><br>
 
 I shall go into more detail in regards to the importance of tree rooting volumes in my next post.
 
