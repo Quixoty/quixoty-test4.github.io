@@ -15,6 +15,17 @@ gallery:
     alt: "Bad Precedent (Tree in Planter)"
     title: "Bad Precedent: Whilst the tree forms an attractive sizable green element within the streetscape, it is clear there is not enough space for the roots. When considering existing trees within newly designed landscapes, make sure to consider their proximity to hard surfaces and structures. By giving trees (proposed and existing) the space they need and not restricting them to confined spaces, damage to hard landscape elements is less of a risk."
 
+gallery1:
+  - url: /assets/images/goodprecedentpond.JPG
+    image_path: /assets/images/goodprecedentpond.JPG
+    alt: "Good Precedent (Pond)"
+    title: "Good Precedent: An attractive pond with diverse pond vegetation and not too much shade - aiding the overall pond biodiversity."
+  - url: /assets/images/badprecedentpond.jpg
+    image_path: /assets/images/badprecedentpond.jpg
+    alt: "Bad Precedent (Pond)"
+    title: "Bad Precedent: Possibly too much shading and overcrowding from trees and vigorous pond plants, which can reduce the overall biodiversity of the pond."
+
+
 
 ---
 
@@ -25,7 +36,14 @@ The next winners will be announced on **30th September 2020** for the theme **po
 
 [precedent-info]: /precedent gallery info/
 <BR>
-  
+
+**September 2020 - Ponds**
+
+
+{% include gallery id="gallery1" layout="half" caption="Examples of a **good** (left) and **bad** (right) precedent. The bad precedent has a large proportion of the pond area covered in shade, as well vigorous pond plants, which can contribute to reduced pond biodiversity." %}
+
+<br>
+
 **August 2020 - Trees in Raised Planters**
 
 
