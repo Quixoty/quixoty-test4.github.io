@@ -41,7 +41,7 @@ The next winners will have their photos added on **31st October 2020** for the t
 **September 2020 - Ponds**
 
 
-{% include gallery id="gallery1" layout="half" caption="Examples of a **good** (left) and **bad** (right) precedent. The bad precedent has a large proportion of the pond area covered in shade, as well vigorous pond plants, which can contribute to reduced pond biodiversity." %}
+{% include gallery id="gallery1" layout="half" caption="Examples of a **good** (left) and **bad** (right) precedent. The bad precedent has a large proportion of the pond area covered in shade and vigorous pond plants, which can contribute to reduced pond biodiversity." %}
 
 <br>
 
