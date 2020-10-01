@@ -18,7 +18,7 @@ header:
 ---
 
 
-Drought can be considered to be one of the primary causes of death for newly planted trees in urban landscaping schemes. This can probably be attributed to poor watering regimes during the establishment phase of tree planting, esopecially in areas of hard landscape where trees are confined to a small area of soft landscape.
+Drought can be considered to be one of the primary causes of death for newly planted trees in urban landscaping schemes. This can probably be attributed to poor watering regimes during the establishment phase of tree planting, especially in areas of hard landscape where trees are confined to a small area of soft landscape.
 
 Tree pit accessories such as irrigation tubing can aid in this regard, by ensuring watering of the tree's rootball is prioritied when watered.
 
