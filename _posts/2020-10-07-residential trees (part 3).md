@@ -62,7 +62,7 @@ Unfortunately, due to factors such as restricted budgets, poor planning and/or a
 
 <br><br>
 
-Where rooting volumes are too small for a tree, damage to hard landscape also can be expected before tree failure. See below for 2 examples where tree roots are confined to too small a volume, resulting in damage to planters and hard surfaces.
+Where rooting volumes are too small for a tree, damage to hard landscape also can be expected before tree failure. See below for 2 examples where tree roots are confined to too small a volume, resulting in damage to hard landscape.
 
 </p>
 
