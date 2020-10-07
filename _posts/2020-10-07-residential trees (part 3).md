@@ -54,7 +54,7 @@ Alternatively, use the [Soil Volume Calculator][volume-ref] on the GreenBlue Urb
 
 <p style="text-align: justify;">
 
-It is generally always better to have 'too much' available rooting volume, compared to too little.  As mentioned in my last post - larger rooting volumes  also means trees are less influenced by precipitation extremes (drought or waterlogging). 
+It is generally always better to have 'too much' available rooting volume, compared to too little.  As mentioned in my last post - larger rooting volumes also means trees are less influenced by precipitation extremes (drought or waterlogging). 
 
 <br><br>
 
