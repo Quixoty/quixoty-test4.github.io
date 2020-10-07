@@ -27,8 +27,10 @@ The primary direction of tree roots is outwards (and not downwards as is often m
 
 </p>
 
-<img src="/assets/images/greenblueurbanrootspace.jpg" alt="">
-<figcaption>An example of root cells produced by GreenBlue Urban (Image source: GreenBlue Urban)</figcaption>
+<figure class="half">
+    <a href="/assets/images/greenblueurbanrootspace.jpg"><img src="/assets/images/greenblueurbanrootspace.jpg"></a>
+    <figcaption>An example of root cells produced by GreenBlue Urban (Image source: GreenBlue Urban)</figcaption>
+</figure>
 
 <p style="text-align: justify;">
 
