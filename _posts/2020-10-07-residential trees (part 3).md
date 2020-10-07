@@ -42,7 +42,7 @@ While the cost of implementing root cells can seem an expensive solution in the 
 
 <br><br>
 
-Different sources provide different ways to calculate the required rooting volume of a tree. GreenBlue Urban uses the below equation to calulate the minimum required rooting volume, which is based on the mature canopy spread of the tree (where **r** is the mature canopy radius).
+Different sources provide different ways to calculate the required rooting volume of a tree. GreenBlue Urban uses the below equation to calulate the minimum required rooting volume, which is based on the mature canopy spread of the tree (where r is the mature canopy radius).
 
 </p>
 
