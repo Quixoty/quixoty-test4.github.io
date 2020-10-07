@@ -25,6 +25,10 @@ Smaller available rooting spaces for trees means less access to water and nutrie
 
 The primary direction of tree roots is outwards (and not downwards as is often misunderstood), to often 3 times further than the canopy, with the vast majority of the tree’s roots present within the top 600mm of soil. 
 
+<br><br>
+
+For trees planted within hard landscape, 'root cells' can be installed beneath adjacent hard surfacing, which in turn support the hard landscape above them and minimise soil compaction and resulting in increased available rooting space for trees, meaning the trees are more likely to survive in the long term. 
+
 </p>
 
 <figure class="half">
@@ -33,10 +37,6 @@ The primary direction of tree roots is outwards (and not downwards as is often m
 </figure>
 
 <p style="text-align: justify;">
-
-For trees planted within hard landscape, 'root cells' can be installed beneath adjacent hard surfacing, which in turn support the hard landscape above them and minimise soil compaction and resulting in increased available rooting space for trees, meaning the trees are more likely to survive in the long term. 
-
-<br><br>
 
 While the cost of implementing root cells can seem an expensive solution in the short term – in the long term it can end up being cheaper than without, as lower mortality rates means there are less tree replacement costs.
 
