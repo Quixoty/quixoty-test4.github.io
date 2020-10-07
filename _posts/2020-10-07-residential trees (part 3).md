@@ -42,13 +42,13 @@ While the cost of implementing root cells can seem an expensive solution in the 
 
 <br><br>
 
-Different sources provide different ways to calculate the required rooting volume of a tree. GreenBlue Urban uses the below equation to calulate the minimum required rooting volume, which is based on the eventual canopy width of the tree.
+Different sources provide different ways to calculate the required rooting volume of a tree. GreenBlue Urban uses the below equation to calulate the minimum required rooting volume, which is based on the mature canopy spread of the tree.
 
 </p>
 
 **π x r² x 0.6**
 
-Or, use the [Soil Volume Calculator][volume-ref] on the GreenBlue Urban website.
+Alternatively, use the [Soil Volume Calculator][volume-ref] on the GreenBlue Urban website.
 
 [volume-ref]: https://www.greenblue.com/gb/resources/soil-calculator
 
