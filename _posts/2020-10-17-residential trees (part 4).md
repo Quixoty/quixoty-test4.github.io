@@ -25,6 +25,8 @@ In open spaces, a boundary that prevents vehicles from parking on the soft lands
 <img src="/assets/images/kneerailteaser.JPG" alt="">
 <figcaption>Knee rail protecting soft landscape from vehicle parking</figcaption>
 
+<br>
+
 <p style="text-align: justify;">
 
 In hard landscaped areas, compaction of growing media can be avoided by providing a tree grille where pedestrian/vehicular traffic may occur, and providing root cells beneath adjacent hard landscape to prevent the soil from becoming compacted.
