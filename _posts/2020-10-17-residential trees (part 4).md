@@ -42,7 +42,7 @@ It is also worth noting that certain types of soil can be more suseptible to com
 
 <br><br>
 
-Some tree species are better adapted to compaction to others, by being able to tolerate higher oxygen deficiencies and by having a higher root penetration, meaning they can exploit more compact areas of soil:
+Some tree species are better adapted to compaction to others, by being able to tolerate higher oxygen deficiencies and by having a higher root penetration, meaning they can exploit more compact areas of soil. Tables of example tree species are included within the book 'Tree Roots in the Built Environment'.
 
 </p>
 
