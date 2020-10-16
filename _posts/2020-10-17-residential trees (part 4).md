@@ -29,16 +29,26 @@ In open spaces, a boundary that prevents vehicles from parking on the soft lands
 
 In hard landscaped areas, compaction of growing media can be avoided by providing a tree grille where pedestrian/vehicular traffic may occur, and providing root cells beneath adjacent hard landscape to prevent the soil from becoming compacted.
 
+<br><br>
+
 However, it is not just after the landscape has be implemented that the soils need to be protected from compaction. They should also be protected before  the trees have been planted. As such construction vehicles and heavy materials should be kept away from areas of soft landscape where future trees will be planted - or measures taken to protect the soils from compaction.
  
+
+<br><br> 
+
 It is also worth noting that certain types of soil can be more suseptible to compaction than others. For example clayey and loamy soils in comparison to sandy soils.
+
+<br><br>
 
 Some tree species are better adapted to compaction to others, by being able to tolerate higher oxygen deficiencies and by having a higher root penetration, meaning they can exploit more compact areas of soil:
 
 </p>
 
+<img src="/assets/images/root system types table.JPG" alt="">
+<figcaption>Tolerance to oxygen deficits (Image Source: Tree Roots in Built Environment book)</figcaption>
+
+<br>
+
 <img src="/assets/images/soil compaction table.png" alt="">
 <figcaption>Tolerance to compaction (Image Source: Tree Roots in Built Environment book)</figcaption>
 
-<img src="/assets/images/root system types table.JPG" alt="">
-<figcaption>Tolerance to oxygen deficits (Image Source: Tree Roots in Built Environment book)</figcaption>
