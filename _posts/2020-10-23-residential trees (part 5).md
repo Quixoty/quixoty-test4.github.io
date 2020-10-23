@@ -20,7 +20,7 @@ One of the biggest concerns from engineers is the proximity of trees to adoptabl
 
 <p style="text-align: justify;">
 
-Although most modern service pipes cannot be penetrated by tree roots (in contrast to the old clay pipes), the precence of tree roots in the vicinity of services can make maintenance of these pipes more tricky and more hassle than the council likes. As such they can be quite strict when it comes to tree placement.
+Although most modern service pipes cannot be penetrated by tree roots (in contrast to the old clay pipes), the presence of tree roots in the vicinity of services can make maintenance of these pipes more tricky and more hassle than the council likes. As such they can be quite strict when it comes to tree placement.
 
 <br><br>
 
@@ -29,12 +29,11 @@ As 'private' services are generally not dug up as often, and not the responsibil
 <br><br>
 
 See below for the commonly referenced Sewers for Adoption 6th edition, tree planting adjacent to sewers guidance, which states minimum required distances of proposed trees from adoptable services.
-
 </p>
 
 <img src="/assets/images/sewers for adoption 6th edition.PNG" alt="">
 <figcaption>Image source: Sewers for Adoption 6th edition</figcaption>
-
+<br>
 <p style="text-align: justify;">
 
 Where trees are within this easement a commonly proposed solution is to wrap tree pits in root barrier. This ‘solution’ is often fatal, by drastically reducing the available rooting volume to the tree. 
