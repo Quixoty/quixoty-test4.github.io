@@ -32,8 +32,9 @@ See below for the commonly referenced Sewers for Adoption 6th edition, tree plan
 </p>
 
 <img src="/assets/images/sewers for adoption 6th edition.PNG" alt="">
-<figcaption>Image source: Sewers for Adoption 6th edition</figcaption>
+
 <br>
+
 <p style="text-align: justify;">
 
 Where trees are within this easement a commonly proposed solution is to wrap tree pits in root barrier. This ‘solution’ is often fatal, by drastically reducing the available rooting volume to the tree. 
