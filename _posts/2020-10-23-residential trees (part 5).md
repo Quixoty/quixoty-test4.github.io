@@ -22,7 +22,12 @@ One of the biggest concerns from engineers is the proximity of trees to adoptabl
 
 Although most modern service pipes cannot be penetrated by tree roots (in contrast to the old clay pipes), the presence of tree roots in the vicinity of services can make maintenance of these pipes more tricky and more hassle than the council likes. As such they can be quite strict when it comes to tree placement.
 
-<br><br>
+</p>
+
+<img src="/assets/images/clay pipe roots1, toronto plumbers.jpg" alt="">
+<figcaption>Root damage to clay pipe (Image source: Toronto Plumbers)</figcaption>
+
+<p style="text-align: justify;">
 
 As 'private' services are generally not dug up as often, and not the responsibility of the county council, there are less concerns in regards to tree planting, as long as the trees in question are not planted immediately on top of it.
 
