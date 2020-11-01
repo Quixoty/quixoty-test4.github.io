@@ -25,7 +25,15 @@ gallery1:
     alt: "Bad Precedent (Pond)"
     title: "Bad Precedent: Possibly too much shading and overcrowding from trees and vigorous pond plants, which can reduce the overall biodiversity of the pond."
 
-
+gallery2:
+  - url: /assets/images/goodprecedentwall.JPG
+    image_path: /assets/images/goodprecedentwall.JPG
+    alt: "Good Precedent (Wall)"
+    title: "Good Precedent: An attractive wall with a pleasant non-uniform colour due to moss and staining."
+  - url: /assets/images/badprecedentwall.JPG
+    image_path: /assets/images/badprecedentwall.JPG
+    alt: "Bad Precedent (Wall)"
+    title: "Bad Precedent: Unattractive wall with damaged concrete panels, low quality graffiti, and barbed wire. Perhaps with repair/replacement of broken panels as well as some high quality graffiti/art, this wall could become a more attractive feature?"
 
 ---
 
@@ -33,10 +41,17 @@ gallery1:
 
 For examples of good and bad precedent images, see the gallery below.
 
-The next winners will have their photos added on **31st October 2020** for the theme **free-standing walls**. To see the rules for entering, as well as information on what constitutes a 'good' and 'bad' precedent, refer to the [Precedent Gallery Info][precedent-info] page.
+The next winners will have their photos added on **30th November 2020** for the theme **setts/cobbles**. To see the rules for entering, as well as information on what constitutes a 'good' and 'bad' precedent, refer to the [Precedent Gallery Info][precedent-info] page.
 
 [precedent-info]: /precedent gallery info/
 <BR>
+  
+**October 2020 - Free-standing Walls**
+
+
+{% include gallery id="gallery2" layout="half" caption="Examples of a **good** (left) and **bad** (right) precedent." %}
+
+<br>
 
 **September 2020 - Ponds**
 
