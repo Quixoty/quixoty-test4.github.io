@@ -57,7 +57,7 @@ A couple of sources categorising trees by root system architecture and rooting d
 
 </p>
 
-<img src="/assets/images/root system types table.JPG" alt="">
+<img src="/assets/images/root system table.jpg" alt="">
 <figcaption>Tree root types by species (Image Source: Tree Roots in Built Environment book)</figcaption>
 
 <br>
