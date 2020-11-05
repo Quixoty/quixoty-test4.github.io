@@ -51,6 +51,8 @@ Where soil is compacted, roots are likely to be higher in the soil profile, incr
 <img src="/assets/images/pavingdamageteaser.JPG" alt="">
 <figcaption>An example of where tree placement/path position was so small that the trunk is now encroaching the path surface</figcaption>
 
+<br>
+
 <p style="text-align: justify;">
 
 A couple of sources categorising trees by root system architecture and rooting depth are shown below:
