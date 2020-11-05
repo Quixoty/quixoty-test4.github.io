@@ -38,7 +38,7 @@ Where soil is compacted, roots are likely to be higher in the soil profile, incr
 
 * Avoiding excessive compaction of soil
 
-* Installing root barrier (300mm should be sufficient) in places where trees are in close proximity to hard surfacing – however the tree must still have enough rooting volume available, or it will die
+* Installing root barrier (300mm is usually sufficient) in places where trees are in close proximity to hard surfacing – however the tree must still have enough rooting volume available, or it will die
 
 * Making sure the distance between the trunk and paving is not too small (see below for an example where this has gone badly)
 
