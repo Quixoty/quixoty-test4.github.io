@@ -11,7 +11,7 @@ tags:
   - Residential
   - Pollution
 header:
-  teaser: /assets/treesandshrubsteaser.JPG
+  teaser: /assets/images/treesandshrubsteaser.JPG
   
 ---
 
