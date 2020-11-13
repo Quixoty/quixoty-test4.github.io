@@ -19,9 +19,13 @@ Trees planted in urban areas are likely to be exposed to the air pollution produ
 
 <p style="text-align: justify;">
 
-Pollutants include Sulphur dioxide and Nitrogen dioxide which can contribute to lower rates of photosynthesis in trees, resulting in lower growth rates. Choosing trees tolerant to these chemicals can mitigate the harm done and increase their chances of survival.
+Pollutants include Sulphur dioxide and Nitrogen dioxide which can contribute to lower rates of photosynthesis in trees, resulting in lower growth rates. 
 
-One source categorising trees by tolerance to air pollutants is shown below:
+<br>
+
+Choosing trees tolerant to these chemicals can mitigate the harm done and increase their chances of survival.
+
+<br>
 
 Below is an extract from the book Tree Roots in the Built Environment in which some tree species are catagorised according to their tolerance to pollution.
 
