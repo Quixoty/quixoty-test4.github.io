@@ -27,5 +27,5 @@ Below is an extract from the book Tree Roots in the Built Environment in which s
 
 </p>
 
-<img src="/assets/images/root system table.jpg" alt="">
+<img src="/assets/images/pollution tolerance.jpg" alt="">
 <figcaption>Pollution tolerance of tree species (Image Source: Tree Roots in the Built Environment book)</figcaption>
