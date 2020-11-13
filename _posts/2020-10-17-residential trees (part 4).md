@@ -47,7 +47,7 @@ Some tree species are better adapted to compaction to others, by being able to t
 </p>
 
 <img src="/assets/images/root system table.jpg" alt="">
-<figcaption>Tolerance to oxygen deficits (Image Source: Tree Roots in Built Environment book)</figcaption>
+<figcaption>Tolerance to oxygen deficits (Image Source: Tree Roots in the Built Environment book)</figcaption>
 
 <br>
 
