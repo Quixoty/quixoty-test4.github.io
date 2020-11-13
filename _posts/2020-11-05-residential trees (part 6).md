@@ -60,9 +60,9 @@ A couple of sources categorising trees by root system architecture and rooting d
 </p>
 
 <img src="/assets/images/root system table.jpg" alt="">
-<figcaption>Tree root types by species (Image Source: Tree Roots in Built Environment book)</figcaption>
+<figcaption>Tree root types by species (Image Source: Tree Roots in the Built Environment book)</figcaption>
 
 <br>
 
 <img src="/assets/images/root depth table.jpg" alt="">
-<figcaption>Tree root depths by species (Image Source: Tree Roots in Built Environment book)</figcaption>
+<figcaption>Tree root depths by species (Image Source: Tree Roots in the Built Environment book)</figcaption>
