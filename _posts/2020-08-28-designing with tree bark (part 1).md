@@ -83,7 +83,7 @@ gallery4:
   - url: /assets/images/Parrotia persica.jpg
     image_path: /assets/images/Parrotia persica.jpg
     alt: "Parrotia persica (Image source: A. Barra)"
-    title: "Acer griseum (Image source: A. Barra)"
+    title: "Parrotia persica (Image source: A. Barra)"
   - url: /assets/images/platanus x hispanica CC0.jpg
     image_path: /assets/images/platanus x hispanica CC0.jpg
     alt: "Platanus x hispanica"
