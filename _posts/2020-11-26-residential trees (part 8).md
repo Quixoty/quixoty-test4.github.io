@@ -12,7 +12,7 @@ tags:
   - Pests
   - Diseases
 header:
-  teaser: /assets/appleteaser.JPG
+  teaser: /assets/images/appleteaser.JPG
   
 ---
 
