@@ -16,7 +16,7 @@ header:
   
 ---
 
-Some tree species have more problems with pests and diseases than others. In species selection, make sure to check whether the tree species in question has any prominent pests/diseases, and if so, consider choosing another species, or find a cultivar immune/resistant to the disease in question. 
+Some tree species have more problems with pests and diseases than others. In species selection, make sure to check whether the tree species in question has any prominent pests or diseases, and if so, consider choosing another species, or find a cultivar immune/resistant to the disease in question. 
 
 <p style="text-align: justify;">
 
@@ -28,7 +28,9 @@ Refer to the below links for further information on pests and diseases:
 </p>
 
 [RHS Plant Pests][1-ref]
+<br>
 [RHS Plant Diseases][2-ref]
+<br>
 [.GOV Tree Pests and Diseases][3-ref]
 
 [1-ref]: https://www.rhs.org.uk/advice/plant-problems/pests
