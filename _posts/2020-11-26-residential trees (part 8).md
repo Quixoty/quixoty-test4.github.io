@@ -21,9 +21,9 @@ Some tree species have more problems with pests and diseases than others. In spe
 <p style="text-align: justify;">
 
 It is generally a good idea to have a variety of tree species on site so if any pests/diseases do infect a specific tree species, not all the trees are influenced.
-
+<br><br>
 When sourcing the trees, ideally use reputable UK grown tree suppliers to minimise the chances of diseased stock infecting trees on site.
-
+<br><br>
 Refer to the below links for further information on pests and diseases:
 </p>
 
