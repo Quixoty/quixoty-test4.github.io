@@ -35,17 +35,36 @@ gallery2:
     alt: "Bad Precedent (Wall)"
     title: "Bad Precedent: Unattractive wall with damaged concrete panels, low quality graffiti, and barbed wire. Perhaps with repair/replacement of broken panels as well as some high quality graffiti/art, this wall could become a more attractive feature?"
 
+gallery3:
+  - url: /assets/images/goodsetts.JPG
+    image_path: /assets/images/goodsetts.JPG
+    alt: "Good Precedent (Setts)"
+    title: "Good Precedent: Appearance of setts are enhanced by moss growth in the joints creating an interesting and attractive hard/soft feature."
+  - url: /assets/images/badsetts.JPG
+    image_path: /assets/images/badsetts.JPG
+    alt: "Bad Precedent (Setts)"
+    title: "Bad Precedent: Unnattractive, and inconsistently poured concrete between these setts has resulted in a poor transition from the 2 adjacent block paving types"
+
 ---
 
 <br>
 
 For examples of good and bad precedent images, see the gallery below.
 
-The next winners will have their photos added on **30th November 2020** for the theme **setts/cobbles**. To see the rules for entering, as well as information on what constitutes a 'good' and 'bad' precedent, refer to the [Precedent Gallery Info][precedent-info] page.
+The next winners will have their photos added on **31st December 2020** for the theme **carpark planting**. To see the rules for entering, as well as information on what constitutes a 'good' and 'bad' precedent, refer to the [Precedent Gallery Info][precedent-info] page.
 
 [precedent-info]: /precedent gallery info/
 <BR>
   
+**November 2020 - Setts/cobbles**
+
+
+{% include gallery id="gallery3" layout="half" caption="Examples of a **good** (left) and **bad** (right) precedent." %}
+
+<br>
+
+
+
 **October 2020 - Free-standing Walls**
 
 
