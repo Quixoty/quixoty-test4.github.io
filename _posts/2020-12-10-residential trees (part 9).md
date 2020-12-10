@@ -15,7 +15,7 @@ header:
   
 ---
 
-The 3 main ways trees are provided are as a bare-root, rootball or containerised.
+The 3 main ways trees are provided are as bare-roots, rootballs or in containers.
 
 The pros and cons of each are summarised in the table below:
 
