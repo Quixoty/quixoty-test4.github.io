@@ -28,7 +28,7 @@ The initial planted size of trees is an important factor to consider when specif
 Trees can be bought at sizes ranging from 40cm whips to 6m+ semi-mature trees, both of which have pros and cons, as summarised below. 
 
 
-Trees planted at smaller sizes:
+**Trees planted at smaller sizes:**
 
 {% capture notice-1 %}
 
@@ -60,7 +60,7 @@ Trees planted at smaller sizes:
 </div>
 
 
-Trees planted at larger sizes:
+**Trees planted at larger sizes:**
 
 {% capture notice-3 %}
 
