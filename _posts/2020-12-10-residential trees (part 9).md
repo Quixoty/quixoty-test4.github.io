@@ -19,7 +19,7 @@ The 3 main ways trees are provided are as a bare-root, rootball or containerised
 
 The pros and cons of each are summarised in the table below:
 
-<img src="/assets/images/root system table.jpg" alt="">
+<img src="/assets/images/spec table.png" alt="">
 
 
 **Initial Planting Size**
