@@ -11,7 +11,7 @@ tags:
   - Residential
   - Specification
 header:
-  teaser: /assets/eucteaser.JPG
+  teaser: /assets/images/eucteaser.JPG
   
 ---
 
