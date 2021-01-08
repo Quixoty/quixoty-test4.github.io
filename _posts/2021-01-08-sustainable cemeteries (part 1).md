@@ -19,6 +19,8 @@ Two of the main landscape components of a cemetery within the UK include regular
 <img src="/assets/images/cemeteryteaser.JPG" alt="">
 <figcaption>Crookes Cemetery in Sheffield - fairly typical for a cemetery in the UK</figcaption>
 
+<br>
+
 However typical UK cemetery management practices, have a multitude of problems that can be associated with them.
 
 {% capture notice-1 %}
