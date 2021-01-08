@@ -16,9 +16,8 @@ header:
 
 Two of the main landscape components of a cemetery within the UK include regularly mown grass, and gravestones. Grass is usually maintained to a short sward to appear neat and tidy - and as such, is what is typically expected of in a cemetery in the UK.
 
-Below is an image of Crookes Cemetery in Sheffield - fairly typical for a cemetery in the UK.
-
 <img src="/assets/images/cemeteryteaser.JPG" alt="">
+<figcaption>Crookes Cemetery in Sheffield - fairly typical for a cemetery in the UK</figcaption>
 
 However typical UK cemetery management practices, have a multitude of problems that can be associated with them.
 
