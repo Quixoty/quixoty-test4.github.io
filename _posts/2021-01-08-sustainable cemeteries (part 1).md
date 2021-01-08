@@ -44,14 +44,21 @@ However typical UK cemetery management practices, have a multitude of problems t
 
 A lack of long-term vision and continuation of unsustainable management practices means many of these issues will continue to be a risk in many cemeteries. 
 
+<br><br>
+
 Challenging conventional views of how a cemetery 'should be' needs to be done to enact positive long-term change in in response (and preparation) of long term issues such as climate change.
-
+<br><br>
 A changing climate will mean increased climatic extremes, such as hotter drier summers, and wetter winters (increased drought and waterlogging). Cemeteries in particular will be vulnerable to both these extremes, possibly more so compared to other landscapes.
-
+<br><br>
 In a place where the dead are laid to rest, surely it makes sense to form a space with value to wildlife - rather than one that acts as a storage area for the deceased.
 
-These issues do not mean cemeteries need a complete redesign. Small but impactful changes in management and maintenance to existing cemeteries can help alleviate these issues, whilst providing benefits of their own. 
+</p>
 
+<img src="/assets/images/cemeteryteaser2.JPG" alt="">
+
+<p style="text-align: justify;">
+These issues do not mean cemeteries need a complete redesign. Small but impactful changes in management and maintenance to existing cemeteries can help alleviate these issues, whilst providing benefits of their own. 
+<br><br>
 As can be expected with change, issues in regards to perception by users may be challenging to address, despite the long-term benefits, as will be later discussed.
 
 </p>
