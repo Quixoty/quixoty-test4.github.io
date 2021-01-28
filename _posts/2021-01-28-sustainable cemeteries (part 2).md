@@ -20,6 +20,8 @@ Examples of actions which can be applied to many existing cemeteries throughout 
 <img src="/assets/images/cemeterygrassshort.JPG" alt="">
 <figcaption>Shortly mown grass</figcaption>
 
+<br>
+
 **Reduced grass cutting frequency**
 
 Since shortly mown amenity grass is the most common and dominating vegetation in a cemetery, changes in maintenance can have a big impact.
