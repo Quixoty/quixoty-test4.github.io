@@ -26,8 +26,6 @@ Examples of actions which can be applied to many existing cemeteries throughout 
 
 #### Reduced grass cutting frequency
 
-<br>
-
 Since shortly mown amenity grass is the most common and dominating vegetation in a cemetery, changes in maintenance can have a big impact.
 
 Benefits:
@@ -176,6 +174,8 @@ Negatives:
 
 <img src="/assets/images/damagedstones.JPG" alt="">
 <figcaption>Grave subsidence resulting in broken gravestones</figcaption>
+
+<br>
 
 <p style="text-align: justify;">
 
