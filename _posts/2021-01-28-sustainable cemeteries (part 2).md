@@ -18,7 +18,7 @@ header:
 Examples of actions which can be applied to many existing cemeteries throughout the UK are shown below, including both positives and negatives to potential solutions. These actions mainly include changes in maintenance.
 
 <img src="/assets/images/cemeterygrassshort.JPG" alt="">
-<figcaption>Shortly mown grass</figcaption>
+<figcaption>Shortly mown grass in Crookes Cemetery</figcaption>
 
 <br>
 
