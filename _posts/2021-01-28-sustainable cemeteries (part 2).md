@@ -22,10 +22,11 @@ Examples of actions which can be applied to many existing cemeteries throughout 
 
 <br>
 
-**Reduced grass cutting frequency**
+{% capture notice-1 %}
+
+#### Reduced grass cutting frequency
 
 Since shortly mown amenity grass is the most common and dominating vegetation in a cemetery, changes in maintenance can have a big impact.
-
 
 Benefits:
 
@@ -33,7 +34,6 @@ Benefits:
 + Increased biodiversity can provide educational opportunities for local schools
 + Longer grass is more resistant to climate extremes (e.g. drought)
 + Reduced maintenance costs
-
 
 Negatives:
 
@@ -43,6 +43,12 @@ Negatives:
 Potential solutions to drawbacks:
 
 Short mown 'strips' of grass adjacent to paths, or to the front of graves can help show that the space is still being maintained, and will be more visually appealing especially to those used to the short mown grass aesthetic of cemeteries - mitigating negative public perception
+
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-1 | markdownify }}
+</div>
 
 <figure class="half">
     <a href="/assets/images/alpaca.jpg"><img src="/assets/images/alpaca.jpg"></a>
