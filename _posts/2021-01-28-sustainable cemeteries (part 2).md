@@ -58,12 +58,19 @@ Short mown 'strips' of grass adjacent to paths, or to the front of graves can he
     <figcaption>Alpacas grazing on Holly Hagg Farm- located close to Crookes Cemetery (Image source: Holly Hagg Farm) <br> Scything (Image source: Abundantgardens.uk)</figcaption>
 </figure>
 
-**Change in grass cutting method**
+{% capture notice-2 %}
+
+#### Change in grass cutting method
 
 Instead of the typical machine mowing and strimmers used in typical grass cutting, this action looks to implement alternative methods, two of which are below.
 
+{% endcapture %}
 
-{% capture notice-2 %}
+<div class="notice">
+  {{ notice-2 | markdownify }}
+</div>
+
+{% capture notice-3 %}
 
 #### Animal Grazing
 
@@ -86,10 +93,10 @@ Negatives:
 {% endcapture %}
 
 <div class="notice">
-  {{ notice-2 | markdownify }}
+  {{ notice-3 | markdownify }}
 </div>
 
-{% capture notice-3 %}
+{% capture notice-4 %}
 
 #### Scything
 
@@ -112,7 +119,7 @@ Negatives:
 {% endcapture %}
 
 <div class="notice">
-  {{ notice-3 | markdownify }}
+  {{ notice-4 | markdownify }}
 </div>
 
 **Transition to natural/green burials**
