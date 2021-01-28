@@ -63,7 +63,9 @@ Short mown 'strips' of grass adjacent to paths, or to the front of graves can he
 Instead of the typical machine mowing and strimmers used in typical grass cutting, this action looks to implement alternative methods, two of which are below.
 
 
-Animal Grazing
+{% capture notice-2 %}
+
+#### Animal Grazing
 
 This action would bring grazing animals onto the cemetery, either once or twice a year, or remain year round within the cemetery. The selection of docile grazing animals would be ideal as they may be in close proximity to people.
 
@@ -81,9 +83,15 @@ Negatives:
 - Increased logistical considerations including securing of boundaries, observation of animals, and implmentation of animal fencing restrict their access to fresh graves
 - Cemetery will likely need to be locked at night (as typical for a cemetery)
 
+{% endcapture %}
 
+<div class="notice">
+  {{ notice-2 | markdownify }}
+</div>
 
-Scything
+{% capture notice-3 %}
+
+#### Scything
 
 This action would include the use of scythes to maintain areas of grass. Possibly working with local sycthe training groups to provide a space where they can train
 
@@ -101,6 +109,11 @@ Negatives:
 - Requires the engagement of scythe enthusiasts
 - Can be more problematic/less practical in places with gravestones at high densities
 
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-3 | markdownify }}
+</div>
 
 **Transition to natural/green burials**
 
