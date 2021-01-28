@@ -122,7 +122,9 @@ Negatives:
   {{ notice-4 | markdownify }}
 </div>
 
-**Transition to natural/green burials**
+{% capture notice-5 %}
+
+#### Transition to natural/green burials**
 
 
 Natural/green burials are a burial method that avoids the typical embalming/chemical treatment process, with the wrapping of the body in a shroud rather than a coffin.
@@ -138,11 +140,20 @@ Negatives:
 
 - Not as common in the UK, so people are still unfamiliar with the process
 
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-5 | markdownify }}
+</div>
 
 <img src="/assets/images/woodland burial, rose and trev clough.jpg" alt="">
 <figcaption>Woodland burial area - Carlisle Cemetery - featuring only natural grave markers (Image source: Rose and Trev Clough, 2019)</figcaption>
 
-**Transition to alternative grave markers**
+<br>
+
+{% capture notice-6 %}
+
+#### Transition to alternative grave markers**
 
 Gravestones are one of the most common way to mark graves in the UK, however transitioning to using alternative grave markings such as tree planting or GPS will be more sustainable. 
 
@@ -156,6 +167,12 @@ Negatives:
 
 - Natural burial markers can be considered less permanent and personalised compared to gravestones
 - May be more difficult for mourners to locate the exact burial spot
+
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-6 | markdownify }}
+</div>
 
 <img src="/assets/images/damagedstones.JPG" alt="">
 <figcaption>Grave subsidence resulting in broken gravestones</figcaption>
