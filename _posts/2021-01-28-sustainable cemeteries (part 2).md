@@ -122,7 +122,7 @@ Negatives:
 
 {% capture notice-5 %}
 
-#### Transition to natural/green burials**
+#### Transition to natural/green burials
 
 
 Natural/green burials are a burial method that avoids the typical embalming/chemical treatment process, with the wrapping of the body in a shroud rather than a coffin.
@@ -151,7 +151,7 @@ Negatives:
 
 {% capture notice-6 %}
 
-#### Transition to alternative grave markers**
+#### Transition to alternative grave markers
 
 Gravestones are one of the most common way to mark graves in the UK, however transitioning to using alternative grave markings such as tree planting or GPS will be more sustainable. 
 
