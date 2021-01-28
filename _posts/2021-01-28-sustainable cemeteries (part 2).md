@@ -53,7 +53,7 @@ Short mown 'strips' of grass adjacent to paths, or to the front of graves can he
 <figure class="half">
     <a href="/assets/images/alpaca.jpg"><img src="/assets/images/alpaca.jpg"></a>
     <a href="/assets/images/scything.jpg"><img src="/assets/images/scything.jpg"></a>
-    <figcaption>Alpacas grazing on Holly Hagg Farm- located close to Crookes Cemetery (Image source: Holly Hagg Farm), and scything (Image source: Abundantgardens.uk)</figcaption>
+    <figcaption>Alpacas grazing on Holly Hagg Farm- located close to Crookes Cemetery (Image source: Holly Hagg Farm) <br> Scything (Image source: Abundantgardens.uk)</figcaption>
 </figure>
 
 **Change in grass cutting method**
