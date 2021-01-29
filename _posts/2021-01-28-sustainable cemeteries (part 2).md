@@ -187,6 +187,6 @@ Of course, despite the countless benefits mentioned, public perception and conti
 
 <br><br>
 
-The formation of precedent cemetery sites within the UK to demonstrate the implementation of these principles would be beneficial and help encourage other cemeteries to follow. Hopefully we can move towards more sustainable practices. 
+The formation of precedent cemetery sites within the UK to demonstrate the implementation of these principles would be beneficial and help encourage other cemeteries to follow more sustainable practices. 
 
 </p>
