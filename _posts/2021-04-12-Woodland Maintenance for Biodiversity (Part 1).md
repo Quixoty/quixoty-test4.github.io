@@ -15,7 +15,7 @@ header:
   
 ---
 
-Whilst woodlands do have relatively low maintenance requirements as shade suppresses the ground layer - it does not mean that a lack of maintenance is good for woodland biodiversity.
+Whilst woodlands do have relatively low maintenance requirements - it does not mean that a lack of maintenance is good for woodland biodiversity.
 
 In fact, a balanced approach, not at the extremes of zero or excessive maintenance is key to aiding biodiversity for new or existing woodlands.
 
@@ -38,7 +38,8 @@ An example of an existing woodland that could be improved via maintenance interv
   {{ notice-1 | markdownify }}
 </div>
 
-
+<p style="text-align: justify;">
+  
 These characteristics are significant contributers to low biodiversity, and are not unique to this site.
 
 And without specific strategic interventions and changes in maintenance, improvements to biodiversity cannot be expected to occur naturally over time for low diversity woodlands.
@@ -46,6 +47,7 @@ And without specific strategic interventions and changes in maintenance, improve
 In the next post, I shall discuss specific actions that can be taken to improve biodiversity for woodlands like the Ponderosa woodland to gradually improve the site over time.
 
 Wildlife catered to will include insects, pollinators (such as woodland butterflies), small mammals, birds and bats. These improvements for wildlife conditions will also have the knock-on effect of generally improving the site for people as well.
+</p>
 
 {% capture notice-2 %}
 
