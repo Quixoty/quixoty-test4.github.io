@@ -56,7 +56,6 @@ See below for what constitutes a good and bad precedent.
 
 The rules for this competition are that the photo:
 * is related to the theme
-* has been taken by yourself relatively recently
 * does not include any identifiable people in it
 
 Make sure to send your photos to **landscapedesigntips@outlook.com** along with your name should you want to be credited. If you can, please include a short description of why you consider the photo to be a good or bad precedent.
