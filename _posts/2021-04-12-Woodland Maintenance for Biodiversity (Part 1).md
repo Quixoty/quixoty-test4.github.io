@@ -19,12 +19,10 @@ Whilst woodlands do have relatively low maintenance requirements - it does not m
 
 In fact, a balanced approach, not at the extremes of zero or excessive maintenance is key to aiding biodiversity for new or existing woodlands.
 
+An example of an existing woodland that could be improved via maintenance interventions includes the woodland area of the Ponderosa in Sheffield.
+
 <img src="/assets/images/ponderosateaser.JPG" alt="">
 <figcaption>Ponderosa woodland, Sheffield</figcaption>
-
-<br>
-
-An example of an existing woodland that could be improved via maintenance interventions includes the woodland area of the Ponderosa in Sheffield.
 
 {% capture notice-1 %}
 
