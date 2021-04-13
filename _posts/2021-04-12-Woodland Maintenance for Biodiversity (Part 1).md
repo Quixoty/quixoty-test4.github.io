@@ -41,9 +41,9 @@ An example of an existing woodland that could be improved via maintenance interv
 
 <p style="text-align: justify;">
   
-These characteristics are significant contributers to low biodiversity, and are not unique to this site. And without specific strategic interventions and changes in maintenance, improvements to biodiversity cannot be expected to occur naturally over time for low diversity woodlands.
+These characteristics are significant contributers to low biodiversity, and are not unique to this site. Without specific strategic interventions and changes in maintenance, improvements to biodiversity cannot be expected to occur naturally over time for low diversity woodlands.
 <br><br>
-In the next post, I shall discuss specific actions that can be taken to improve biodiversity for woodlands like the Ponderosa woodland to gradually improve the site over time.
+In the next post, I shall discuss specific actions that can be taken to improve biodiversity for woodlands to gradually improve the site over time.
 <br><br>
 Wildlife catered to will include insects, pollinators (such as woodland butterflies), small mammals, birds and bats. These improvements for wildlife conditions will also have the knock-on effect of generally improving the site for people as well.
 </p>
