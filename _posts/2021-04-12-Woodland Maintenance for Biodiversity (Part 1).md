@@ -22,6 +22,7 @@ In fact, a balanced approach, not at the extremes of zero or excessive maintenan
 <img src="/assets/images/ponderosateaser.JPG" alt="">
 <figcaption>Ponderosa woodland, Sheffield</figcaption>
 
+<br>
 
 An example of an existing woodland that could be improved via maintenance interventions includes the woodland area of the Ponderosa in Sheffield.
 
