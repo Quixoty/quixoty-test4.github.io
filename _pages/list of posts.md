@@ -30,10 +30,10 @@ sidebar:
 [Residential Trees (Part 8) - Pests & Diseases][tree-eight] <br>
 [Residential Trees (Part 9) - Tree Specification][tree-nine] <br><br>
 
+[Sustainable Cemeteries (Part 1) - The Issues][cemetery-one] <br>
+[Sustainable Cemeteries (Part 2) - The Solutions][cemetery-two] <br><br>
 
-
-
-
+[Woodland Maintenance for Biodiversity (Part 1) - Introduction][woodland-one] <br>
 
 [hedge-one]: /mixed-native-hedges-(part-1)/
 [hedge-two]: /mixed-native-hedges-(part-2)/
@@ -56,3 +56,8 @@ sidebar:
 [tree-seven]: /residential-trees-(part-7)/
 [tree-eight]: /residential-trees-(part-8)/
 [tree-nine]:  /residential-trees-(part-9)/
+
+[cemetery-one]: /sustainable-cemeteries-(part-1)/
+[cemetery-two]: /sustainable-cemeteries-(part-2)/
+
+[woodland-one]: /Woodland-Maintenance-for-Biodiversity-(Part-1)/
