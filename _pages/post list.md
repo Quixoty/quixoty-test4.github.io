@@ -7,15 +7,6 @@ sidebar:
 
 ---
 
-<br>
-
-For examples of good and bad precedent images, see the gallery below.
-
-
-
-mixed-native-hedges-(part-1)
-
-
-[Precedent Gallery Info]: /precedent gallery info/
+[Precedent Gallery Info][precedent-info] [precedent-info]: /precedent gallery info/
 
   
