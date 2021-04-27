@@ -8,8 +8,9 @@ sidebar:
 ---
 <br>
 
-[Mixed Native Hedges (Part 1) - Value to Wildlife][x-1]. 
-[x-1]: /mixed-native-hedges-(part-1)/
+[Mixed Native Hedges (Part 1) - Value to Wildlife][one]
+
+[one]: /mixed-native-hedges-(part-1)/
 
 
 
