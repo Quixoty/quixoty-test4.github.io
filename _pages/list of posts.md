@@ -42,10 +42,10 @@ sidebar:
 [hedge-five]: /mixed-native-hedges-(part-5)/
 [hedge-six]: /mixed-native-hedges-(part-6)/
 
-[bark-one]: designing-with-tree-bark-(part-1)/
-[bark-two]: designing-with-tree-bark-(part-2)/
-[bark-three]: designing-with-tree-bark-(part-3)/
-[bark-four]: designing-with-tree-bark-(part-4)/
+[bark-one]: /designing-with-tree-bark-(part-1)/
+[bark-two]: /designing-with-tree-bark-(part-2)/
+[bark-three]: /designing-with-tree-bark-(part-3)/
+[bark-four]: /designing-with-tree-bark-(part-4)/
 
 [tree-one]: /residential-trees-(part-1)/
 [tree-two]: /residential-trees-(part-2)/
