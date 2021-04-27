@@ -6,9 +6,16 @@ sidebar:
   nav: "docs"
 
 ---
+<br>
 
 [Precedent Gallery][precedent-gallery]. 
-
 [precedent-gallery]: /precedent gallery/
+
+
+
+
+
+
+
 
   
