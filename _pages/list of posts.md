@@ -1,6 +1,6 @@
 ---
 permalink: /list of posts/
-title: "List of posts"
+title: "List of Posts"
 classes: wide
 sidebar:
   nav: "docs"
