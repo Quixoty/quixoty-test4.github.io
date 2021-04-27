@@ -7,6 +7,7 @@ sidebar:
 
 ---
 
-[Precedent Gallery Info][precedent-info] [precedent-info]: /precedent gallery info/
+[Precedent Gallery Info][precedent-info] 
+[precedent-info]: /precedent gallery info/
 
   
