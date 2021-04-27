@@ -1,7 +1,6 @@
 ---
 permalink: /post list/
 title: "List of posts"
-layout: home
 classes: wide
 sidebar:
   nav: "docs"
