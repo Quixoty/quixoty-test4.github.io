@@ -21,9 +21,10 @@ sidebar:
 [d]: /mixed-native-hedges-(part-4)/
 
 [Mixed Native Hedges (Part 5) - Species Selection][e]
-[e]: /mixed-native-hedges-(part-4)/
+[e]: /mixed-native-hedges-(part-5)/
 
-
+[Mixed Native Hedges (Part 6) - Character vs Ecology][d]
+[d]: /mixed-native-hedges-(part-6)/
 
 
 
