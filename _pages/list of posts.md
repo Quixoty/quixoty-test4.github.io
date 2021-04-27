@@ -9,7 +9,11 @@ sidebar:
 <br>
 
 [Mixed Native Hedges (Part 1) - Value to Wildlife][hedge-one]
-
+[Mixed Native Hedges (Part 2) - Value to People][hedge-two]
+[Mixed Native Hedges (Part 3) - Specification][hedge-three]
+[Mixed Native Hedges (Part 4) - Maintenance][hedge-four]
+[Mixed Native Hedges (Part 5) - Species Selection][hedge-five]
+[Mixed Native Hedges (Part 6) - Character vs Ecology][hedge-six]
 
 
 
