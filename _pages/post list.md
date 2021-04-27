@@ -9,7 +9,7 @@ sidebar:
 ---
 <br>
 
-[Mixed Native Hedges (Part 1) - Value to Wildlife][one-A]
+[Mixed Native Hedges (Part 1) - Value to Wildlife][one-A].
 [one-A]: /mixed-native-hedges-(part-1)/
 
 
