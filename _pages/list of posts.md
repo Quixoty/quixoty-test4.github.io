@@ -13,17 +13,22 @@ sidebar:
 [Mixed Native Hedges (Part 3) - Specification][hedge-three] <br>
 [Mixed Native Hedges (Part 4) - Maintenance][hedge-four] <br>
 [Mixed Native Hedges (Part 5) - Species Selection][hedge-five] <br>
-[Mixed Native Hedges (Part 6) - Character vs Ecology][hedge-six] <br>
+[Mixed Native Hedges (Part 6) - Character vs Ecology][hedge-six] <br><br>
 
 [Designing With Tree Bark (Part 1) - Species Selection][bark-one] <br>
 [Designing With Tree Bark (Part 2) - Specification][bark-two] <br>
 [Designing With Tree Bark (Part 3) - Tree Positioning][bark-three] <br>
-[Designing With Tree Bark (Part 4) - Visual Acuity][bark-four] <br>
+[Designing With Tree Bark (Part 4) - Visual Acuity][bark-four] <br><br>
 
-
-
-
-
+[Residential Trees (Part 1) - Zones of Influence][tree-one] <br>
+[Residential Trees (Part 2) - Drought Tolerance][tree-two] <br>
+[Residential Trees (Part 3) - Rooting Volumes][tree-three] <br>
+[Residential Trees (Part 4) - Soil Compaction][tree-four] <br>
+[Residential Trees (Part 5) - Protecting Services][tree-five] <br>
+[Residential Trees (Part 6) - Protecting Paving][tree-six] <br>
+[Residential Trees (Part 7) - Pollution Tolerance][tree-seven] <br>
+[Residential Trees (Part 8) - Pests & Diseases][tree-eight] <br>
+[Residential Trees (Part 9) - Tree Specification][tree-nine] <br><br>
 
 
 
@@ -41,3 +46,13 @@ sidebar:
 [bark-two]: designing-with-tree-bark-(part-2)/
 [bark-three]: designing-with-tree-bark-(part-3)/
 [bark-four]: designing-with-tree-bark-(part-4)/
+
+[tree-one]: /residential-trees-(part-1)/
+[tree-two]: /residential-trees-(part-2)/
+[tree-three]: /residential-trees-(part-3)/
+[tree-four]: /residential-trees-(part-4)/
+[tree-five]: /residential-trees-(part-5)/
+[tree-six]: /residential-trees-(part-6)/
+[tree-seven]: /residential-trees-(part-7)/
+[tree-eight]: /residential-trees-(part-8)/
+[tree-nine]:  /residential-trees-(part-9)/
