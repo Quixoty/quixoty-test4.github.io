@@ -1,5 +1,5 @@
 ---
-permalink: /post list/
+permalink: /list of posts/
 title: "List of posts"
 classes: wide
 sidebar:
