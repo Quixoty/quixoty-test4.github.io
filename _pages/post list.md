@@ -8,8 +8,11 @@ sidebar:
 ---
 <br>
 
-[Precedent Gallery][precedent-gallery]. 
-[precedent-gallery]: /precedent gallery/
+[Mixed Native Hedges (Part 1) - Value to Wildlife][1]. 
+[1]: /mixed-native-hedges-(part-1)/
+
+
+
 
 
 
