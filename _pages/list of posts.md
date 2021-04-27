@@ -14,5 +14,7 @@ sidebar:
 
 
 
+[Precedent Gallery][precedent-gallery]. 
 
+[precedent-gallery]: /precedent gallery/
   
