@@ -9,6 +9,8 @@ main:
 docs:
   - title: Useful Links
     children:
+      - title: "List of Posts"
+        url: https://landscapedesigntips.co.uk/list%20of%20posts/
       - title: "Soilscapes Soil Viewer"
         url: http://www.landis.org.uk/soilscapes/
       - title: "Magic Map"
