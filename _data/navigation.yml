@@ -7,26 +7,22 @@ main:
     url: /about/
 
 docs:
-  - title: Useful Internal Links
-      children:
-        - title: "List of Posts"
-          url: https://landscapedesigntips.co.uk/list of posts/
   - title: Useful Links
-      children:
-        - title: "Soilscapes Soil Viewer"
-          url: http://www.landis.org.uk/soilscapes/
-        - title: "Magic Map"
-          url: https://magic.defra.gov.uk/
-        - title: "Climate Matching Tool"
-          url: https://climatematch.org.uk/
-        - title: "RHS Plant Finder"
-          url: https://www.rhs.org.uk/plants/search-form
-        - title: "NHBC Building Near Trees"
-          url: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
-        - title: "Trees Adjacent To Sewers (6th Ed.)"
-          url: /assets/images/sewers for adoption 6th edition.PNG
-        - title: "Fruit Tree Rootstocks"
-          url: https://www.orangepippintrees.co.uk/articles/how-to-choose-fruit-trees/fruit-tree-rootstock-tree-sizes
+    children:
+      - title: "Soilscapes Soil Viewer"
+        url: http://www.landis.org.uk/soilscapes/
+      - title: "Magic Map"
+        url: https://magic.defra.gov.uk/
+      - title: "Climate Matching Tool"
+        url: https://climatematch.org.uk/
+      - title: "RHS Plant Finder"
+        url: https://www.rhs.org.uk/plants/search-form
+      - title: "NHBC Building Near Trees"
+        url: https://nhbc-standards.co.uk/4-foundations/4-2-building-near-trees/4-2-4-the-effects-of-trees-on-shrinkable-soils/
+      - title: "Trees Adjacent To Sewers (6th Ed.)"
+        url: /assets/images/sewers for adoption 6th edition.PNG
+      - title: "Fruit Tree Rootstocks"
+        url: https://www.orangepippintrees.co.uk/articles/how-to-choose-fruit-trees/fruit-tree-rootstock-tree-sizes
         
   - title: Plant Species Lists
     children:
