@@ -11,6 +11,7 @@ docs:
     children:
       - title: "List of Posts"
         url: https://landscapedesigntips.co.uk/list%20of%20posts/
+
 - title: Useful External Links
     children:
       - title: "Soilscapes Soil Viewer"
@@ -47,7 +48,6 @@ docs:
       - title: "Drought Tolerant Trees (.PDF)"
         url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjiydKAxKDrAhXcQhUIHWMyC-4QFjAMegQIAhAB&url=https%3A%2F%2Fwww.forestresearch.gov.uk%2Fdocuments%2F2451%2FFR_Doick_BPG20_2015.pdf&usg=AOvVaw2GCeStSG1nIy2BLgUHV5gQ
 
-        
   - title: Heritage Fruit Varieties
     children:
       - title: "Bernwode Fruit Trees"
