@@ -51,7 +51,7 @@ gallery3:
 
 For examples of good and bad precedent images, see the gallery below.
 
-The next winners will have their photos added on **30th June 2021** for the theme **carpark planting**. To see the rules for entering, as well as information on what constitutes a 'good' and 'bad' precedent, refer to the [Precedent Gallery Info][precedent-info] page.
+The next theme will be **carpark planting**. To see what constitutes a 'good' and 'bad' precedent, refer to the [Precedent Gallery Info][precedent-info] page.
 
 [precedent-info]: /precedent gallery info/
 <BR>
