@@ -34,6 +34,7 @@ sidebar:
 [Sustainable Cemeteries (Part 2) - The Solutions][cemetery-two] <br><br>
 
 [Woodland Maintenance for Biodiversity (Part 1) - Introduction][woodland-one] <br>
+[Woodland Maintenance for Biodiversity (Part 2) - Actions][woodland-two] <br>
 
 [hedge-one]: /mixed-native-hedges-(part-1)/
 [hedge-two]: /mixed-native-hedges-(part-2)/
@@ -61,3 +62,4 @@ sidebar:
 [cemetery-two]: /sustainable-cemeteries-(part-2)/
 
 [woodland-one]: /Woodland-Maintenance-for-Biodiversity-(Part-1)/
+[woodland-two]: /Woodland-Maintenance-for-Biodiversity-(Part-2)/
