@@ -217,7 +217,7 @@ The following actions may be suitable for a site such as the Ponderosa woodland 
 <br>
 **5. Bulb Planting**
 
-<img src="/assets/bulb planting.jpg" alt="">
+<img src="/assets/images/bulb planting.jpg" alt="">
 <figcaption>Bulb planting using a grid (Image source: S. Uyterhoeven, 2009)</figcaption>
 
 * Would involve planting bulbs in groups within the woodland
