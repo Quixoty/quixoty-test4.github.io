@@ -264,7 +264,7 @@ The following actions may be suitable for a site such as the Ponderosa woodland 
 <br>
 **6. Tree Veterenisation**
 
-<img src="/assets/tree vet edit.PNG" alt="">
+<img src="/assets/images/tree vet edit.PNG" alt="">
 <figcaption>Tree veterenisation techniques, mainly using chainsaws (Image source: V. Bengtsson, 2012)</figcaption>
 
 * To involve damaging existing trees to form holes, crevices and cuts, in most cases without killing the tree
