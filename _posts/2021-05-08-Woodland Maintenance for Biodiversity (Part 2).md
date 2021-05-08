@@ -24,7 +24,7 @@ The following actions may be suitable for a site such as the Ponderosa woodland 
 <img src="/assets/images/forb edit.PNG" alt="">
 <figcaption>(Image source: Forests.co.uk, 2020)</figcaption>
 
-* Would involve establishing forbs (non-grass herbaceous species) within the ground layer
+* Would involve establishing forbs (non-grass herbaceous species) within the ground layer in areas with light shade
 * Could be established by a mix of seed sowing and planting (of containerised plants) to maximise chances of establishment
 * Select species with some shade tolerance
 
