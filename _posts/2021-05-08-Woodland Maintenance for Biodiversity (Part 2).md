@@ -188,6 +188,12 @@ Actions may include:
 * Provides a wider range of food sources and habitat for insects, pollinators, small mammals and birds etc.
 * Increased visual interest from increased tree species variety
 
+
+{% endcapture %}
+<div class="notice">
+  {{ notice-10 | markdownify }}
+</div>
+
 {% capture notice-11 %}
 
 #### When/frequency: 
