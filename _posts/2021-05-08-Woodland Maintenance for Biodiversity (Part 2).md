@@ -17,10 +17,7 @@ header:
 
 Specific maintenance actions can help improve biodiversity in low diversity woodlands by generally increasing species, age and structural variety within the woodland itself.
 
-The following actions may be suitable for a site such as the Ponderosa woodland (discussed in previous post) or similar sites suffering from a general lack of biodiversity. 
-
-Actions may include:
-
+The following actions may be suitable for a site such as the Ponderosa woodland (discussed in previous post) or similar sites suffering from a general lack of biodiversity. Actions may include:
 
 **1. Understorey/Ground Layer Creation:**
 
@@ -68,7 +65,7 @@ Actions may include:
   {{ notice-3 | markdownify }}
 </div>
 
-
+<br>
 **2. Rotational coppicing**
 
 <img src="/assets/images/urban countryman2 2012.jpg" alt="">
@@ -121,7 +118,7 @@ Actions may include:
   {{ notice-6 | markdownify }}
 </div>
 
-
+<br>
 **3. Thinning**
 
 <img src="/assets/images/ponderosa2teaser.JPG" alt="">
@@ -168,7 +165,7 @@ Actions may include:
 
 
 
-
+<br>
 **4. New Tree Planting**
 
 <img src="/assets/images/tree planting.jpg" alt="">
@@ -217,7 +214,7 @@ Actions may include:
   {{ notice-12 | markdownify }}
 </div>
 
-
+<br>
 **5. Bulb Planting**
 
 <img src="/assets/bulb planting.jpg" alt="">
@@ -264,7 +261,7 @@ Actions may include:
   {{ notice-15 | markdownify }}
 </div>
 
-
+<br>
 **6. Tree Veterenisation**
 
 <img src="/assets/tree vet edit.PNG" alt="">
@@ -326,7 +323,7 @@ Risks include the increased potential for trees or tree limbs to fall, potential
 </div>
 
 
-
+<br>
 **7. Habitat Structure Creation**
 
 <figure class="half">
