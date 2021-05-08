@@ -344,7 +344,7 @@ Risks include the increased potential for trees or tree limbs to fall, potential
 
 * To provide habitat for insects, deadwood invertebrates, solitary bees, reptiles, small mammals, birds etc.
 * Minimises carbon/energy used from transporting waste materials off site
-* Educational and social value when by local schools and volunteers
+* Educational and social value when involving local schools and volunteers
 
 {% endcapture %}
 <div class="notice">
